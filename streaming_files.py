@@ -35,7 +35,6 @@ if __name__ == '__main__':
                     shell=True)
     # Clear any files already present in the streaming dir
     subprocess.call('hadoop fs -rmr ' + streaming_dir + '/*')
-    
     # Get the count of files in staging dir
     count = subprocess.check_output(
             ['hdfs dfs -count ' + staging_dir+ ' | tail -1 | awk -F \' \' \'{print $2}\''],
