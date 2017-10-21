@@ -1,5 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.types import StructType
+from pyspark.sql.types import StringType
 import streaming_files
 from threading import thread
 
