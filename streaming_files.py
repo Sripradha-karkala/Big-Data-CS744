@@ -14,19 +14,23 @@ if __name__ == '__main__':
         print "Usage: python streaming_files <input_dir> <staging_dir>"
         exit();
 
-    input_dir = sys.argv[0];
-    staging_dir = sys.argv[1];
-
+    input_dir = sys.argv[1]
+    staging_dir = sys.argv[2]
+    
+    
     #Source the required variables
-    env_variables = subprocess.check_output('. ~/run.sh',
+    env_variables = subprocess.check_output('. ~/run.sh; env -0',
                                             shell=True,
                                             executable='/bin/bash')
     # Update the env for this python process
+    print env_variables
+
     os.environ.update(line.partition('=')[::2] for line in env_variables.split('\0'))
     # Get the count of files in staging dir
     count = subprocess.check_output(
             ['hdfs dfs -count ' + staging_dir+ ' | tail -1 | awk -F \' \' \'{print $2}\''],
             shell=True)
+    print count
     count = count.strip()
 
     while int(count) > 0:
@@ -36,12 +40,14 @@ if __name__ == '__main__':
         shell=True)
 
         filename = filename.strip()
-
+	print filename
         # Move the file to input_dir
-        subprocess.call('hdfs dfs -mv ' + staging_dir + '/' + filename + ' ' + input_dir)
+	command = 'hdfs dfs -mv ' + filename + ' ' + input_dir
+	print command
+        subprocess.call(command, shell=True)
         time.sleep(5)
         # Get the count again
-        count = subprocess.check_output(subprocess.check_output(
+        count = subprocess.check_output(
                 ['hdfs dfs -count ' + staging_dir + ' | tail -1 | awk -F \' \' \'{print $2}\''],
-                shell=True))
+                shell=True)
         count = count.strip()
