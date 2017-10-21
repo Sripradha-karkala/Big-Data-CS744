@@ -34,7 +34,9 @@ if __name__ == '__main__':
     subprocess.call('hadoop fs -copyFromLocal ' + LOCAL_PATH + '/* ' +staging_dir,
                     shell=True)
     # Clear any files already present in the streaming dir
-    subprocess.call('hadoop fs -rmr ' + streaming_dir + '/*')
+    subprocess.call('hadoop fs -rmr ' + streaming_dir + '/*',
+		    shell=True)
+    
     # Get the count of files in staging dir
     count = subprocess.check_output(
             ['hdfs dfs -count ' + staging_dir+ ' | tail -1 | awk -F \' \' \'{print $2}\''],
@@ -49,7 +51,7 @@ if __name__ == '__main__':
 
         filename = filename.strip()
         # Move the file to input_dir
-	    command = 'hdfs dfs -mv ' + filename + ' ' + streaming_dir
+	command = 'hdfs dfs -mv ' + filename + ' ' + streaming_dir
         subprocess.call(command, shell=True)
         time.sleep(5)
         # Get the count again
