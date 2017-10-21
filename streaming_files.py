@@ -3,6 +3,8 @@ import subprocess
 import time
 import os
 
+LOCAL_PATH = '/home/ubuntu/assign2/spark-streaming/split-dataset'
+
 if __name__ == '__main__':
     ''' The program periodically moves files from staging to the input directory
         which gives the effect of streaming data
@@ -16,21 +18,22 @@ if __name__ == '__main__':
 
     input_dir = sys.argv[1]
     staging_dir = sys.argv[2]
-    
-    
+
+
     #Source the required variables
     env_variables = subprocess.check_output('. ~/run.sh; env -0',
                                             shell=True,
                                             executable='/bin/bash')
-    # Update the env for this python process
-    print env_variables
 
     os.environ.update(line.partition('=')[::2] for line in env_variables.split('\0'))
+
+    # Copy from local for next iteration
+    subprocess.call('hadoop fs -copyFromLocal ' + LOCAL_PATH + '/* ' +staging_dir,
+                    shell=True)
     # Get the count of files in staging dir
     count = subprocess.check_output(
             ['hdfs dfs -count ' + staging_dir+ ' | tail -1 | awk -F \' \' \'{print $2}\''],
             shell=True)
-    print count
     count = count.strip()
 
     while int(count) > 0:
@@ -40,10 +43,8 @@ if __name__ == '__main__':
         shell=True)
 
         filename = filename.strip()
-	print filename
         # Move the file to input_dir
-	command = 'hdfs dfs -mv ' + filename + ' ' + input_dir
-	print command
+	    command = 'hdfs dfs -mv ' + filename + ' ' + input_dir
         subprocess.call(command, shell=True)
         time.sleep(5)
         # Get the count again
