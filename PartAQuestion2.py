@@ -38,16 +38,16 @@ if __name__ == '__main__':
 
     # Get the userids mentioned by other users
     userids = tweets.select('userB')\
-                    .where('interaction  == MT')
+                    .where("interaction  == 'MT'")
 
 
     query = userids \
             .writeStream \
             .outputMode('append') \
             .trigger(processingTime='10 seconds') \
-            .format('parquet') \
-	    .option('truncate', 'false') \
-	    .option('path', 'hdfs:/home/ubuntu/assign2/partA/question2_results') \
+            .format('csv') \
+	    .option('checkpointLocation', '/home/ubuntu/assign2/partA/question2_checkpoint') \
+	    .option('path', '/home/ubuntu/assign2/partA/question2_results') \
         .start()
 
     query.awaitTermination()
