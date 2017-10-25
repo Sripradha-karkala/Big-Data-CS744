@@ -13,11 +13,11 @@ UPDATE_DURATION='30 minutes'
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-        print "Usage: python PartAQuestion1.py <streaming_dir"
+        print "Usage: python PartAQuestion1.py <streaming_dir>"
         exit()
     streaming_dir = sys.argv[1]
 
-    streaming_files.initial_setup(STAGING_DIR, streaming_dir)    
+    streaming_files.initial_setup(STAGING_DIR, streaming_dir)
     # Start the streaming process
     streaming_thread = Thread(target=streaming_files.start_streaming, args=(STAGING_DIR, streaming_dir))
     streaming_thread.start()
@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
     tweets = spark \
              .readStream \
-             .csv('hdfs:/home/ubuntu/assign2/partA/streaming_dir', schema=input_schema)
+             .csv(streaming_dir, schema=input_schema)
 
     # Split the tweets to get values
     interactions = tweets.groupBy(
@@ -50,10 +50,10 @@ if __name__ == '__main__':
             .format('console') \
 	    .option('truncate', 'false') \
 	    .option('numRows', 100000000) \
-            .start()
+        .start()
 
     query.awaitTermination()
-    
+
     #  Run this as a separate thread
     # streaming_thread = Thread(target=streaming_files.start_streaming, args=(STAGING_DIR, streaming_dir))
     # streaming_thread.start()
