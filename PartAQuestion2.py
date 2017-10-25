@@ -47,7 +47,7 @@ if __name__ == '__main__':
             .trigger(processingTime='10 seconds') \
             .format('parquet') \
 	    .option('truncate', 'false') \
-	    .option('path', 'hdfs:/home/ubuntu/assign2/partA/question2.csv') \
+	    .option('path', 'hdfs:/home/ubuntu/assign2/partA/question2_results') \
         .start()
 
     query.awaitTermination()
