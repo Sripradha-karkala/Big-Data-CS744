@@ -10,7 +10,7 @@ import sys
 STAGING_DIR='/home/ubuntu/assign2/partA/split-dataset'
 
 if __name__ == '__main__':
-    if len(sys.argv) != 2:
+    if len(sys.argv) != 3:
         print "Usage: python PartAQuestion3.py <streaming_dir> <input_file>"
         exit()
     streaming_dir = sys.argv[1]
@@ -51,11 +51,13 @@ if __name__ == '__main__':
                     .count()
 
 
-    query = userids \
+    query = active_users \
             .writeStream \
             .outputMode('complete') \
             .trigger(processingTime='5 seconds') \
             .format('console') \
+	    .option('truncate', 'false') \
+            .option('numRows', 2147483645) \
         .start()
 
     query.awaitTermination()

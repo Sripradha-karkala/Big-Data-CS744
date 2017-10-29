@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
     # Split the tweets to get values
     interactions = tweets.groupBy(
-			window(tweets.timestamp, WINDOW_DURATION, UPDATE_DURATION),
+			window(tweets.timestamp, WINDOW_DURATION, UPDATE_DURATION).alias('window'),
 			tweets.interaction
 			).count()
 
@@ -49,11 +49,7 @@ if __name__ == '__main__':
             .outputMode('complete') \
             .format('console') \
 	    .option('truncate', 'false') \
-	    .option('numRows', 100000000) \
+	    .option('numRows', 2147483645) \
         .start()
 
     query.awaitTermination()
-
-    #  Run this as a separate thread
-    # streaming_thread = Thread(target=streaming_files.start_streaming, args=(STAGING_DIR, streaming_dir))
-    # streaming_thread.start()
