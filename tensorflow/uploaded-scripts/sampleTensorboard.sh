@@ -2,7 +2,7 @@
 export TF_LOG_DIR="/home/ubuntu/tf/logs"
 
 # run a simple program that generates logs for tensorboard
-python exampleTensorboard.py
+python exampleMatmulSingle.py
 
 # start the tensorboard web server. If you have started the webserver on the VM
 # a public ip, then you can view Tensorboard on the browser on your workstation
