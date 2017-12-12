@@ -1,0 +1,154 @@
+in main
+starting job logistic_regression
+starting job k-means
+{u'time_in_ms': 8.718013763, u'iteration': 1, u'gain': 0.2553, u'accuracy': 0.2553}
+iterations completed 63.7250147406
+gain  in the last iteration is  0.5525
+gain value for job logistic_regression is 0.552500
+{u'time_in_ms': 46.911955, u'iteration': 1, u'gain': 0.959259, u'accuracy': 0}
+iterations completed 9.68933088688
+gain  in the last iteration is  0.964815
+gain value for job k-means is 0.964815
+total gain 1.517315
+accuracy of the job logistic_regression is 0.552500
+accuracy of the job k-means is 0.964815
+allocation is {0: 72, 1: 127}
+{u'time_in_ms': 8.718013763, u'iteration': 1, u'gain': 0.2553, u'accuracy': 0.2553}
+{u'time_in_ms': 3.853797913, u'iteration': 2, u'gain': 0.2003, u'accuracy': 0.4556}
+{u'time_in_ms': 4.027843475, u'iteration': 3, u'gain': 0.1213, u'accuracy': 0.5769}
+{u'time_in_ms': 7.411003113, u'iteration': 4, u'gain': 0.0079, u'accuracy': 0.5848}
+{u'time_in_ms': 4.279136658, u'iteration': 5, u'gain': 0.0264, u'accuracy': 0.6112}
+{u'time_in_ms': 4.200935364, u'iteration': 6, u'gain': 0.0121, u'accuracy': 0.6233}
+{u'time_in_ms': 7.961034775, u'iteration': 7, u'gain': -0.0227, u'accuracy': 0.6006}
+{u'time_in_ms': 4.731893539, u'iteration': 8, u'gain': -0.0111, u'accuracy': 0.5895}
+{u'time_in_ms': 4.414081573, u'iteration': 9, u'gain': 0.0119, u'accuracy': 0.6014}
+{u'time_in_ms': 7.322072983, u'iteration': 10, u'gain': 0.026, u'accuracy': 0.6274}
+{u'time_in_ms': 4.364013672, u'iteration': 11, u'gain': 0.0062, u'accuracy': 0.6336}
+{u'time_in_ms': 4.051923752, u'iteration': 12, u'gain': 0.0109, u'accuracy': 0.6445}
+{u'time_in_ms': 7.271051407, u'iteration': 13, u'gain': 0.0067, u'accuracy': 0.6512}
+{u'time_in_ms': 4.143953323, u'iteration': 14, u'gain': 0.0338, u'accuracy': 0.685}
+{u'time_in_ms': 4.264116287, u'iteration': 15, u'gain': -0.0178, u'accuracy': 0.6672}
+{u'time_in_ms': 4.793167114, u'iteration': 16, u'gain': 0.0116, u'accuracy': 0.6788}
+{u'time_in_ms': 7.099151611, u'iteration': 17, u'gain': -0.0105, u'accuracy': 0.6683}
+{u'time_in_ms': 4.04715538, u'iteration': 18, u'gain': -0.01, u'accuracy': 0.6583}
+{u'time_in_ms': 7.142066956, u'iteration': 19, u'gain': 0.0351, u'accuracy': 0.6934}
+{u'time_in_ms': 4.588127136, u'iteration': 20, u'gain': -0.0176, u'accuracy': 0.6758}
+{u'time_in_ms': 4.094839096, u'iteration': 21, u'gain': 0.0107, u'accuracy': 0.6865}
+{u'time_in_ms': 4.256010056, u'iteration': 22, u'gain': 0.0105, u'accuracy': 0.697}
+{u'time_in_ms': 6.561040878, u'iteration': 23, u'gain': -0.0052, u'accuracy': 0.6918}
+{u'time_in_ms': 4.469156265, u'iteration': 24, u'gain': -0.0131, u'accuracy': 0.6787}
+{u'time_in_ms': 5.269050598, u'iteration': 25, u'gain': 0.0282, u'accuracy': 0.7069}
+{u'time_in_ms': 4.030942917, u'iteration': 26, u'gain': -0.0057, u'accuracy': 0.7012}
+{u'time_in_ms': 3.908872604, u'iteration': 27, u'gain': 0.0038, u'accuracy': 0.705}
+{u'time_in_ms': 4.195928574, u'iteration': 28, u'gain': -0.0008, u'accuracy': 0.7042}
+{u'time_in_ms': 7.112979889, u'iteration': 29, u'gain': -0.1517, u'accuracy': 0.5525}
+killed job 0
+{u'time_in_ms': 46.911955, u'iteration': 1, u'gain': 0.959259, u'accuracy': 0}
+{u'time_in_ms': 41.971922, u'iteration': 2, u'gain': -0.007407, u'accuracy': 0.959259}
+{u'time_in_ms': 42.572975, u'iteration': 3, u'gain': 0.014815, u'accuracy': 0.951852}
+{u'time_in_ms': 43.061018, u'iteration': 4, u'gain': 0, u'accuracy': 0.966667}
+{u'time_in_ms': 41.301966, u'iteration': 5, u'gain': -0.001852, u'accuracy': 0.966667}
+{u'time_in_ms': 45.522928, u'iteration': 6, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 39.973021, u'iteration': 7, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 39.494991, u'iteration': 8, u'gain': -0.007407, u'accuracy': 0.964815}
+{u'time_in_ms': 39.883852, u'iteration': 9, u'gain': 0.007407, u'accuracy': 0.957407}
+{u'time_in_ms': 39.374113, u'iteration': 10, u'gain': 0, u'accuracy': 0.964815}
+iterations completed 14.6612249341
+gain  in the last iteration is  0.0
+gain value for job k-means is 0.000000
+total gain 0.0
+accuracy of the job k-means is 0.959259
+allocation is {0: 0, 1: 10}
+{u'time_in_ms': 46.911955, u'iteration': 1, u'gain': 0.959259, u'accuracy': 0}
+{u'time_in_ms': 41.971922, u'iteration': 2, u'gain': -0.007407, u'accuracy': 0.959259}
+{u'time_in_ms': 42.572975, u'iteration': 3, u'gain': 0.014815, u'accuracy': 0.951852}
+{u'time_in_ms': 43.061018, u'iteration': 4, u'gain': 0, u'accuracy': 0.966667}
+{u'time_in_ms': 41.301966, u'iteration': 5, u'gain': -0.001852, u'accuracy': 0.966667}
+{u'time_in_ms': 45.522928, u'iteration': 6, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 39.973021, u'iteration': 7, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 39.494991, u'iteration': 8, u'gain': -0.007407, u'accuracy': 0.964815}
+{u'time_in_ms': 39.883852, u'iteration': 9, u'gain': 0.007407, u'accuracy': 0.957407}
+{u'time_in_ms': 39.374113, u'iteration': 10, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 51.087856, u'iteration': 11, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 38.989067, u'iteration': 12, u'gain': 0.007407, u'accuracy': 0.964815}
+{u'time_in_ms': 39.699078, u'iteration': 13, u'gain': 0.007407, u'accuracy': 0.972222}
+{u'time_in_ms': 40.128946, u'iteration': 14, u'gain': -0.014815, u'accuracy': 0.97963}
+{u'time_in_ms': 39.32786, u'iteration': 15, u'gain': 0.014815, u'accuracy': 0.964815}
+{u'time_in_ms': 42.748928, u'iteration': 16, u'gain': -0.007407, u'accuracy': 0.97963}
+{u'time_in_ms': 40.104866, u'iteration': 17, u'gain': 0, u'accuracy': 0.972222}
+{u'time_in_ms': 39.975882, u'iteration': 18, u'gain': 0, u'accuracy': 0.972222}
+{u'time_in_ms': 39.098024, u'iteration': 19, u'gain': 0.007407, u'accuracy': 0.972222}
+{u'time_in_ms': 42.563915, u'iteration': 20, u'gain': 0, u'accuracy': 0.97963}
+{u'time_in_ms': 40.439129, u'iteration': 21, u'gain': 0, u'accuracy': 0.97963}
+{u'time_in_ms': 39.956093, u'iteration': 22, u'gain': -0.007407, u'accuracy': 0.97963}
+{u'time_in_ms': 41.315079, u'iteration': 23, u'gain': -0.012963, u'accuracy': 0.972222}
+{u'time_in_ms': 38.672924, u'iteration': 24, u'gain': 0.005556, u'accuracy': 0.959259}
+iterations completed 1.17535838393
+gain  in the last iteration is  0.0
+gain value for job k-means is 0.000000
+total gain 0.0
+accuracy of the job k-means is 0.964815
+allocation is {0: 0, 1: 10}
+{u'time_in_ms': 46.911955, u'iteration': 1, u'gain': 0.959259, u'accuracy': 0}
+{u'time_in_ms': 41.971922, u'iteration': 2, u'gain': -0.007407, u'accuracy': 0.959259}
+{u'time_in_ms': 42.572975, u'iteration': 3, u'gain': 0.014815, u'accuracy': 0.951852}
+{u'time_in_ms': 43.061018, u'iteration': 4, u'gain': 0, u'accuracy': 0.966667}
+{u'time_in_ms': 41.301966, u'iteration': 5, u'gain': -0.001852, u'accuracy': 0.966667}
+{u'time_in_ms': 45.522928, u'iteration': 6, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 39.973021, u'iteration': 7, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 39.494991, u'iteration': 8, u'gain': -0.007407, u'accuracy': 0.964815}
+{u'time_in_ms': 39.883852, u'iteration': 9, u'gain': 0.007407, u'accuracy': 0.957407}
+{u'time_in_ms': 39.374113, u'iteration': 10, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 51.087856, u'iteration': 11, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 38.989067, u'iteration': 12, u'gain': 0.007407, u'accuracy': 0.964815}
+{u'time_in_ms': 39.699078, u'iteration': 13, u'gain': 0.007407, u'accuracy': 0.972222}
+{u'time_in_ms': 40.128946, u'iteration': 14, u'gain': -0.014815, u'accuracy': 0.97963}
+{u'time_in_ms': 39.32786, u'iteration': 15, u'gain': 0.014815, u'accuracy': 0.964815}
+{u'time_in_ms': 42.748928, u'iteration': 16, u'gain': -0.007407, u'accuracy': 0.97963}
+{u'time_in_ms': 40.104866, u'iteration': 17, u'gain': 0, u'accuracy': 0.972222}
+{u'time_in_ms': 39.975882, u'iteration': 18, u'gain': 0, u'accuracy': 0.972222}
+{u'time_in_ms': 39.098024, u'iteration': 19, u'gain': 0.007407, u'accuracy': 0.972222}
+{u'time_in_ms': 42.563915, u'iteration': 20, u'gain': 0, u'accuracy': 0.97963}
+{u'time_in_ms': 40.439129, u'iteration': 21, u'gain': 0, u'accuracy': 0.97963}
+{u'time_in_ms': 39.956093, u'iteration': 22, u'gain': -0.007407, u'accuracy': 0.97963}
+{u'time_in_ms': 41.315079, u'iteration': 23, u'gain': -0.012963, u'accuracy': 0.972222}
+{u'time_in_ms': 38.672924, u'iteration': 24, u'gain': 0.005556, u'accuracy': 0.959259}
+{u'time_in_ms': 39.216042, u'iteration': 25, u'gain': -0.005556, u'accuracy': 0.964815}
+iterations completed 1.15908039507
+gain  in the last iteration is  0.0
+gain value for job k-means is 0.000000
+total gain 0.0
+accuracy of the job k-means is 0.959259
+allocation is {0: 0, 1: 10}
+{u'time_in_ms': 46.911955, u'iteration': 1, u'gain': 0.959259, u'accuracy': 0}
+{u'time_in_ms': 41.971922, u'iteration': 2, u'gain': -0.007407, u'accuracy': 0.959259}
+{u'time_in_ms': 42.572975, u'iteration': 3, u'gain': 0.014815, u'accuracy': 0.951852}
+{u'time_in_ms': 43.061018, u'iteration': 4, u'gain': 0, u'accuracy': 0.966667}
+{u'time_in_ms': 41.301966, u'iteration': 5, u'gain': -0.001852, u'accuracy': 0.966667}
+{u'time_in_ms': 45.522928, u'iteration': 6, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 39.973021, u'iteration': 7, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 39.494991, u'iteration': 8, u'gain': -0.007407, u'accuracy': 0.964815}
+{u'time_in_ms': 39.883852, u'iteration': 9, u'gain': 0.007407, u'accuracy': 0.957407}
+{u'time_in_ms': 39.374113, u'iteration': 10, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 51.087856, u'iteration': 11, u'gain': 0, u'accuracy': 0.964815}
+{u'time_in_ms': 38.989067, u'iteration': 12, u'gain': 0.007407, u'accuracy': 0.964815}
+{u'time_in_ms': 39.699078, u'iteration': 13, u'gain': 0.007407, u'accuracy': 0.972222}
+{u'time_in_ms': 40.128946, u'iteration': 14, u'gain': -0.014815, u'accuracy': 0.97963}
+{u'time_in_ms': 39.32786, u'iteration': 15, u'gain': 0.014815, u'accuracy': 0.964815}
+{u'time_in_ms': 42.748928, u'iteration': 16, u'gain': -0.007407, u'accuracy': 0.97963}
+{u'time_in_ms': 40.104866, u'iteration': 17, u'gain': 0, u'accuracy': 0.972222}
+{u'time_in_ms': 39.975882, u'iteration': 18, u'gain': 0, u'accuracy': 0.972222}
+{u'time_in_ms': 39.098024, u'iteration': 19, u'gain': 0.007407, u'accuracy': 0.972222}
+{u'time_in_ms': 42.563915, u'iteration': 20, u'gain': 0, u'accuracy': 0.97963}
+{u'time_in_ms': 40.439129, u'iteration': 21, u'gain': 0, u'accuracy': 0.97963}
+{u'time_in_ms': 39.956093, u'iteration': 22, u'gain': -0.007407, u'accuracy': 0.97963}
+{u'time_in_ms': 41.315079, u'iteration': 23, u'gain': -0.012963, u'accuracy': 0.972222}
+{u'time_in_ms': 38.672924, u'iteration': 24, u'gain': 0.005556, u'accuracy': 0.959259}
+{u'time_in_ms': 39.216042, u'iteration': 25, u'gain': -0.005556, u'accuracy': 0.964815}
+{u'time_in_ms': 40.43889, u'iteration': 26, u'gain': 0.005556, u'accuracy': 0.959259}
+iterations completed 1.12403049279
+gain  in the last iteration is  0.0
+gain value for job k-means is 0.000000
+total gain 0.0
+accuracy of the job k-means is 0.964815
+allocation is {0: 0, 1: 10}

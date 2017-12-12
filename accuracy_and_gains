@@ -1,0 +1,36 @@
+starting job logistic_regression
+starting job k-means
+running slaq
+1.12570741825
+accuracy of the job logistic_regression is 0.159040
+accuracy of the job k-means is 0.966667
+0.012962
+accuracy of the job logistic_regression is 0.159040
+accuracy of the job k-means is 0.972222
+-0.02037
+accuracy of the job logistic_regression is 0.159040
+accuracy of the job k-means is 0.972222
+-0.005556
+accuracy of the job logistic_regression is 0.159040
+accuracy of the job k-means is 0.953704
+killed job 1
+0
+accuracy of the job logistic_regression is 0.159040
+starting job logistic_regression
+starting job k-means
+running fair sched
+1.12570741825
+accuracy of the job logistic_regression is 0.159040
+accuracy of the job k-means is 0.966667
+0.09849133189
+accuracy of the job logistic_regression is 0.259384
+accuracy of the job k-means is 0.957407
+0.05869608635
+accuracy of the job logistic_regression is 0.318081
+accuracy of the job k-means is 0.979630
+0.04386505857
+accuracy of the job logistic_regression is 0.347131
+accuracy of the job k-means is 0.972222
+0.0200977835
+accuracy of the job logistic_regression is 0.382043
+accuracy of the job k-means is 0.959259

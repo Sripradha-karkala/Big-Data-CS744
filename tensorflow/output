@@ -1,0 +1,22 @@
+2017-12-02 21:31:05,357 INFO     Accuracy: 0.256000
+2017-12-02 21:31:06,763 INFO     Iteration no: 2969
+2017-12-02 21:31:06,765 INFO     Time taken: 0.002267
+2017-12-02 21:31:06,765 INFO     Iteration no: 2968
+2017-12-02 21:31:06,768 INFO     Time taken: 0.002648
+2017-12-02 21:31:06,768 INFO     Iteration no: 2967
+2017-12-02 21:31:06,771 INFO     Time taken: 0.002583
+2017-12-02 21:31:06,771 INFO     Iteration no: 2966
+2017-12-02 21:31:06,772 INFO     Time taken: 0.001213
+2017-12-02 21:31:06,772 INFO     Iteration no: 2965
+2017-12-02 21:31:06,775 INFO     Time taken: 0.002403
+2017-12-02 21:31:06,775 INFO     Iteration no: 2964
+2017-12-02 21:31:06,777 INFO     Time taken: 0.002468
+2017-12-02 21:31:06,778 INFO     Iteration no: 2963
+2017-12-02 21:31:06,779 INFO     Time taken: 0.001305
+2017-12-02 21:31:06,779 INFO     Iteration no: 2962
+2017-12-02 21:31:06,780 INFO     Time taken: 0.001152
+2017-12-02 21:31:06,780 INFO     Iteration no: 2961
+2017-12-02 21:31:06,782 INFO     Time taken: 0.001290
+2017-12-02 21:31:06,782 INFO     Iteration no: 2960
+2017-12-02 21:31:06,783 INFO     Time taken: 0.001295
+2017-12-02 21:31:07,590 INFO     Error reported to Coordinator: <class 'tensorflow.python.framework.errors.CancelledError'>, RunManyGraphs

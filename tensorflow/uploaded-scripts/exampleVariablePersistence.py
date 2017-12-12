@@ -23,7 +23,7 @@ assign2 = Y.assign_add(b)
 
 
 config = tf.ConfigProto(log_device_placement=True)
-with tf.Session("grpc://vm-48-%d:2222" % (FLAGS.task_index + 1), config=config)  as sess:
+with tf.Session("grpc://vm-17-%d:2222" % (FLAGS.task_index + 1), config=config)  as sess:
 
     tf.train.SummaryWriter("%s/asyncsgd" % (os.environ.get("TF_LOG_DIR")), sess.graph)
 
