@@ -1,0 +1,1966 @@
+starting job logistic_regression
+starting job k-means
+starting job sigmoid
+running slaq
+iterations completed 6.56298457013
+setting accuracy {u'time_in_ms': 100.564003, u'iteration': 1, u'gain': 0.1003433319, u'accuracy': 0.1003433319}
+setting accuracy {u'time_in_ms': 89.52498436, u'iteration': 2, u'gain': 0.05869708635, u'accuracy': 0.1590404182}
+setting accuracy {u'time_in_ms': 90.55113792, u'iteration': 3, u'gain': 0.04164624554, u'accuracy': 0.2006866638}
+setting accuracy {u'time_in_ms': 97.63598442, u'iteration': 4, u'gain': 0.03230333767, u'accuracy': 0.2329900014}
+setting accuracy {u'time_in_ms': 95.99304199, u'iteration': 5, u'gain': 0.02639374868, u'accuracy': 0.2593837501}
+setting accuracy {u'time_in_ms': 86.70687675, u'iteration': 6, u'gain': 0.02231559654, u'accuracy': 0.2816993467}
+gain  in the last epoch is  0.28169934668
+iterations completed 14.9100125386
+setting accuracy {u'time_in_ms': 55.33194542, u'iteration': 1, u'gain': 0, u'accuracy': 0.001499998875}
+setting accuracy {u'time_in_ms': 47.56712914, u'iteration': 2, u'gain': 0.001499992125, u'accuracy': 0.002999991}
+setting accuracy {u'time_in_ms': 47.48415947, u'iteration': 3, u'gain': 0.001499978625, u'accuracy': 0.004499969625}
+setting accuracy {u'time_in_ms': 46.29087448, u'iteration': 4, u'gain': 0.001499958376, u'accuracy': 0.005999928001}
+setting accuracy {u'time_in_ms': 43.29109192, u'iteration': 5, u'gain': 0.001499931377, u'accuracy': 0.007499859378}
+setting accuracy {u'time_in_ms': 40.41099548, u'iteration': 6, u'gain': 0.00149989763, u'accuracy': 0.008999757008}
+setting accuracy {u'time_in_ms': 43.25413704, u'iteration': 7, u'gain': 0.001499857134, u'accuracy': 0.01049961414}
+setting accuracy {u'time_in_ms': 43.41292381, u'iteration': 8, u'gain': 0.001499809891, u'accuracy': 0.01199942403}
+setting accuracy {u'time_in_ms': 42.72007942, u'iteration': 9, u'gain': 0.001499755902, u'accuracy': 0.01349917993}
+setting accuracy {u'time_in_ms': 44.23689842, u'iteration': 10, u'gain': 0.001499695166, u'accuracy': 0.0149988751}
+setting accuracy {u'time_in_ms': 53.52210999, u'iteration': 11, u'gain': 0.001499627687, u'accuracy': 0.01649850279}
+setting accuracy {u'time_in_ms': 41.50891304, u'iteration': 12, u'gain': 0.001499553464, u'accuracy': 0.01799805625}
+setting accuracy {u'time_in_ms': 43.60985756, u'iteration': 13, u'gain': 0.001499472499, u'accuracy': 0.01949752875}
+setting accuracy {u'time_in_ms': 43.00618172, u'iteration': 14, u'gain': 0.001499384794, u'accuracy': 0.02099691354}
+gain  in the last epoch is  0.01949691467
+iterations completed 3.77492988015
+setting accuracy {u'time_in_ms': 270.966053, u'iteration': 1, u'gain': 0.5, u'accuracy': 0.5}
+setting accuracy {u'time_in_ms': 272.4318504, u'iteration': 2, u'gain': 0.1666666667, u'accuracy': 0.6666666667}
+setting accuracy {u'time_in_ms': 273.6918926, u'iteration': 3, u'gain': 0.08333333333, u'accuracy': 0.75}
+gain  in the last epoch is  0.75000000003
+total gain 1.05119626138
+accuracy of the job logistic_regression is 0.281699
+accuracy of the job k-means is 0.020997
+accuracy of the job sigmoid is 0.750000
+allocation is {0: 53.59595672651801, 1: 3.7094718438980463, 2: 142.69457142958396}
+iterations completed 5.2888855993
+setting accuracy {u'time_in_ms': 101.336956, u'iteration': 7, u'gain': 0.01933064899, u'accuracy': 0.3010299957}
+setting accuracy {u'time_in_ms': 91.72201157, u'iteration': 8, u'gain': 0.01705084082, u'accuracy': 0.3180808365}
+setting accuracy {u'time_in_ms': 97.10621834, u'iteration': 9, u'gain': 0.01525249685, u'accuracy': 0.3333333333}
+setting accuracy {u'time_in_ms': 90.58189392, u'iteration': 10, u'gain': 0.01379756172, u'accuracy': 0.3471308951}
+setting accuracy {u'time_in_ms': 89.36691284, u'iteration': 11, u'gain': 0.01259618696, u'accuracy': 0.359727082}
+gain  in the last epoch is  0.07802773534
+iterations completed 1.12236355837
+setting accuracy {u'time_in_ms': 41.31317139, u'iteration': 15, u'gain': 0.001499290349, u'accuracy': 0.02249620389}
+gain  in the last epoch is  0.001499290349
+iterations completed 8.10826014526
+setting accuracy {u'time_in_ms': 293.3111191, u'iteration': 4, u'gain': 0.05, u'accuracy': 0.8}
+setting accuracy {u'time_in_ms': 271.0781097, u'iteration': 5, u'gain': 0.03333333333, u'accuracy': 0.8333333333}
+setting accuracy {u'time_in_ms': 273.1227875, u'iteration': 6, u'gain': 0.02380952381, u'accuracy': 0.8571428571}
+setting accuracy {u'time_in_ms': 273.0979919, u'iteration': 7, u'gain': 0.01785714286, u'accuracy': 0.875}
+setting accuracy {u'time_in_ms': 274.0120888, u'iteration': 8, u'gain': 0.01388888889, u'accuracy': 0.8888888889}
+setting accuracy {u'time_in_ms': 275.2289772, u'iteration': 9, u'gain': 0.01111111111, u'accuracy': 0.9}
+setting accuracy {u'time_in_ms': 269.8531151, u'iteration': 10, u'gain': 0.009090909091, u'accuracy': 0.9090909091}
+setting accuracy {u'time_in_ms': 277.0180702, u'iteration': 11, u'gain': 0.007575757576, u'accuracy': 0.9166666667}
+gain  in the last epoch is  0.166666666667
+total gain 0.246193692356
+accuracy of the job logistic_regression is 0.359727
+accuracy of the job k-means is 0.022496
+accuracy of the job sigmoid is 0.916667
+allocation is {0: 63.38727413630944, 1: 1.2179762484182597, 2: 135.3947496152723}
+iterations completed 7.19403127605
+setting accuracy {u'time_in_ms': 88.11092377, u'iteration': 12, u'gain': 0.01158736875, u'accuracy': 0.3713144508}
+setting accuracy {u'time_in_ms': 136.2957954, u'iteration': 13, u'gain': 0.01072822779, u'accuracy': 0.3820426786}
+setting accuracy {u'time_in_ms': 219.9959755, u'iteration': 14, u'gain': 0.009987741126, u'accuracy': 0.3920304197}
+setting accuracy {u'time_in_ms': 102.5280952, u'iteration': 15, u'gain': 0.009342907867, u'accuracy': 0.4013733276}
+setting accuracy {u'time_in_ms': 101.225853, u'iteration': 16, u'gain': 0.008776312907, u'accuracy': 0.4101496405}
+setting accuracy {u'time_in_ms': 88.42492104, u'iteration': 17, u'gain': 0.008274527908, u'accuracy': 0.4184241684}
+setting accuracy {u'time_in_ms': 84.2602253, u'iteration': 18, u'gain': 0.00782703195, u'accuracy': 0.4262512003}
+gain  in the last epoch is  0.066524118298
+iterations completed 0.351934091347
+gain  in the last epoch is  0
+iterations completed 8.23181738894
+setting accuracy {u'time_in_ms': 274.1289139, u'iteration': 12, u'gain': 0.00641025641, u'accuracy': 0.9230769231}
+setting accuracy {u'time_in_ms': 275.4840851, u'iteration': 13, u'gain': 0.005494505495, u'accuracy': 0.9285714286}
+setting accuracy {u'time_in_ms': 276.0620117, u'iteration': 14, u'gain': 0.004761904762, u'accuracy': 0.9333333333}
+setting accuracy {u'time_in_ms': 273.3130455, u'iteration': 15, u'gain': 0.004166666667, u'accuracy': 0.9375}
+setting accuracy {u'time_in_ms': 276.237011, u'iteration': 16, u'gain': 0.003676470588, u'accuracy': 0.9411764706}
+setting accuracy {u'time_in_ms': 281.0900211, u'iteration': 17, u'gain': 0.003267973856, u'accuracy': 0.9444444444}
+setting accuracy {u'time_in_ms': 352.9450893, u'iteration': 18, u'gain': 0.002923976608, u'accuracy': 0.9473684211}
+setting accuracy {u'time_in_ms': 387.9239559, u'iteration': 19, u'gain': 0.002631578947, u'accuracy': 0.95}
+gain  in the last epoch is  0.033333333333
+total gain 0.099857451631
+accuracy of the job logistic_regression is 0.426251
+accuracy of the job k-means is 0.022496
+accuracy of the job sigmoid is 0.950000
+allocation is {0: 126.57625715631757, 1: 10, 2: 63.42374284368242}
+iterations completed 12.7102448609
+setting accuracy {u'time_in_ms': 99.58600998, u'iteration': 19, u'gain': 0.007425464904, u'accuracy': 0.4336766652}
+setting accuracy {u'time_in_ms': 89.38097954, u'iteration': 20, u'gain': 0.00706309969, u'accuracy': 0.4407397649}
+setting accuracy {u'time_in_ms': 97.19896317, u'iteration': 21, u'gain': 0.006734462029, u'accuracy': 0.4474742269}
+setting accuracy {u'time_in_ms': 90.09003639, u'iteration': 22, u'gain': 0.006435051732, u'accuracy': 0.4539092787}
+setting accuracy {u'time_in_ms': 105.1578522, u'iteration': 23, u'gain': 0.006161135231, u'accuracy': 0.4600704139}
+setting accuracy {u'time_in_ms': 93.77598763, u'iteration': 24, u'gain': 0.005909588987, u'accuracy': 0.4659800029}
+setting accuracy {u'time_in_ms': 93.46103668, u'iteration': 25, u'gain': 0.005677779766, u'accuracy': 0.4716577827}
+setting accuracy {u'time_in_ms': 96.33493423, u'iteration': 26, u'gain': 0.005463472063, u'accuracy': 0.4771212547}
+setting accuracy {u'time_in_ms': 218.5940742, u'iteration': 27, u'gain': 0.005264755728, u'accuracy': 0.4823860104}
+setting accuracy {u'time_in_ms': 266.0620213, u'iteration': 28, u'gain': 0.005079988852, u'accuracy': 0.4874659993}
+setting accuracy {u'time_in_ms': 137.6068592, u'iteration': 29, u'gain': 0.004907752274, u'accuracy': 0.4923737516}
+setting accuracy {u'time_in_ms': 98.63400459, u'iteration': 30, u'gain': 0.004746813038, u'accuracy': 0.4971205646}
+gain  in the last epoch is  0.070869364294
+iterations completed 2.8894988043
+setting accuracy {u'time_in_ms': 43.2600975, u'iteration': 16, u'gain': 0.001499189168, u'accuracy': 0.02399539306}
+setting accuracy {u'time_in_ms': 42.56391525, u'iteration': 17, u'gain': 0.001499081251, u'accuracy': 0.02549447431}
+gain  in the last epoch is  0.002998270419
+iterations completed 3.49218052991
+setting accuracy {u'time_in_ms': 302.6940823, u'iteration': 20, u'gain': 0.002380952381, u'accuracy': 0.9523809524}
+setting accuracy {u'time_in_ms': 363.3191586, u'iteration': 21, u'gain': 0.002164502165, u'accuracy': 0.9545454545}
+setting accuracy {u'time_in_ms': 281.2490463, u'iteration': 22, u'gain': 0.001976284585, u'accuracy': 0.9565217391}
+gain  in the last epoch is  0.006521739131
+total gain 0.080389373844
+accuracy of the job logistic_regression is 0.497121
+accuracy of the job k-means is 0.025494
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 176.31525388299676, 1: 7.459370002852141, 2: 16.22537611415109}
+iterations completed 17.2934493484
+setting accuracy {u'time_in_ms': 101.954937, u'iteration': 31, u'gain': 0.004596094829, u'accuracy': 0.5017166594}
+setting accuracy {u'time_in_ms': 108.5169315, u'iteration': 32, u'gain': 0.004454653853, u'accuracy': 0.5061713133}
+setting accuracy {u'time_in_ms': 110.1269722, u'iteration': 33, u'gain': 0.004321659055, u'accuracy': 0.5104929723}
+setting accuracy {u'time_in_ms': 108.0400944, u'iteration': 34, u'gain': 0.004196375769, u'accuracy': 0.5146893481}
+setting accuracy {u'time_in_ms': 118.9880371, u'iteration': 35, u'gain': 0.004078152139, u'accuracy': 0.5187675003}
+setting accuracy {u'time_in_ms': 101.9699574, u'iteration': 36, u'gain': 0.003966407767, u'accuracy': 0.522733908}
+setting accuracy {u'time_in_ms': 108.5169315, u'iteration': 37, u'gain': 0.003860624183, u'accuracy': 0.5265945322}
+setting accuracy {u'time_in_ms': 100.3651619, u'iteration': 38, u'gain': 0.003760336803, u'accuracy': 0.530354869}
+setting accuracy {u'time_in_ms': 104.583025, u'iteration': 39, u'gain': 0.0036651281, u'accuracy': 0.5340199971}
+setting accuracy {u'time_in_ms': 99.86591339, u'iteration': 40, u'gain': 0.003574621797, u'accuracy': 0.5375946189}
+setting accuracy {u'time_in_ms': 89.46204185, u'iteration': 41, u'gain': 0.003488477893, u'accuracy': 0.5410830968}
+setting accuracy {u'time_in_ms': 99.81107712, u'iteration': 42, u'gain': 0.003406388394, u'accuracy': 0.5444894852}
+setting accuracy {u'time_in_ms': 93.81604195, u'iteration': 43, u'gain': 0.003328073636, u'accuracy': 0.5478175588}
+setting accuracy {u'time_in_ms': 104.4490337, u'iteration': 44, u'gain': 0.003253279096, u'accuracy': 0.5510708379}
+setting accuracy {u'time_in_ms': 86.74407005, u'iteration': 45, u'gain': 0.003181772635, u'accuracy': 0.5542526106}
+setting accuracy {u'time_in_ms': 85.94298363, u'iteration': 46, u'gain': 0.003113342085, u'accuracy': 0.5573659526}
+setting accuracy {u'time_in_ms': 87.9919529, u'iteration': 47, u'gain': 0.003047793147, u'accuracy': 0.5604137458}
+gain  in the last epoch is  0.063293181181
+iterations completed 2.14561654015
+setting accuracy {u'time_in_ms': 43.45703125, u'iteration': 18, u'gain': 0.0014989666, u'accuracy': 0.02699344091}
+setting accuracy {u'time_in_ms': 42.38581657, u'iteration': 19, u'gain': 0.001498845219, u'accuracy': 0.02849228613}
+gain  in the last epoch is  0.002997811819
+iterations completed 0.92196019575
+gain  in the last epoch is  0
+total gain 0.066290993
+accuracy of the job logistic_regression is 0.560414
+accuracy of the job k-means is 0.028492
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 181.40781847075365, 1: 8.592181529246366, 2: 10}
+iterations completed 18.405095672
+setting accuracy {u'time_in_ms': 98.56390953, u'iteration': 48, u'gain': 0.002984947551, u'accuracy': 0.5633986933}
+setting accuracy {u'time_in_ms': 89.22195435, u'iteration': 49, u'gain': 0.002924641436, u'accuracy': 0.5663233348}
+setting accuracy {u'time_in_ms': 87.38589287, u'iteration': 50, u'gain': 0.002866723921, u'accuracy': 0.5691900587}
+setting accuracy {u'time_in_ms': 91.95899963, u'iteration': 51, u'gain': 0.002811055846, u'accuracy': 0.5720011145}
+setting accuracy {u'time_in_ms': 100.6100178, u'iteration': 52, u'gain': 0.002757508655, u'accuracy': 0.5747586232}
+setting accuracy {u'time_in_ms': 87.59498596, u'iteration': 53, u'gain': 0.002705963407, u'accuracy': 0.5774645866}
+setting accuracy {u'time_in_ms': 97.27501869, u'iteration': 54, u'gain': 0.00265630989, u'accuracy': 0.5801208965}
+setting accuracy {u'time_in_ms': 94.05207634, u'iteration': 55, u'gain': 0.002608445837, u'accuracy': 0.5827293423}
+setting accuracy {u'time_in_ms': 93.65391731, u'iteration': 56, u'gain': 0.002562276222, u'accuracy': 0.5852916186}
+setting accuracy {u'time_in_ms': 101.2179852, u'iteration': 57, u'gain': 0.00251771263, u'accuracy': 0.5878093312}
+setting accuracy {u'time_in_ms': 97.15890884, u'iteration': 58, u'gain': 0.002474672693, u'accuracy': 0.5902840039}
+setting accuracy {u'time_in_ms': 89.26892281, u'iteration': 59, u'gain': 0.00243307958, u'accuracy': 0.5927170835}
+setting accuracy {u'time_in_ms': 101.6321182, u'iteration': 60, u'gain': 0.002392861542, u'accuracy': 0.595109945}
+setting accuracy {u'time_in_ms': 144.9708939, u'iteration': 61, u'gain': 0.002353951496, u'accuracy': 0.5974638965}
+setting accuracy {u'time_in_ms': 110.4881763, u'iteration': 62, u'gain': 0.002316286652, u'accuracy': 0.5997801832}
+setting accuracy {u'time_in_ms': 99.15518761, u'iteration': 63, u'gain': 0.002279808177, u'accuracy': 0.6020599913}
+setting accuracy {u'time_in_ms': 94.1491127, u'iteration': 64, u'gain': 0.002244460886, u'accuracy': 0.6043044522}
+setting accuracy {u'time_in_ms': 142.4221992, u'iteration': 65, u'gain': 0.002210192966, u'accuracy': 0.6065146452}
+gain  in the last epoch is  0.046100899387
+iterations completed 2.47618657795
+setting accuracy {u'time_in_ms': 43.37406158, u'iteration': 20, u'gain': 0.001498717108, u'accuracy': 0.02999100324}
+setting accuracy {u'time_in_ms': 45.30501366, u'iteration': 21, u'gain': 0.00149858227, u'accuracy': 0.03148958551}
+gain  in the last epoch is  0.002997299378
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.049098198765
+accuracy of the job logistic_regression is 0.606515
+accuracy of the job k-means is 0.031490
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 178.4010636613015, 1: 11.598936338698495, 2: 10}
+iterations completed 16.8285563501
+setting accuracy {u'time_in_ms': 106.0109138, u'iteration': 66, u'gain': 0.00217695572, u'accuracy': 0.6086916009}
+setting accuracy {u'time_in_ms': 89.93911743, u'iteration': 67, u'gain': 0.002144703335, u'accuracy': 0.6108363042}
+setting accuracy {u'time_in_ms': 102.4870873, u'iteration': 68, u'gain': 0.002113392677, u'accuracy': 0.6129496969}
+setting accuracy {u'time_in_ms': 100.6121635, u'iteration': 69, u'gain': 0.002082983092, u'accuracy': 0.61503268}
+setting accuracy {u'time_in_ms': 92.12398529, u'iteration': 70, u'gain': 0.002053436235, u'accuracy': 0.6170861162}
+setting accuracy {u'time_in_ms': 86.1890316, u'iteration': 71, u'gain': 0.002024715904, u'accuracy': 0.6191108321}
+setting accuracy {u'time_in_ms': 86.07888222, u'iteration': 72, u'gain': 0.001996787896, u'accuracy': 0.62110762}
+setting accuracy {u'time_in_ms': 111.6600037, u'iteration': 73, u'gain': 0.00196961987, u'accuracy': 0.6230772399}
+setting accuracy {u'time_in_ms': 171.6079712, u'iteration': 74, u'gain': 0.00194318122, u'accuracy': 0.6250204211}
+setting accuracy {u'time_in_ms': 213.7210369, u'iteration': 75, u'gain': 0.001917442963, u'accuracy': 0.6269378641}
+setting accuracy {u'time_in_ms': 190.1700497, u'iteration': 76, u'gain': 0.001892377631, u'accuracy': 0.6288302417}
+setting accuracy {u'time_in_ms': 140.4819489, u'iteration': 77, u'gain': 0.001867959173, u'accuracy': 0.6306982009}
+setting accuracy {u'time_in_ms': 142.6758766, u'iteration': 78, u'gain': 0.001844162867, u'accuracy': 0.6325423638}
+setting accuracy {u'time_in_ms': 109.721899, u'iteration': 79, u'gain': 0.001820965234, u'accuracy': 0.634363329}
+setting accuracy {u'time_in_ms': 89.91217613, u'iteration': 80, u'gain': 0.001798343962, u'accuracy': 0.636161673}
+setting accuracy {u'time_in_ms': 94.41995621, u'iteration': 81, u'gain': 0.001776277835, u'accuracy': 0.6379379508}
+gain  in the last epoch is  0.031423305614
+iterations completed 3.47981364592
+setting accuracy {u'time_in_ms': 41.66507721, u'iteration': 22, u'gain': 0.001498440707, u'accuracy': 0.03298802622}
+setting accuracy {u'time_in_ms': 41.88203812, u'iteration': 23, u'gain': 0.001498292423, u'accuracy': 0.03448631864}
+setting accuracy {u'time_in_ms': 43.46513748, u'iteration': 24, u'gain': 0.001498137419, u'accuracy': 0.03598445606}
+gain  in the last epoch is  0.004494870549
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.035918176163
+accuracy of the job logistic_regression is 0.637938
+accuracy of the job k-means is 0.035984
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 166.22302979877506, 1: 23.77697020122497, 2: 10}
+iterations completed 19.1210529019
+setting accuracy {u'time_in_ms': 86.93194389, u'iteration': 82, u'gain': 0.001754746664, u'accuracy': 0.6396926975}
+setting accuracy {u'time_in_ms': 88.73009682, u'iteration': 83, u'gain': 0.001733731229, u'accuracy': 0.6414264287}
+setting accuracy {u'time_in_ms': 106.413126, u'iteration': 84, u'gain': 0.001713213217, u'accuracy': 0.6431396419}
+setting accuracy {u'time_in_ms': 94.2158699, u'iteration': 85, u'gain': 0.001693175176, u'accuracy': 0.6448328171}
+setting accuracy {u'time_in_ms': 89.65611458, u'iteration': 86, u'gain': 0.001673600458, u'accuracy': 0.6465064175}
+setting accuracy {u'time_in_ms': 94.11501884, u'iteration': 87, u'gain': 0.001654473177, u'accuracy': 0.6481608907}
+setting accuracy {u'time_in_ms': 101.6449928, u'iteration': 88, u'gain': 0.001635778165, u'accuracy': 0.6497966689}
+setting accuracy {u'time_in_ms': 90.33679962, u'iteration': 89, u'gain': 0.001617500931, u'accuracy': 0.6514141698}
+setting accuracy {u'time_in_ms': 90.08002281, u'iteration': 90, u'gain': 0.001599627627, u'accuracy': 0.6530137974}
+setting accuracy {u'time_in_ms': 100.3339291, u'iteration': 91, u'gain': 0.001582145008, u'accuracy': 0.6545959424}
+setting accuracy {u'time_in_ms': 92.11397171, u'iteration': 92, u'gain': 0.001565040403, u'accuracy': 0.6561609829}
+setting accuracy {u'time_in_ms': 94.63310242, u'iteration': 93, u'gain': 0.001548301682, u'accuracy': 0.6577092845}
+setting accuracy {u'time_in_ms': 120.0771332, u'iteration': 94, u'gain': 0.00153191723, u'accuracy': 0.6592412018}
+setting accuracy {u'time_in_ms': 221.3230133, u'iteration': 95, u'gain': 0.001515875917, u'accuracy': 0.6607570777}
+setting accuracy {u'time_in_ms': 217.2470093, u'iteration': 96, u'gain': 0.001500167076, u'accuracy': 0.6622572448}
+setting accuracy {u'time_in_ms': 111.3979816, u'iteration': 97, u'gain': 0.001484780475, u'accuracy': 0.6637420252}
+setting accuracy {u'time_in_ms': 104.1469574, u'iteration': 98, u'gain': 0.001469706302, u'accuracy': 0.6652117315}
+setting accuracy {u'time_in_ms': 90.94619751, u'iteration': 99, u'gain': 0.001454935134, u'accuracy': 0.6666666667}
+setting accuracy {u'time_in_ms': 95.80397606, u'iteration': 100, u'gain': 0.001440457928, u'accuracy': 0.6681071246}
+gain  in the last epoch is  0.030169173799
+iterations completed 6.9130242735
+setting accuracy {u'time_in_ms': 42.9930687, u'iteration': 25, u'gain': 0.001497975699, u'accuracy': 0.03748243176}
+setting accuracy {u'time_in_ms': 47.57404327, u'iteration': 26, u'gain': 0.001497807265, u'accuracy': 0.03898023902}
+setting accuracy {u'time_in_ms': 42.24705696, u'iteration': 27, u'gain': 0.001497632121, u'accuracy': 0.04047787114}
+setting accuracy {u'time_in_ms': 42.01483727, u'iteration': 28, u'gain': 0.001497450269, u'accuracy': 0.04197532141}
+setting accuracy {u'time_in_ms': 42.07992554, u'iteration': 29, u'gain': 0.001497261714, u'accuracy': 0.04347258313}
+setting accuracy {u'time_in_ms': 43.81799698, u'iteration': 30, u'gain': 0.001497066457, u'accuracy': 0.04496964958}
+gain  in the last epoch is  0.008985193525
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.039154367324
+accuracy of the job logistic_regression is 0.668107
+accuracy of the job k-means is 0.044970
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 146.39856071167912, 1: 43.601439288320854, 2: 10}
+iterations completed 14.5789376304
+setting accuracy {u'time_in_ms': 100.4178524, u'iteration': 101, u'gain': 0.001426265993, u'accuracy': 0.6695333906}
+setting accuracy {u'time_in_ms': 92.11993217, u'iteration': 102, u'gain': 0.001412350981, u'accuracy': 0.6709457416}
+setting accuracy {u'time_in_ms': 88.79995346, u'iteration': 103, u'gain': 0.001398704865, u'accuracy': 0.6723444464}
+setting accuracy {u'time_in_ms': 87.99099922, u'iteration': 104, u'gain': 0.001385319924, u'accuracy': 0.6737297664}
+setting accuracy {u'time_in_ms': 90.74616432, u'iteration': 105, u'gain': 0.001372188732, u'accuracy': 0.6751019551}
+setting accuracy {u'time_in_ms': 94.01202202, u'iteration': 106, u'gain': 0.00135930414, u'accuracy': 0.6764612592}
+setting accuracy {u'time_in_ms': 93.02592278, u'iteration': 107, u'gain': 0.001346659267, u'accuracy': 0.6778079185}
+setting accuracy {u'time_in_ms': 90.03901482, u'iteration': 108, u'gain': 0.001334247485, u'accuracy': 0.679142166}
+setting accuracy {u'time_in_ms': 87.53681183, u'iteration': 109, u'gain': 0.001322062406, u'accuracy': 0.6804642284}
+setting accuracy {u'time_in_ms': 94.4609642, u'iteration': 110, u'gain': 0.001310097876, u'accuracy': 0.6817743263}
+setting accuracy {u'time_in_ms': 91.51792526, u'iteration': 111, u'gain': 0.001298347961, u'accuracy': 0.6830726742}
+setting accuracy {u'time_in_ms': 110.5527878, u'iteration': 112, u'gain': 0.001286806938, u'accuracy': 0.6843594812}
+setting accuracy {u'time_in_ms': 134.0770721, u'iteration': 113, u'gain': 0.001275469284, u'accuracy': 0.6856349504}
+setting accuracy {u'time_in_ms': 122.8060722, u'iteration': 114, u'gain': 0.001264329672, u'accuracy': 0.6868992801}
+gain  in the last epoch is  0.018792155524
+iterations completed 12.6220039767
+setting accuracy {u'time_in_ms': 43.17998886, u'iteration': 31, u'gain': 0.001496864503, u'accuracy': 0.04646651409}
+setting accuracy {u'time_in_ms': 45.17006874, u'iteration': 32, u'gain': 0.001496655856, u'accuracy': 0.04796316994}
+setting accuracy {u'time_in_ms': 43.96605492, u'iteration': 33, u'gain': 0.001496440518, u'accuracy': 0.04945961046}
+setting accuracy {u'time_in_ms': 43.60604286, u'iteration': 34, u'gain': 0.001496218495, u'accuracy': 0.05095582895}
+setting accuracy {u'time_in_ms': 42.0460701, u'iteration': 35, u'gain': 0.001495989789, u'accuracy': 0.05245181874}
+setting accuracy {u'time_in_ms': 43.2870388, u'iteration': 36, u'gain': 0.001495754406, u'accuracy': 0.05394757315}
+setting accuracy {u'time_in_ms': 41.37015343, u'iteration': 37, u'gain': 0.001495512349, u'accuracy': 0.0554430855}
+setting accuracy {u'time_in_ms': 42.82093048, u'iteration': 38, u'gain': 0.001495263622, u'accuracy': 0.05693834912}
+setting accuracy {u'time_in_ms': 53.41815948, u'iteration': 39, u'gain': 0.00149500823, u'accuracy': 0.05843335735}
+setting accuracy {u'time_in_ms': 52.38008499, u'iteration': 40, u'gain': 0.001494746179, u'accuracy': 0.05992810353}
+setting accuracy {u'time_in_ms': 53.10797691, u'iteration': 41, u'gain': 0.001494477471, u'accuracy': 0.061422581}
+setting accuracy {u'time_in_ms': 42.97399521, u'iteration': 42, u'gain': 0.001494202113, u'accuracy': 0.06291678311}
+gain  in the last epoch is  0.017947133531
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.036739289055
+accuracy of the job logistic_regression is 0.686899
+accuracy of the job k-means is 0.062917
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 97.18504743558925, 1: 92.81495256441075, 2: 10}
+iterations completed 9.92990597339
+setting accuracy {u'time_in_ms': 97.87106514, u'iteration': 115, u'gain': 0.001253382958, u'accuracy': 0.6881526631}
+setting accuracy {u'time_in_ms': 101.9799709, u'iteration': 116, u'gain': 0.001242624173, u'accuracy': 0.6893952872}
+setting accuracy {u'time_in_ms': 100.9612083, u'iteration': 117, u'gain': 0.00123204852, u'accuracy': 0.6906273358}
+setting accuracy {u'time_in_ms': 90.52681923, u'iteration': 118, u'gain': 0.001221651362, u'accuracy': 0.6918489871}
+setting accuracy {u'time_in_ms': 98.60396385, u'iteration': 119, u'gain': 0.001211428218, u'accuracy': 0.6930604153}
+setting accuracy {u'time_in_ms': 92.20290184, u'iteration': 120, u'gain': 0.001201374756, u'accuracy': 0.6942617901}
+setting accuracy {u'time_in_ms': 96.83680534, u'iteration': 121, u'gain': 0.001191486786, u'accuracy': 0.6954532769}
+setting accuracy {u'time_in_ms': 91.41898155, u'iteration': 122, u'gain': 0.001181760255, u'accuracy': 0.6966350371}
+setting accuracy {u'time_in_ms': 89.38598633, u'iteration': 123, u'gain': 0.001172191241, u'accuracy': 0.6978072284}
+gain  in the last epoch is  0.010907948269
+iterations completed 22.3659246194
+setting accuracy {u'time_in_ms': 51.87296867, u'iteration': 43, u'gain': 0.001493920108, u'accuracy': 0.06441070322}
+setting accuracy {u'time_in_ms': 52.932024, u'iteration': 44, u'gain': 0.001493631463, u'accuracy': 0.06590433468}
+setting accuracy {u'time_in_ms': 44.31796074, u'iteration': 45, u'gain': 0.001493336182, u'accuracy': 0.06739767087}
+setting accuracy {u'time_in_ms': 53.31587791, u'iteration': 46, u'gain': 0.001493034271, u'accuracy': 0.06889070514}
+setting accuracy {u'time_in_ms': 54.4128418, u'iteration': 47, u'gain': 0.001492725734, u'accuracy': 0.07038343087}
+setting accuracy {u'time_in_ms': 41.26286507, u'iteration': 48, u'gain': 0.001492410578, u'accuracy': 0.07187584145}
+setting accuracy {u'time_in_ms': 53.54785919, u'iteration': 49, u'gain': 0.001492088808, u'accuracy': 0.07336793026}
+setting accuracy {u'time_in_ms': 54.37803268, u'iteration': 50, u'gain': 0.00149176043, u'accuracy': 0.07485969069}
+setting accuracy {u'time_in_ms': 43.69306564, u'iteration': 51, u'gain': 0.00149142545, u'accuracy': 0.07635111614}
+setting accuracy {u'time_in_ms': 52.7048111, u'iteration': 52, u'gain': 0.001491083873, u'accuracy': 0.07784220001}
+setting accuracy {u'time_in_ms': 51.86700821, u'iteration': 53, u'gain': 0.001490735707, u'accuracy': 0.07933293572}
+setting accuracy {u'time_in_ms': 41.73088074, u'iteration': 54, u'gain': 0.001490380956, u'accuracy': 0.08082331667}
+setting accuracy {u'time_in_ms': 52.74915695, u'iteration': 55, u'gain': 0.001490019627, u'accuracy': 0.0823133363}
+setting accuracy {u'time_in_ms': 56.78796768, u'iteration': 56, u'gain': 0.001489651727, u'accuracy': 0.08380298803}
+setting accuracy {u'time_in_ms': 46.08988762, u'iteration': 57, u'gain': 0.001489277263, u'accuracy': 0.08529226529}
+setting accuracy {u'time_in_ms': 56.05602264, u'iteration': 58, u'gain': 0.001488896241, u'accuracy': 0.08678116153}
+setting accuracy {u'time_in_ms': 49.48496819, u'iteration': 59, u'gain': 0.001488508667, u'accuracy': 0.0882696702}
+setting accuracy {u'time_in_ms': 57.74188042, u'iteration': 60, u'gain': 0.001488114549, u'accuracy': 0.08975778475}
+setting accuracy {u'time_in_ms': 53.86900902, u'iteration': 61, u'gain': 0.001487713893, u'accuracy': 0.09124549864}
+setting accuracy {u'time_in_ms': 58.95400047, u'iteration': 62, u'gain': 0.001487306708, u'accuracy': 0.09273280535}
+setting accuracy {u'time_in_ms': 65.03987312, u'iteration': 63, u'gain': 0.001486892999, u'accuracy': 0.09421969835}
+setting accuracy {u'time_in_ms': 56.58388138, u'iteration': 64, u'gain': 0.001486472775, u'accuracy': 0.09570617112}
+gain  in the last epoch is  0.032789388009
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.043697336278
+accuracy of the job logistic_regression is 0.697807
+accuracy of the job k-means is 0.095706
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 47.42875304629113, 1: 142.57124695370885, 2: 10}
+iterations completed 4.83296426293
+setting accuracy {u'time_in_ms': 98.13594818, u'iteration': 124, u'gain': 0.001162775949, u'accuracy': 0.6989700043}
+setting accuracy {u'time_in_ms': 89.73884583, u'iteration': 125, u'gain': 0.001153510703, u'accuracy': 0.700123515}
+setting accuracy {u'time_in_ms': 99.96604919, u'iteration': 126, u'gain': 0.001144391946, u'accuracy': 0.701267907}
+setting accuracy {u'time_in_ms': 94.65384483, u'iteration': 127, u'gain': 0.001135416231, u'accuracy': 0.7024033232}
+gain  in the last epoch is  0.004596094829
+iterations completed 33.3253353463
+setting accuracy {u'time_in_ms': 53.47704887, u'iteration': 65, u'gain': 0.001486046043, u'accuracy': 0.09719221717}
+setting accuracy {u'time_in_ms': 44.80719566, u'iteration': 66, u'gain': 0.00148561281, u'accuracy': 0.09867782998}
+setting accuracy {u'time_in_ms': 52.83594131, u'iteration': 67, u'gain': 0.001485173084, u'accuracy': 0.1001630031}
+setting accuracy {u'time_in_ms': 54.40306664, u'iteration': 68, u'gain': 0.001484726874, u'accuracy': 0.1016477299}
+setting accuracy {u'time_in_ms': 44.90995407, u'iteration': 69, u'gain': 0.001484274186, u'accuracy': 0.1031320041}
+setting accuracy {u'time_in_ms': 41.88108444, u'iteration': 70, u'gain': 0.001483815029, u'accuracy': 0.1046158191}
+setting accuracy {u'time_in_ms': 35.6669426, u'iteration': 71, u'gain': 0.00148334941, u'accuracy': 0.1060991686}
+setting accuracy {u'time_in_ms': 41.56494141, u'iteration': 72, u'gain': 0.001482877339, u'accuracy': 0.1075820459}
+setting accuracy {u'time_in_ms': 39.98708725, u'iteration': 73, u'gain': 0.001482398824, u'accuracy': 0.1090644447}
+setting accuracy {u'time_in_ms': 44.3520546, u'iteration': 74, u'gain': 0.001481913873, u'accuracy': 0.1105463586}
+setting accuracy {u'time_in_ms': 42.07181931, u'iteration': 75, u'gain': 0.001481422494, u'accuracy': 0.1120277811}
+setting accuracy {u'time_in_ms': 42.37008095, u'iteration': 76, u'gain': 0.001480924697, u'accuracy': 0.1135087058}
+setting accuracy {u'time_in_ms': 36.01789474, u'iteration': 77, u'gain': 0.001480420489, u'accuracy': 0.1149891263}
+setting accuracy {u'time_in_ms': 43.2510376, u'iteration': 78, u'gain': 0.001479909881, u'accuracy': 0.1164690362}
+setting accuracy {u'time_in_ms': 45.23801804, u'iteration': 79, u'gain': 0.001479392881, u'accuracy': 0.117948429}
+setting accuracy {u'time_in_ms': 38.71297836, u'iteration': 80, u'gain': 0.001478869497, u'accuracy': 0.1194272985}
+setting accuracy {u'time_in_ms': 44.55518723, u'iteration': 81, u'gain': 0.001478339741, u'accuracy': 0.1209056383}
+setting accuracy {u'time_in_ms': 43.09201241, u'iteration': 82, u'gain': 0.001477803619, u'accuracy': 0.1223834419}
+setting accuracy {u'time_in_ms': 37.62888908, u'iteration': 83, u'gain': 0.001477261143, u'accuracy': 0.123860703}
+setting accuracy {u'time_in_ms': 41.99099541, u'iteration': 84, u'gain': 0.001476712322, u'accuracy': 0.1253374154}
+setting accuracy {u'time_in_ms': 40.38000107, u'iteration': 85, u'gain': 0.001476157165, u'accuracy': 0.1268135725}
+setting accuracy {u'time_in_ms': 66.63608551, u'iteration': 86, u'gain': 0.001475595682, u'accuracy': 0.1282891682}
+setting accuracy {u'time_in_ms': 99.72691536, u'iteration': 87, u'gain': 0.001475027883, u'accuracy': 0.1297641961}
+setting accuracy {u'time_in_ms': 135.4060173, u'iteration': 88, u'gain': 0.001474453777, u'accuracy': 0.1312386499}
+setting accuracy {u'time_in_ms': 119.2469597, u'iteration': 89, u'gain': 0.001473873376, u'accuracy': 0.1327125232}
+setting accuracy {u'time_in_ms': 48.42805862, u'iteration': 90, u'gain': 0.001473286689, u'accuracy': 0.1341858099}
+setting accuracy {u'time_in_ms': 42.20294952, u'iteration': 91, u'gain': 0.001472693726, u'accuracy': 0.1356585037}
+setting accuracy {u'time_in_ms': 38.20085526, u'iteration': 92, u'gain': 0.001472094498, u'accuracy': 0.1371305982}
+setting accuracy {u'time_in_ms': 41.50295258, u'iteration': 93, u'gain': 0.001471489016, u'accuracy': 0.1386020872}
+setting accuracy {u'time_in_ms': 43.81918907, u'iteration': 94, u'gain': 0.001470877289, u'accuracy': 0.1400729645}
+setting accuracy {u'time_in_ms': 41.05401039, u'iteration': 95, u'gain': 0.001470259329, u'accuracy': 0.1415432238}
+setting accuracy {u'time_in_ms': 101.9489765, u'iteration': 96, u'gain': 0.001469635146, u'accuracy': 0.1430128589}
+setting accuracy {u'time_in_ms': 71.78497314, u'iteration': 97, u'gain': 0.001469004752, u'accuracy': 0.1444818637}
+gain  in the last epoch is  0.048775692564
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.053371787393
+accuracy of the job logistic_regression is 0.702403
+accuracy of the job k-means is 0.144482
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 16.361790754351468, 1: 173.6382092456485, 2: 10}
+iterations completed 1.77907317347
+setting accuracy {u'time_in_ms': 91.96805954, u'iteration': 128, u'gain': 0.001126580217, u'accuracy': 0.7035299034}
+gain  in the last epoch is  0.001126580217
+iterations completed 17.4756503091
+setting accuracy {u'time_in_ms': 124.2001057, u'iteration': 98, u'gain': 0.001468368156, u'accuracy': 0.1459502318}
+setting accuracy {u'time_in_ms': 98.45209122, u'iteration': 99, u'gain': 0.001467725372, u'accuracy': 0.1474179572}
+setting accuracy {u'time_in_ms': 83.99701118, u'iteration': 100, u'gain': 0.001467076408, u'accuracy': 0.1488850336}
+setting accuracy {u'time_in_ms': 104.7811508, u'iteration': 101, u'gain': 0.001466421278, u'accuracy': 0.1503514549}
+setting accuracy {u'time_in_ms': 115.6070232, u'iteration': 102, u'gain': 0.001465759992, u'accuracy': 0.1518172149}
+setting accuracy {u'time_in_ms': 93.11580658, u'iteration': 103, u'gain': 0.001465092562, u'accuracy': 0.1532823075}
+setting accuracy {u'time_in_ms': 117.1648502, u'iteration': 104, u'gain': 0.001464418999, u'accuracy': 0.1547467265}
+setting accuracy {u'time_in_ms': 100.6019115, u'iteration': 105, u'gain': 0.001463739315, u'accuracy': 0.1562104658}
+setting accuracy {u'time_in_ms': 91.51601791, u'iteration': 106, u'gain': 0.001463053522, u'accuracy': 0.1576735193}
+setting accuracy {u'time_in_ms': 111.4439964, u'iteration': 107, u'gain': 0.001462361632, u'accuracy': 0.1591358809}
+setting accuracy {u'time_in_ms': 115.0751114, u'iteration': 108, u'gain': 0.001461663656, u'accuracy': 0.1605975446}
+setting accuracy {u'time_in_ms': 105.8340073, u'iteration': 109, u'gain': 0.001460959608, u'accuracy': 0.1620585042}
+setting accuracy {u'time_in_ms': 106.1952114, u'iteration': 110, u'gain': 0.001460249498, u'accuracy': 0.1635187537}
+setting accuracy {u'time_in_ms': 99.92599487, u'iteration': 111, u'gain': 0.00145953334, u'accuracy': 0.164978287}
+setting accuracy {u'time_in_ms': 115.6439781, u'iteration': 112, u'gain': 0.001458811145, u'accuracy': 0.1664370982}
+setting accuracy {u'time_in_ms': 107.4211597, u'iteration': 113, u'gain': 0.001458082926, u'accuracy': 0.1678951811}
+setting accuracy {u'time_in_ms': 105.72505, u'iteration': 114, u'gain': 0.001457348697, u'accuracy': 0.1693525298}
+gain  in the last epoch is  0.024870666106
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.025997246323
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.169353
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 8.233573608933646, 1: 181.76642639106637, 2: 10}
+iterations completed 0.80209478426
+gain  in the last epoch is  0
+iterations completed 16.7713427673
+setting accuracy {u'time_in_ms': 135.4739666, u'iteration': 115, u'gain': 0.001456608468, u'accuracy': 0.1708091383}
+setting accuracy {u'time_in_ms': 395.6170082, u'iteration': 116, u'gain': 0.001455862254, u'accuracy': 0.1722650005}
+setting accuracy {u'time_in_ms': 178.0781746, u'iteration': 117, u'gain': 0.001455110066, u'accuracy': 0.1737201106}
+setting accuracy {u'time_in_ms': 83.91213417, u'iteration': 118, u'gain': 0.001454351919, u'accuracy': 0.1751744625}
+setting accuracy {u'time_in_ms': 82.52310753, u'iteration': 119, u'gain': 0.001453587824, u'accuracy': 0.1766280503}
+setting accuracy {u'time_in_ms': 84.97810364, u'iteration': 120, u'gain': 0.001452817796, u'accuracy': 0.1780808681}
+setting accuracy {u'time_in_ms': 84.57303047, u'iteration': 121, u'gain': 0.001452041846, u'accuracy': 0.17953291}
+setting accuracy {u'time_in_ms': 83.87207985, u'iteration': 122, u'gain': 0.00145125999, u'accuracy': 0.18098417}
+setting accuracy {u'time_in_ms': 85.0520134, u'iteration': 123, u'gain': 0.001450472239, u'accuracy': 0.1824346422}
+setting accuracy {u'time_in_ms': 86.92407608, u'iteration': 124, u'gain': 0.001449678607, u'accuracy': 0.1838843208}
+setting accuracy {u'time_in_ms': 84.18893814, u'iteration': 125, u'gain': 0.001448879109, u'accuracy': 0.1853331999}
+setting accuracy {u'time_in_ms': 84.95092392, u'iteration': 126, u'gain': 0.001448073757, u'accuracy': 0.1867812737}
+setting accuracy {u'time_in_ms': 122.5161552, u'iteration': 127, u'gain': 0.001447262566, u'accuracy': 0.1882285362}
+setting accuracy {u'time_in_ms': 85.60705185, u'iteration': 128, u'gain': 0.001446445549, u'accuracy': 0.1896749818}
+setting accuracy {u'time_in_ms': 84.87701416, u'iteration': 129, u'gain': 0.00144562272, u'accuracy': 0.1911206045}
+setting accuracy {u'time_in_ms': 85.44898033, u'iteration': 130, u'gain': 0.001444794093, u'accuracy': 0.1925653986}
+gain  in the last epoch is  0.023212868803
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.023212868803
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.192565
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 26.20028096
+setting accuracy {u'time_in_ms': 85.87694168, u'iteration': 131, u'gain': 0.001443959683, u'accuracy': 0.1940093583}
+setting accuracy {u'time_in_ms': 87.13412285, u'iteration': 132, u'gain': 0.001443119503, u'accuracy': 0.1954524778}
+setting accuracy {u'time_in_ms': 144.3839073, u'iteration': 133, u'gain': 0.001442273568, u'accuracy': 0.1968947513}
+setting accuracy {u'time_in_ms': 145.416975, u'iteration': 134, u'gain': 0.001441421892, u'accuracy': 0.1983361732}
+setting accuracy {u'time_in_ms': 97.44906425, u'iteration': 135, u'gain': 0.001440564489, u'accuracy': 0.1997767377}
+setting accuracy {u'time_in_ms': 96.30393982, u'iteration': 136, u'gain': 0.001439701375, u'accuracy': 0.2012164391}
+setting accuracy {u'time_in_ms': 86.82203293, u'iteration': 137, u'gain': 0.001438832563, u'accuracy': 0.2026552717}
+setting accuracy {u'time_in_ms': 91.25900269, u'iteration': 138, u'gain': 0.001437958068, u'accuracy': 0.2040932297}
+setting accuracy {u'time_in_ms': 84.91897583, u'iteration': 139, u'gain': 0.001437077906, u'accuracy': 0.2055303076}
+setting accuracy {u'time_in_ms': 69.93079185, u'iteration': 140, u'gain': 0.00143619209, u'accuracy': 0.2069664997}
+setting accuracy {u'time_in_ms': 68.40491295, u'iteration': 141, u'gain': 0.001435300637, u'accuracy': 0.2084018004}
+setting accuracy {u'time_in_ms': 67.08812714, u'iteration': 142, u'gain': 0.00143440356, u'accuracy': 0.2098362039}
+setting accuracy {u'time_in_ms': 64.29696083, u'iteration': 143, u'gain': 0.001433500876, u'accuracy': 0.2112697048}
+setting accuracy {u'time_in_ms': 67.68298149, u'iteration': 144, u'gain': 0.001432592598, u'accuracy': 0.2127022974}
+setting accuracy {u'time_in_ms': 65.77181816, u'iteration': 145, u'gain': 0.001431678743, u'accuracy': 0.2141339761}
+setting accuracy {u'time_in_ms': 66.22505188, u'iteration': 146, u'gain': 0.001430759326, u'accuracy': 0.2155647355}
+setting accuracy {u'time_in_ms': 65.52600861, u'iteration': 147, u'gain': 0.001429834362, u'accuracy': 0.2169945698}
+setting accuracy {u'time_in_ms': 68.75109673, u'iteration': 148, u'gain': 0.001428903867, u'accuracy': 0.2184234737}
+setting accuracy {u'time_in_ms': 65.96589088, u'iteration': 149, u'gain': 0.001427967856, u'accuracy': 0.2198514416}
+setting accuracy {u'time_in_ms': 67.95287132, u'iteration': 150, u'gain': 0.001427026345, u'accuracy': 0.2212784679}
+setting accuracy {u'time_in_ms': 66.26200676, u'iteration': 151, u'gain': 0.001426079349, u'accuracy': 0.2227045472}
+setting accuracy {u'time_in_ms': 65.93799591, u'iteration': 152, u'gain': 0.001425126885, u'accuracy': 0.2241296741}
+setting accuracy {u'time_in_ms': 65.21701813, u'iteration': 153, u'gain': 0.001424168968, u'accuracy': 0.2255538431}
+setting accuracy {u'time_in_ms': 66.50900841, u'iteration': 154, u'gain': 0.001423205614, u'accuracy': 0.2269770487}
+setting accuracy {u'time_in_ms': 84.95402336, u'iteration': 155, u'gain': 0.00142223684, u'accuracy': 0.2283992856}
+setting accuracy {u'time_in_ms': 68.27306747, u'iteration': 156, u'gain': 0.001421262661, u'accuracy': 0.2298205482}
+gain  in the last epoch is  0.037255149624
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.037255149624
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.229821
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 33.4502456337
+setting accuracy {u'time_in_ms': 67.26408005, u'iteration': 157, u'gain': 0.001420283093, u'accuracy': 0.2312408313}
+setting accuracy {u'time_in_ms': 67.13604927, u'iteration': 158, u'gain': 0.001419298153, u'accuracy': 0.2326601295}
+setting accuracy {u'time_in_ms': 68.58110428, u'iteration': 159, u'gain': 0.001418307857, u'accuracy': 0.2340784373}
+setting accuracy {u'time_in_ms': 66.62106514, u'iteration': 160, u'gain': 0.001417312221, u'accuracy': 0.2354957495}
+setting accuracy {u'time_in_ms': 71.26402855, u'iteration': 161, u'gain': 0.001416311263, u'accuracy': 0.2369120608}
+setting accuracy {u'time_in_ms': 84.90300179, u'iteration': 162, u'gain': 0.001415304997, u'accuracy': 0.2383273658}
+setting accuracy {u'time_in_ms': 66.41983986, u'iteration': 163, u'gain': 0.001414293442, u'accuracy': 0.2397416592}
+setting accuracy {u'time_in_ms': 67.36087799, u'iteration': 164, u'gain': 0.001413276613, u'accuracy': 0.2411549359}
+setting accuracy {u'time_in_ms': 68.2990551, u'iteration': 165, u'gain': 0.001412254528, u'accuracy': 0.2425671904}
+setting accuracy {u'time_in_ms': 67.1620369, u'iteration': 166, u'gain': 0.001411227203, u'accuracy': 0.2439784176}
+setting accuracy {u'time_in_ms': 68.27902794, u'iteration': 167, u'gain': 0.001410194654, u'accuracy': 0.2453886122}
+setting accuracy {u'time_in_ms': 69.20790672, u'iteration': 168, u'gain': 0.0014091569, u'accuracy': 0.2467977691}
+setting accuracy {u'time_in_ms': 69.03505325, u'iteration': 169, u'gain': 0.001408113957, u'accuracy': 0.2482058831}
+setting accuracy {u'time_in_ms': 455.6670189, u'iteration': 170, u'gain': 0.001407065841, u'accuracy': 0.2496129489}
+setting accuracy {u'time_in_ms': 97.13602066, u'iteration': 171, u'gain': 0.001406012571, u'accuracy': 0.2510189615}
+setting accuracy {u'time_in_ms': 92.90289879, u'iteration': 172, u'gain': 0.001404954163, u'accuracy': 0.2524239157}
+setting accuracy {u'time_in_ms': 84.9199295, u'iteration': 173, u'gain': 0.001403890634, u'accuracy': 0.2538278063}
+setting accuracy {u'time_in_ms': 79.46920395, u'iteration': 174, u'gain': 0.001402822002, u'accuracy': 0.2552306283}
+setting accuracy {u'time_in_ms': 78.47380638, u'iteration': 175, u'gain': 0.001401748285, u'accuracy': 0.2566323766}
+setting accuracy {u'time_in_ms': 66.85781479, u'iteration': 176, u'gain': 0.001400669499, u'accuracy': 0.2580330461}
+setting accuracy {u'time_in_ms': 68.04895401, u'iteration': 177, u'gain': 0.001399585662, u'accuracy': 0.2594326318}
+setting accuracy {u'time_in_ms': 71.70295715, u'iteration': 178, u'gain': 0.001398496792, u'accuracy': 0.2608311285}
+setting accuracy {u'time_in_ms': 70.56307793, u'iteration': 179, u'gain': 0.001397402906, u'accuracy': 0.2622285314}
+setting accuracy {u'time_in_ms': 77.95000076, u'iteration': 180, u'gain': 0.001396304023, u'accuracy': 0.2636248355}
+setting accuracy {u'time_in_ms': 81.48193359, u'iteration': 181, u'gain': 0.001395200159, u'accuracy': 0.2650200356}
+setting accuracy {u'time_in_ms': 85.54816246, u'iteration': 182, u'gain': 0.001394091332, u'accuracy': 0.266414127}
+setting accuracy {u'time_in_ms': 73.2729435, u'iteration': 183, u'gain': 0.001392977561, u'accuracy': 0.2678071045}
+setting accuracy {u'time_in_ms': 73.47798347, u'iteration': 184, u'gain': 0.001391858864, u'accuracy': 0.2691989634}
+setting accuracy {u'time_in_ms': 72.42012024, u'iteration': 185, u'gain': 0.001390735257, u'accuracy': 0.2705896986}
+setting accuracy {u'time_in_ms': 76.58481598, u'iteration': 186, u'gain': 0.00138960676, u'accuracy': 0.2719793054}
+setting accuracy {u'time_in_ms': 74.92995262, u'iteration': 187, u'gain': 0.001388473391, u'accuracy': 0.2733677788}
+setting accuracy {u'time_in_ms': 71.90704346, u'iteration': 188, u'gain': 0.001387335167, u'accuracy': 0.274755114}
+setting accuracy {u'time_in_ms': 215.6920433, u'iteration': 189, u'gain': 0.001386192106, u'accuracy': 0.2761413061}
+gain  in the last epoch is  0.046320757856
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.046320757856
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.276141
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 9.44854114525
+setting accuracy {u'time_in_ms': 238.132, u'iteration': 190, u'gain': 0.001385044228, u'accuracy': 0.2775263503}
+setting accuracy {u'time_in_ms': 77.12697983, u'iteration': 191, u'gain': 0.00138389155, u'accuracy': 0.2789102418}
+setting accuracy {u'time_in_ms': 73.42004776, u'iteration': 192, u'gain': 0.00138273409, u'accuracy': 0.2802929759}
+setting accuracy {u'time_in_ms': 73.47989082, u'iteration': 193, u'gain': 0.001381571868, u'accuracy': 0.2816745478}
+setting accuracy {u'time_in_ms': 72.40796089, u'iteration': 194, u'gain': 0.001380404901, u'accuracy': 0.2830549527}
+setting accuracy {u'time_in_ms': 84.38897133, u'iteration': 195, u'gain': 0.001379233208, u'accuracy': 0.2844341859}
+setting accuracy {u'time_in_ms': 141.8828964, u'iteration': 196, u'gain': 0.001378056808, u'accuracy': 0.2858122427}
+setting accuracy {u'time_in_ms': 211.2989426, u'iteration': 197, u'gain': 0.001376875718, u'accuracy': 0.2871891184}
+setting accuracy {u'time_in_ms': 166.4671898, u'iteration': 198, u'gain': 0.001375689959, u'accuracy': 0.2885648084}
+gain  in the last epoch is  0.01242350233
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.01242350233
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.288565
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 12.9568821745
+setting accuracy {u'time_in_ms': 173.6528873, u'iteration': 199, u'gain': 0.001374499548, u'accuracy': 0.2899393079}
+setting accuracy {u'time_in_ms': 157.7601433, u'iteration': 200, u'gain': 0.001373304504, u'accuracy': 0.2913126125}
+setting accuracy {u'time_in_ms': 117.0139313, u'iteration': 201, u'gain': 0.001372104846, u'accuracy': 0.2926847173}
+setting accuracy {u'time_in_ms': 80.06501198, u'iteration': 202, u'gain': 0.001370900594, u'accuracy': 0.2940556179}
+setting accuracy {u'time_in_ms': 88.37604523, u'iteration': 203, u'gain': 0.001369691765, u'accuracy': 0.2954253097}
+setting accuracy {u'time_in_ms': 84.51199532, u'iteration': 204, u'gain': 0.001368478379, u'accuracy': 0.296793788}
+setting accuracy {u'time_in_ms': 69.10705566, u'iteration': 205, u'gain': 0.001367260454, u'accuracy': 0.2981610485}
+setting accuracy {u'time_in_ms': 63.53902817, u'iteration': 206, u'gain': 0.00136603801, u'accuracy': 0.2995270865}
+setting accuracy {u'time_in_ms': 63.59910965, u'iteration': 207, u'gain': 0.001364811066, u'accuracy': 0.3008918976}
+setting accuracy {u'time_in_ms': 63.77291679, u'iteration': 208, u'gain': 0.001363579641, u'accuracy': 0.3022554772}
+setting accuracy {u'time_in_ms': 64.54801559, u'iteration': 209, u'gain': 0.001362343754, u'accuracy': 0.303617821}
+setting accuracy {u'time_in_ms': 63.38810921, u'iteration': 210, u'gain': 0.001361103424, u'accuracy': 0.3049789244}
+gain  in the last epoch is  0.016414115985
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.016414115985
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.304979
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 35.8057716091
+setting accuracy {u'time_in_ms': 62.83903122, u'iteration': 211, u'gain': 0.001359858671, u'accuracy': 0.3063387831}
+setting accuracy {u'time_in_ms': 63.18283081, u'iteration': 212, u'gain': 0.001358609514, u'accuracy': 0.3076973926}
+setting accuracy {u'time_in_ms': 64.15700912, u'iteration': 213, u'gain': 0.001357355972, u'accuracy': 0.3090547485}
+setting accuracy {u'time_in_ms': 66.09678268, u'iteration': 214, u'gain': 0.001356098064, u'accuracy': 0.3104108466}
+setting accuracy {u'time_in_ms': 63.53712082, u'iteration': 215, u'gain': 0.00135483581, u'accuracy': 0.3117656824}
+setting accuracy {u'time_in_ms': 62.31689453, u'iteration': 216, u'gain': 0.001353569229, u'accuracy': 0.3131192516}
+setting accuracy {u'time_in_ms': 63.85016441, u'iteration': 217, u'gain': 0.001352298341, u'accuracy': 0.31447155}
+setting accuracy {u'time_in_ms': 63.6651516, u'iteration': 218, u'gain': 0.001351023166, u'accuracy': 0.3158225732}
+setting accuracy {u'time_in_ms': 63.4701252, u'iteration': 219, u'gain': 0.001349743722, u'accuracy': 0.3171723169}
+setting accuracy {u'time_in_ms': 60.44101715, u'iteration': 220, u'gain': 0.001348460029, u'accuracy': 0.3185207769}
+setting accuracy {u'time_in_ms': 66.3189888, u'iteration': 221, u'gain': 0.001347172108, u'accuracy': 0.319867949}
+setting accuracy {u'time_in_ms': 73.72784615, u'iteration': 222, u'gain': 0.001345879978, u'accuracy': 0.321213829}
+setting accuracy {u'time_in_ms': 123.4850883, u'iteration': 223, u'gain': 0.001344583657, u'accuracy': 0.3225584126}
+setting accuracy {u'time_in_ms': 95.96395493, u'iteration': 224, u'gain': 0.001343283167, u'accuracy': 0.3239016958}
+setting accuracy {u'time_in_ms': 90.61598778, u'iteration': 225, u'gain': 0.001341978527, u'accuracy': 0.3252436743}
+setting accuracy {u'time_in_ms': 73.22907448, u'iteration': 226, u'gain': 0.001340669756, u'accuracy': 0.3265843441}
+setting accuracy {u'time_in_ms': 74.32293892, u'iteration': 227, u'gain': 0.001339356875, u'accuracy': 0.327923701}
+setting accuracy {u'time_in_ms': 83.0271244, u'iteration': 228, u'gain': 0.001338039903, u'accuracy': 0.3292617409}
+setting accuracy {u'time_in_ms': 172.3251343, u'iteration': 229, u'gain': 0.001336718861, u'accuracy': 0.3305984597}
+setting accuracy {u'time_in_ms': 72.52502441, u'iteration': 230, u'gain': 0.001335393767, u'accuracy': 0.3319338535}
+setting accuracy {u'time_in_ms': 64.00799751, u'iteration': 231, u'gain': 0.001334064643, u'accuracy': 0.3332679181}
+setting accuracy {u'time_in_ms': 57.50012398, u'iteration': 232, u'gain': 0.001332731508, u'accuracy': 0.3346006497}
+setting accuracy {u'time_in_ms': 57.9161644, u'iteration': 233, u'gain': 0.001331394381, u'accuracy': 0.335932044}
+setting accuracy {u'time_in_ms': 66.1649704, u'iteration': 234, u'gain': 0.001330053284, u'accuracy': 0.3372620973}
+setting accuracy {u'time_in_ms': 81.02607727, u'iteration': 235, u'gain': 0.001328708236, u'accuracy': 0.3385908056}
+setting accuracy {u'time_in_ms': 137.4099255, u'iteration': 236, u'gain': 0.001327359257, u'accuracy': 0.3399181648}
+setting accuracy {u'time_in_ms': 102.3209095, u'iteration': 237, u'gain': 0.001326006367, u'accuracy': 0.3412441712}
+setting accuracy {u'time_in_ms': 109.087944, u'iteration': 238, u'gain': 0.001324649587, u'accuracy': 0.3425688208}
+setting accuracy {u'time_in_ms': 69.1049099, u'iteration': 239, u'gain': 0.001323288936, u'accuracy': 0.3438921097}
+setting accuracy {u'time_in_ms': 79.71787453, u'iteration': 240, u'gain': 0.001321924435, u'accuracy': 0.3452140341}
+setting accuracy {u'time_in_ms': 132.8468323, u'iteration': 241, u'gain': 0.001320556104, u'accuracy': 0.3465345902}
+setting accuracy {u'time_in_ms': 75.58608055, u'iteration': 242, u'gain': 0.001319183963, u'accuracy': 0.3478537742}
+setting accuracy {u'time_in_ms': 77.72397995, u'iteration': 243, u'gain': 0.001317808033, u'accuracy': 0.3491715822}
+setting accuracy {u'time_in_ms': 79.05101776, u'iteration': 244, u'gain': 0.001316428333, u'accuracy': 0.3504880106}
+setting accuracy {u'time_in_ms': 71.25711441, u'iteration': 245, u'gain': 0.001315044884, u'accuracy': 0.3518030555}
+gain  in the last epoch is  0.046824131068
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.046824131068
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.351803
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 30.2248128796
+setting accuracy {u'time_in_ms': 74.44214821, u'iteration': 246, u'gain': 0.001313657707, u'accuracy': 0.3531167132}
+setting accuracy {u'time_in_ms': 174.8538017, u'iteration': 247, u'gain': 0.001312266821, u'accuracy': 0.35442898}
+setting accuracy {u'time_in_ms': 75.71101189, u'iteration': 248, u'gain': 0.001310872247, u'accuracy': 0.3557398522}
+setting accuracy {u'time_in_ms': 78.65214348, u'iteration': 249, u'gain': 0.001309474006, u'accuracy': 0.3570493262}
+setting accuracy {u'time_in_ms': 87.49294281, u'iteration': 250, u'gain': 0.001308072117, u'accuracy': 0.3583573984}
+setting accuracy {u'time_in_ms': 92.59819984, u'iteration': 251, u'gain': 0.001306666602, u'accuracy': 0.359664065}
+setting accuracy {u'time_in_ms': 78.08804512, u'iteration': 252, u'gain': 0.00130525748, u'accuracy': 0.3609693224}
+setting accuracy {u'time_in_ms': 116.6350842, u'iteration': 253, u'gain': 0.001303844773, u'accuracy': 0.3622731672}
+setting accuracy {u'time_in_ms': 67.15989113, u'iteration': 254, u'gain': 0.001302428499, u'accuracy': 0.3635755957}
+setting accuracy {u'time_in_ms': 67.34514236, u'iteration': 255, u'gain': 0.001301008681, u'accuracy': 0.3648766044}
+setting accuracy {u'time_in_ms': 71.41304016, u'iteration': 256, u'gain': 0.001299585338, u'accuracy': 0.3661761897}
+setting accuracy {u'time_in_ms': 64.80407715, u'iteration': 257, u'gain': 0.001298158491, u'accuracy': 0.3674743482}
+setting accuracy {u'time_in_ms': 60.74881554, u'iteration': 258, u'gain': 0.001296728161, u'accuracy': 0.3687710764}
+setting accuracy {u'time_in_ms': 86.57288551, u'iteration': 259, u'gain': 0.001295294368, u'accuracy': 0.3700663707}
+setting accuracy {u'time_in_ms': 90.2121067, u'iteration': 260, u'gain': 0.001293857132, u'accuracy': 0.3713602279}
+setting accuracy {u'time_in_ms': 135.95891, u'iteration': 261, u'gain': 0.001292416474, u'accuracy': 0.3726526444}
+setting accuracy {u'time_in_ms': 74.83005524, u'iteration': 262, u'gain': 0.001290972415, u'accuracy': 0.3739436168}
+setting accuracy {u'time_in_ms': 87.36395836, u'iteration': 263, u'gain': 0.001289524976, u'accuracy': 0.3752331417}
+setting accuracy {u'time_in_ms': 79.66995239, u'iteration': 264, u'gain': 0.001288074176, u'accuracy': 0.3765212159}
+setting accuracy {u'time_in_ms': 70.33801079, u'iteration': 265, u'gain': 0.001286620036, u'accuracy': 0.377807836}
+setting accuracy {u'time_in_ms': 82.96489716, u'iteration': 266, u'gain': 0.001285162578, u'accuracy': 0.3790929985}
+setting accuracy {u'time_in_ms': 163.9821529, u'iteration': 267, u'gain': 0.001283701821, u'accuracy': 0.3803767004}
+setting accuracy {u'time_in_ms': 79.50806618, u'iteration': 268, u'gain': 0.001282237787, u'accuracy': 0.3816589381}
+setting accuracy {u'time_in_ms': 85.46900749, u'iteration': 269, u'gain': 0.001280770496, u'accuracy': 0.3829397086}
+setting accuracy {u'time_in_ms': 92.91100502, u'iteration': 270, u'gain': 0.001279299968, u'accuracy': 0.3842190086}
+setting accuracy {u'time_in_ms': 85.03484726, u'iteration': 271, u'gain': 0.001277826224, u'accuracy': 0.3854968348}
+setting accuracy {u'time_in_ms': 117.5580025, u'iteration': 272, u'gain': 0.001276349285, u'accuracy': 0.3867731841}
+setting accuracy {u'time_in_ms': 82.0980072, u'iteration': 273, u'gain': 0.001274869172, u'accuracy': 0.3880480533}
+setting accuracy {u'time_in_ms': 67.91400909, u'iteration': 274, u'gain': 0.001273385905, u'accuracy': 0.3893214392}
+setting accuracy {u'time_in_ms': 79.60700989, u'iteration': 275, u'gain': 0.001271899505, u'accuracy': 0.3905933387}
+gain  in the last epoch is  0.038790283241
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.038790283241
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.390593
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 27.605728727
+setting accuracy {u'time_in_ms': 81.50482178, u'iteration': 276, u'gain': 0.001270409992, u'accuracy': 0.3918637487}
+setting accuracy {u'time_in_ms': 76.34210587, u'iteration': 277, u'gain': 0.001268917388, u'accuracy': 0.3931326661}
+setting accuracy {u'time_in_ms': 65.02485275, u'iteration': 278, u'gain': 0.001267421712, u'accuracy': 0.3944000878}
+setting accuracy {u'time_in_ms': 88.00816536, u'iteration': 279, u'gain': 0.001265922986, u'accuracy': 0.3956660108}
+setting accuracy {u'time_in_ms': 67.57616997, u'iteration': 280, u'gain': 0.001264421231, u'accuracy': 0.396930432}
+setting accuracy {u'time_in_ms': 85.19220352, u'iteration': 281, u'gain': 0.001262916466, u'accuracy': 0.3981933485}
+setting accuracy {u'time_in_ms': 67.7189827, u'iteration': 282, u'gain': 0.001261408713, u'accuracy': 0.3994547572}
+setting accuracy {u'time_in_ms': 83.86206627, u'iteration': 283, u'gain': 0.001259897992, u'accuracy': 0.4007146552}
+setting accuracy {u'time_in_ms': 68.24111938, u'iteration': 284, u'gain': 0.001258384324, u'accuracy': 0.4019730395}
+setting accuracy {u'time_in_ms': 86.78507805, u'iteration': 285, u'gain': 0.00125686773, u'accuracy': 0.4032299072}
+setting accuracy {u'time_in_ms': 68.71891022, u'iteration': 286, u'gain': 0.00125534823, u'accuracy': 0.4044852555}
+setting accuracy {u'time_in_ms': 84.77711678, u'iteration': 287, u'gain': 0.001253825846, u'accuracy': 0.4057390813}
+setting accuracy {u'time_in_ms': 78.01604271, u'iteration': 288, u'gain': 0.001252300597, u'accuracy': 0.4069913819}
+setting accuracy {u'time_in_ms': 77.4140358, u'iteration': 289, u'gain': 0.001250772504, u'accuracy': 0.4082421544}
+setting accuracy {u'time_in_ms': 95.29900551, u'iteration': 290, u'gain': 0.001249241588, u'accuracy': 0.409491396}
+setting accuracy {u'time_in_ms': 77.97217369, u'iteration': 291, u'gain': 0.001247707871, u'accuracy': 0.4107391039}
+setting accuracy {u'time_in_ms': 77.36611366, u'iteration': 292, u'gain': 0.001246171371, u'accuracy': 0.4119852752}
+setting accuracy {u'time_in_ms': 76.43294334, u'iteration': 293, u'gain': 0.001244632111, u'accuracy': 0.4132299073}
+setting accuracy {u'time_in_ms': 64.74900246, u'iteration': 294, u'gain': 0.00124309011, u'accuracy': 0.4144729975}
+setting accuracy {u'time_in_ms': 90.03305435, u'iteration': 295, u'gain': 0.00124154539, u'accuracy': 0.4157145428}
+setting accuracy {u'time_in_ms': 70.14107704, u'iteration': 296, u'gain': 0.001239997971, u'accuracy': 0.4169545408}
+setting accuracy {u'time_in_ms': 86.63892746, u'iteration': 297, u'gain': 0.001238447873, u'accuracy': 0.4181929887}
+setting accuracy {u'time_in_ms': 82.75914192, u'iteration': 298, u'gain': 0.001236895117, u'accuracy': 0.4194298838}
+setting accuracy {u'time_in_ms': 78.44185829, u'iteration': 299, u'gain': 0.001235339725, u'accuracy': 0.4206652235}
+setting accuracy {u'time_in_ms': 87.18109131, u'iteration': 300, u'gain': 0.001233781716, u'accuracy': 0.4218990053}
+setting accuracy {u'time_in_ms': 74.31316376, u'iteration': 301, u'gain': 0.001232221111, u'accuracy': 0.4231312264}
+setting accuracy {u'time_in_ms': 83.20188522, u'iteration': 302, u'gain': 0.00123065793, u'accuracy': 0.4243618843}
+gain  in the last epoch is  0.033768545595
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.033768545595
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.424362
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 29.1848502747
+setting accuracy {u'time_in_ms': 77.09479332, u'iteration': 303, u'gain': 0.001229092195, u'accuracy': 0.4255909765}
+setting accuracy {u'time_in_ms': 80.66797256, u'iteration': 304, u'gain': 0.001227523926, u'accuracy': 0.4268185004}
+setting accuracy {u'time_in_ms': 77.1420002, u'iteration': 305, u'gain': 0.001225953143, u'accuracy': 0.4280444536}
+setting accuracy {u'time_in_ms': 71.65408134, u'iteration': 306, u'gain': 0.001224379867, u'accuracy': 0.4292688334}
+setting accuracy {u'time_in_ms': 88.65809441, u'iteration': 307, u'gain': 0.001222804118, u'accuracy': 0.4304916375}
+setting accuracy {u'time_in_ms': 73.24099541, u'iteration': 308, u'gain': 0.001221225918, u'accuracy': 0.4317128635}
+setting accuracy {u'time_in_ms': 81.58183098, u'iteration': 309, u'gain': 0.001219645286, u'accuracy': 0.4329325087}
+setting accuracy {u'time_in_ms': 75.82402229, u'iteration': 310, u'gain': 0.001218062243, u'accuracy': 0.434150571}
+setting accuracy {u'time_in_ms': 78.50384712, u'iteration': 311, u'gain': 0.001216476809, u'accuracy': 0.4353670478}
+setting accuracy {u'time_in_ms': 78.13692093, u'iteration': 312, u'gain': 0.001214889005, u'accuracy': 0.4365819368}
+setting accuracy {u'time_in_ms': 78.50813866, u'iteration': 313, u'gain': 0.001213298852, u'accuracy': 0.4377952357}
+setting accuracy {u'time_in_ms': 87.50796318, u'iteration': 314, u'gain': 0.00121170637, u'accuracy': 0.439006942}
+setting accuracy {u'time_in_ms': 76.77292824, u'iteration': 315, u'gain': 0.001210111579, u'accuracy': 0.4402170536}
+setting accuracy {u'time_in_ms': 78.4008503, u'iteration': 316, u'gain': 0.001208514499, u'accuracy': 0.4414255681}
+setting accuracy {u'time_in_ms': 78.72509956, u'iteration': 317, u'gain': 0.001206915152, u'accuracy': 0.4426324833}
+setting accuracy {u'time_in_ms': 73.69184494, u'iteration': 318, u'gain': 0.001205313557, u'accuracy': 0.4438377968}
+setting accuracy {u'time_in_ms': 86.65204048, u'iteration': 319, u'gain': 0.001203709735, u'accuracy': 0.4450415065}
+setting accuracy {u'time_in_ms': 68.06206703, u'iteration': 320, u'gain': 0.001202103706, u'accuracy': 0.4462436102}
+setting accuracy {u'time_in_ms': 86.21406555, u'iteration': 321, u'gain': 0.00120049549, u'accuracy': 0.4474441057}
+setting accuracy {u'time_in_ms': 76.03311539, u'iteration': 322, u'gain': 0.001198885108, u'accuracy': 0.4486429908}
+setting accuracy {u'time_in_ms': 78.73606682, u'iteration': 323, u'gain': 0.00119727258, u'accuracy': 0.4498402634}
+setting accuracy {u'time_in_ms': 82.00788498, u'iteration': 324, u'gain': 0.001195657927, u'accuracy': 0.4510359214}
+setting accuracy {u'time_in_ms': 72.05104828, u'iteration': 325, u'gain': 0.001194041168, u'accuracy': 0.4522299625}
+setting accuracy {u'time_in_ms': 86.55500412, u'iteration': 326, u'gain': 0.001192422324, u'accuracy': 0.4534223848}
+setting accuracy {u'time_in_ms': 75.72984695, u'iteration': 327, u'gain': 0.001190801414, u'accuracy': 0.4546131863}
+setting accuracy {u'time_in_ms': 83.47916603, u'iteration': 328, u'gain': 0.00118917846, u'accuracy': 0.4558023647}
+setting accuracy {u'time_in_ms': 78.78780365, u'iteration': 329, u'gain': 0.001187553481, u'accuracy': 0.4569899182}
+setting accuracy {u'time_in_ms': 74.05900955, u'iteration': 330, u'gain': 0.001185926498, u'accuracy': 0.4581758447}
+setting accuracy {u'time_in_ms': 86.68494225, u'iteration': 331, u'gain': 0.00118429753, u'accuracy': 0.4593601422}
+gain  in the last epoch is  0.03499825794
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.03499825794
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.459360
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 31.3663176806
+setting accuracy {u'time_in_ms': 71.73299789, u'iteration': 332, u'gain': 0.001182666598, u'accuracy': 0.4605428088}
+setting accuracy {u'time_in_ms': 86.18712425, u'iteration': 333, u'gain': 0.001181033721, u'accuracy': 0.4617238425}
+setting accuracy {u'time_in_ms': 77.57496834, u'iteration': 334, u'gain': 0.00117939892, u'accuracy': 0.4629032415}
+setting accuracy {u'time_in_ms': 80.74712753, u'iteration': 335, u'gain': 0.001177762215, u'accuracy': 0.4640810037}
+setting accuracy {u'time_in_ms': 78.83906364, u'iteration': 336, u'gain': 0.001176123626, u'accuracy': 0.4652571273}
+setting accuracy {u'time_in_ms': 71.00892067, u'iteration': 337, u'gain': 0.001174483172, u'accuracy': 0.4664316105}
+setting accuracy {u'time_in_ms': 89.38002586, u'iteration': 338, u'gain': 0.001172840874, u'accuracy': 0.4676044514}
+setting accuracy {u'time_in_ms': 79.2081356, u'iteration': 339, u'gain': 0.001171196752, u'accuracy': 0.4687756481}
+setting accuracy {u'time_in_ms': 64.7919178, u'iteration': 340, u'gain': 0.001169550825, u'accuracy': 0.4699451989}
+setting accuracy {u'time_in_ms': 55.40204048, u'iteration': 341, u'gain': 0.001167903113, u'accuracy': 0.471113102}
+setting accuracy {u'time_in_ms': 63.6279583, u'iteration': 342, u'gain': 0.001166253637, u'accuracy': 0.4722793557}
+setting accuracy {u'time_in_ms': 70.3561306, u'iteration': 343, u'gain': 0.001164602415, u'accuracy': 0.4734439581}
+setting accuracy {u'time_in_ms': 50.61888695, u'iteration': 344, u'gain': 0.001162949468, u'accuracy': 0.4746069076}
+setting accuracy {u'time_in_ms': 67.86704063, u'iteration': 345, u'gain': 0.001161294816, u'accuracy': 0.4757682024}
+setting accuracy {u'time_in_ms': 69.14806366, u'iteration': 346, u'gain': 0.001159638478, u'accuracy': 0.4769278409}
+setting accuracy {u'time_in_ms': 67.46101379, u'iteration': 347, u'gain': 0.001157980474, u'accuracy': 0.4780858213}
+setting accuracy {u'time_in_ms': 50.97699165, u'iteration': 348, u'gain': 0.001156320823, u'accuracy': 0.4792421422}
+setting accuracy {u'time_in_ms': 67.41094589, u'iteration': 349, u'gain': 0.001154659546, u'accuracy': 0.4803968017}
+setting accuracy {u'time_in_ms': 72.11112976, u'iteration': 350, u'gain': 0.001152996661, u'accuracy': 0.4815497984}
+setting accuracy {u'time_in_ms': 64.60213661, u'iteration': 351, u'gain': 0.001151332188, u'accuracy': 0.4827011306}
+setting accuracy {u'time_in_ms': 56.20503426, u'iteration': 352, u'gain': 0.001149666148, u'accuracy': 0.4838507967}
+setting accuracy {u'time_in_ms': 66.32494926, u'iteration': 353, u'gain': 0.001147998559, u'accuracy': 0.4849987953}
+setting accuracy {u'time_in_ms': 75.42204857, u'iteration': 354, u'gain': 0.001146329441, u'accuracy': 0.4861451247}
+setting accuracy {u'time_in_ms': 55.61494827, u'iteration': 355, u'gain': 0.001144658813, u'accuracy': 0.4872897835}
+setting accuracy {u'time_in_ms': 64.19992447, u'iteration': 356, u'gain': 0.001142986694, u'accuracy': 0.4884327702}
+setting accuracy {u'time_in_ms': 71.62094116, u'iteration': 357, u'gain': 0.001141313105, u'accuracy': 0.4895740833}
+setting accuracy {u'time_in_ms': 52.16288567, u'iteration': 358, u'gain': 0.001139638065, u'accuracy': 0.4907137214}
+setting accuracy {u'time_in_ms': 68.65286827, u'iteration': 359, u'gain': 0.001137961592, u'accuracy': 0.491851683}
+setting accuracy {u'time_in_ms': 71.76804543, u'iteration': 360, u'gain': 0.001136283706, u'accuracy': 0.4929879667}
+setting accuracy {u'time_in_ms': 65.35887718, u'iteration': 361, u'gain': 0.001134604427, u'accuracy': 0.4941225711}
+setting accuracy {u'time_in_ms': 56.0438633, u'iteration': 362, u'gain': 0.001132923773, u'accuracy': 0.4952554949}
+gain  in the last epoch is  0.035895352645
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.035895352645
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.495255
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 33.1388560176
+setting accuracy {u'time_in_ms': 67.8961277, u'iteration': 363, u'gain': 0.001131241763, u'accuracy': 0.4963867366}
+setting accuracy {u'time_in_ms': 72.48902321, u'iteration': 364, u'gain': 0.001129558418, u'accuracy': 0.4975162951}
+setting accuracy {u'time_in_ms': 52.17003822, u'iteration': 365, u'gain': 0.001127873755, u'accuracy': 0.4986441688}
+setting accuracy {u'time_in_ms': 70.24407387, u'iteration': 366, u'gain': 0.001126187794, u'accuracy': 0.4997703566}
+setting accuracy {u'time_in_ms': 73.70591164, u'iteration': 367, u'gain': 0.001124500555, u'accuracy': 0.5008948572}
+setting accuracy {u'time_in_ms': 52.31189728, u'iteration': 368, u'gain': 0.001122812055, u'accuracy': 0.5020176692}
+setting accuracy {u'time_in_ms': 71.79117203, u'iteration': 369, u'gain': 0.001121122314, u'accuracy': 0.5031387915}
+setting accuracy {u'time_in_ms': 74.21207428, u'iteration': 370, u'gain': 0.001119431351, u'accuracy': 0.5042582229}
+setting accuracy {u'time_in_ms': 52.06513405, u'iteration': 371, u'gain': 0.001117739185, u'accuracy': 0.5053759621}
+setting accuracy {u'time_in_ms': 69.21100616, u'iteration': 372, u'gain': 0.001116045834, u'accuracy': 0.5064920079}
+setting accuracy {u'time_in_ms': 73.26006889, u'iteration': 373, u'gain': 0.001114351318, u'accuracy': 0.5076063592}
+setting accuracy {u'time_in_ms': 65.83404541, u'iteration': 374, u'gain': 0.001112655655, u'accuracy': 0.5087190149}
+setting accuracy {u'time_in_ms': 58.43186378, u'iteration': 375, u'gain': 0.001110958864, u'accuracy': 0.5098299737}
+setting accuracy {u'time_in_ms': 75.1478672, u'iteration': 376, u'gain': 0.001109260963, u'accuracy': 0.5109392347}
+setting accuracy {u'time_in_ms': 66.177845, u'iteration': 377, u'gain': 0.001107561972, u'accuracy': 0.5120467967}
+setting accuracy {u'time_in_ms': 57.03616142, u'iteration': 378, u'gain': 0.001105861908, u'accuracy': 0.5131526586}
+setting accuracy {u'time_in_ms': 72.90101051, u'iteration': 379, u'gain': 0.001104160791, u'accuracy': 0.5142568194}
+setting accuracy {u'time_in_ms': 67.03400612, u'iteration': 380, u'gain': 0.001102458638, u'accuracy': 0.515359278}
+setting accuracy {u'time_in_ms': 58.10689926, u'iteration': 381, u'gain': 0.001100755469, u'accuracy': 0.5164600335}
+setting accuracy {u'time_in_ms': 71.7921257, u'iteration': 382, u'gain': 0.001099051302, u'accuracy': 0.5175590848}
+setting accuracy {u'time_in_ms': 69.04196739, u'iteration': 383, u'gain': 0.001097346155, u'accuracy': 0.5186564309}
+setting accuracy {u'time_in_ms': 58.47907066, u'iteration': 384, u'gain': 0.001095640047, u'accuracy': 0.519752071}
+setting accuracy {u'time_in_ms': 71.03991508, u'iteration': 385, u'gain': 0.001093932996, u'accuracy': 0.520846004}
+setting accuracy {u'time_in_ms': 69.89097595, u'iteration': 386, u'gain': 0.001092225019, u'accuracy': 0.521938229}
+setting accuracy {u'time_in_ms': 57.71422386, u'iteration': 387, u'gain': 0.001090516137, u'accuracy': 0.5230287451}
+setting accuracy {u'time_in_ms': 70.48392296, u'iteration': 388, u'gain': 0.001088806366, u'accuracy': 0.5241175515}
+setting accuracy {u'time_in_ms': 69.63181496, u'iteration': 389, u'gain': 0.001087095724, u'accuracy': 0.5252046472}
+setting accuracy {u'time_in_ms': 53.32899094, u'iteration': 390, u'gain': 0.001085384231, u'accuracy': 0.5262900315}
+setting accuracy {u'time_in_ms': 70.74308395, u'iteration': 391, u'gain': 0.001083671903, u'accuracy': 0.5273737034}
+setting accuracy {u'time_in_ms': 74.34487343, u'iteration': 392, u'gain': 0.001081958759, u'accuracy': 0.5284556621}
+setting accuracy {u'time_in_ms': 54.28290367, u'iteration': 393, u'gain': 0.001080244817, u'accuracy': 0.5295359069}
+setting accuracy {u'time_in_ms': 71.46406174, u'iteration': 394, u'gain': 0.001078530095, u'accuracy': 0.530614437}
+setting accuracy {u'time_in_ms': 74.79190826, u'iteration': 395, u'gain': 0.001076814611, u'accuracy': 0.5316912516}
+gain  in the last epoch is  0.036435756764
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.036435756764
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.531691
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 41.3929733755
+setting accuracy {u'time_in_ms': 54.35705185, u'iteration': 396, u'gain': 0.001075098382, u'accuracy': 0.53276635}
+setting accuracy {u'time_in_ms': 70.52397728, u'iteration': 397, u'gain': 0.001073381427, u'accuracy': 0.5338397314}
+setting accuracy {u'time_in_ms': 75.2620697, u'iteration': 398, u'gain': 0.001071663763, u'accuracy': 0.5349113952}
+setting accuracy {u'time_in_ms': 64.64600563, u'iteration': 399, u'gain': 0.001069945407, u'accuracy': 0.5359813406}
+setting accuracy {u'time_in_ms': 76.45392418, u'iteration': 400, u'gain': 0.001068226378, u'accuracy': 0.537049567}
+setting accuracy {u'time_in_ms': 66.23506546, u'iteration': 401, u'gain': 0.001066506694, u'accuracy': 0.5381160737}
+setting accuracy {u'time_in_ms': 57.02495575, u'iteration': 402, u'gain': 0.00106478637, u'accuracy': 0.5391808601}
+setting accuracy {u'time_in_ms': 75.67214966, u'iteration': 403, u'gain': 0.001063065426, u'accuracy': 0.5402439255}
+setting accuracy {u'time_in_ms': 66.62392616, u'iteration': 404, u'gain': 0.001061343879, u'accuracy': 0.5413052694}
+setting accuracy {u'time_in_ms': 59.08513069, u'iteration': 405, u'gain': 0.001059621745, u'accuracy': 0.5423648911}
+setting accuracy {u'time_in_ms': 75.38700104, u'iteration': 406, u'gain': 0.001057899043, u'accuracy': 0.5434227902}
+setting accuracy {u'time_in_ms': 68.57705116, u'iteration': 407, u'gain': 0.00105617579, u'accuracy': 0.5444789659}
+setting accuracy {u'time_in_ms': 59.15689468, u'iteration': 408, u'gain': 0.001054452002, u'accuracy': 0.5455334179}
+setting accuracy {u'time_in_ms': 91.98689461, u'iteration': 409, u'gain': 0.001052727698, u'accuracy': 0.5465861456}
+setting accuracy {u'time_in_ms': 102.3788452, u'iteration': 410, u'gain': 0.001051002894, u'accuracy': 0.5476371485}
+setting accuracy {u'time_in_ms': 98.98495674, u'iteration': 411, u'gain': 0.001049277608, u'accuracy': 0.5486864261}
+setting accuracy {u'time_in_ms': 113.5730743, u'iteration': 412, u'gain': 0.001047551857, u'accuracy': 0.549733978}
+setting accuracy {u'time_in_ms': 94.23899651, u'iteration': 413, u'gain': 0.001045825657, u'accuracy': 0.5507798037}
+setting accuracy {u'time_in_ms': 108.0350876, u'iteration': 414, u'gain': 0.001044099026, u'accuracy': 0.5518239027}
+setting accuracy {u'time_in_ms': 70.50013542, u'iteration': 415, u'gain': 0.00104237198, u'accuracy': 0.5528662747}
+setting accuracy {u'time_in_ms': 74.60904121, u'iteration': 416, u'gain': 0.001040644537, u'accuracy': 0.5539069192}
+setting accuracy {u'time_in_ms': 75.95896721, u'iteration': 417, u'gain': 0.001038916713, u'accuracy': 0.5549458359}
+setting accuracy {u'time_in_ms': 73.05192947, u'iteration': 418, u'gain': 0.001037188526, u'accuracy': 0.5559830244}
+setting accuracy {u'time_in_ms': 86.37595177, u'iteration': 419, u'gain': 0.001035459991, u'accuracy': 0.5570184844}
+setting accuracy {u'time_in_ms': 86.70496941, u'iteration': 420, u'gain': 0.001033731126, u'accuracy': 0.5580522156}
+setting accuracy {u'time_in_ms': 124.2969036, u'iteration': 421, u'gain': 0.001032001947, u'accuracy': 0.5590842175}
+setting accuracy {u'time_in_ms': 119.7009087, u'iteration': 422, u'gain': 0.00103027247, u'accuracy': 0.56011449}
+setting accuracy {u'time_in_ms': 194.8721409, u'iteration': 423, u'gain': 0.001028542713, u'accuracy': 0.5611430327}
+setting accuracy {u'time_in_ms': 237.1630669, u'iteration': 424, u'gain': 0.001026812692, u'accuracy': 0.5621698454}
+setting accuracy {u'time_in_ms': 273.6520767, u'iteration': 425, u'gain': 0.001025082423, u'accuracy': 0.5631949278}
+setting accuracy {u'time_in_ms': 260.7479095, u'iteration': 426, u'gain': 0.001023351923, u'accuracy': 0.5642182797}
+setting accuracy {u'time_in_ms': 86.92002296, u'iteration': 427, u'gain': 0.001021621207, u'accuracy': 0.5652399009}
+setting accuracy {u'time_in_ms': 82.72099495, u'iteration': 428, u'gain': 0.001019890293, u'accuracy': 0.5662597912}
+setting accuracy {u'time_in_ms': 105.8809757, u'iteration': 429, u'gain': 0.001018159196, u'accuracy': 0.5672779504}
+setting accuracy {u'time_in_ms': 323.5211372, u'iteration': 430, u'gain': 0.001016427932, u'accuracy': 0.5682943784}
+setting accuracy {u'time_in_ms': 135.1590157, u'iteration': 431, u'gain': 0.001014696519, u'accuracy': 0.5693090749}
+setting accuracy {u'time_in_ms': 206.125021, u'iteration': 432, u'gain': 0.001012964971, u'accuracy': 0.5703220398}
+setting accuracy {u'time_in_ms': 152.3628235, u'iteration': 433, u'gain': 0.001011233305, u'accuracy': 0.5713332731}
+setting accuracy {u'time_in_ms': 156.1479568, u'iteration': 434, u'gain': 0.001009501537, u'accuracy': 0.5723427747}
+setting accuracy {u'time_in_ms': 243.2618141, u'iteration': 435, u'gain': 0.001007769682, u'accuracy': 0.5733505444}
+setting accuracy {u'time_in_ms': 398.1149197, u'iteration': 436, u'gain': 0.001006037757, u'accuracy': 0.5743565821}
+gain  in the last epoch is  0.042665330486
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.042665330486
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.574357
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 14.8240982288
+setting accuracy {u'time_in_ms': 151.7798901, u'iteration': 437, u'gain': 0.001004305777, u'accuracy': 0.5753608879}
+setting accuracy {u'time_in_ms': 396.8119621, u'iteration': 438, u'gain': 0.001002573758, u'accuracy': 0.5763634617}
+setting accuracy {u'time_in_ms': 281.0862064, u'iteration': 439, u'gain': 0.001000841717, u'accuracy': 0.5773643034}
+setting accuracy {u'time_in_ms': 383.21805, u'iteration': 440, u'gain': 0.0009991096671, u'accuracy': 0.578363413}
+setting accuracy {u'time_in_ms': 292.5450802, u'iteration': 441, u'gain': 0.0009973776256, u'accuracy': 0.5793607907}
+setting accuracy {u'time_in_ms': 211.5302086, u'iteration': 442, u'gain': 0.0009956456076, u'accuracy': 0.5803564363}
+setting accuracy {u'time_in_ms': 110.6569767, u'iteration': 443, u'gain': 0.0009939136286, u'accuracy': 0.5813503499}
+setting accuracy {u'time_in_ms': 218.7139988, u'iteration': 444, u'gain': 0.0009921817041, u'accuracy': 0.5823425316}
+setting accuracy {u'time_in_ms': 143.5370445, u'iteration': 445, u'gain': 0.0009904498494, u'accuracy': 0.5833329815}
+setting accuracy {u'time_in_ms': 88.66906166, u'iteration': 446, u'gain': 0.0009887180798, u'accuracy': 0.5843216995}
+setting accuracy {u'time_in_ms': 189.098835, u'iteration': 447, u'gain': 0.0009869864106, u'accuracy': 0.585308686}
+setting accuracy {u'time_in_ms': 106.0349941, u'iteration': 448, u'gain': 0.0009852548569, u'accuracy': 0.5862939408}
+setting accuracy {u'time_in_ms': 115.1340008, u'iteration': 449, u'gain': 0.0009835234341, u'accuracy': 0.5872774642}
+setting accuracy {u'time_in_ms': 97.68915176, u'iteration': 450, u'gain': 0.000981792157, u'accuracy': 0.5882592564}
+gain  in the last epoch is  0.0139026742728
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.0139026742728
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.588259
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 11.1381722494
+setting accuracy {u'time_in_ms': 202.008009, u'iteration': 451, u'gain': 0.0009800610409, u'accuracy': 0.5892393174}
+setting accuracy {u'time_in_ms': 171.9999313, u'iteration': 452, u'gain': 0.0009783301006, u'accuracy': 0.5902176475}
+setting accuracy {u'time_in_ms': 151.5409946, u'iteration': 453, u'gain': 0.0009765993511, u'accuracy': 0.5911942469}
+setting accuracy {u'time_in_ms': 72.99494743, u'iteration': 454, u'gain': 0.0009748688073, u'accuracy': 0.5921691157}
+setting accuracy {u'time_in_ms': 78.11498642, u'iteration': 455, u'gain': 0.0009731384839, u'accuracy': 0.5931422542}
+setting accuracy {u'time_in_ms': 81.31694794, u'iteration': 456, u'gain': 0.0009714083959, u'accuracy': 0.5941136626}
+setting accuracy {u'time_in_ms': 94.78616714, u'iteration': 457, u'gain': 0.0009696785577, u'accuracy': 0.5950833411}
+setting accuracy {u'time_in_ms': 98.44589233, u'iteration': 458, u'gain': 0.0009679489842, u'accuracy': 0.5960512901}
+setting accuracy {u'time_in_ms': 95.26205063, u'iteration': 459, u'gain': 0.0009662196899, u'accuracy': 0.5970175098}
+setting accuracy {u'time_in_ms': 97.16510773, u'iteration': 460, u'gain': 0.0009644906894, u'accuracy': 0.5979820005}
+setting accuracy {u'time_in_ms': 96.62699699, u'iteration': 461, u'gain': 0.000962761997, u'accuracy': 0.5989447625}
+gain  in the last epoch is  0.0106855060979
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.0106855060979
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.598945
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 24.0623564173
+setting accuracy {u'time_in_ms': 93.50705147, u'iteration': 462, u'gain': 0.0009610336274, u'accuracy': 0.5999057961}
+setting accuracy {u'time_in_ms': 93.62792969, u'iteration': 463, u'gain': 0.0009593055947, u'accuracy': 0.6008651017}
+setting accuracy {u'time_in_ms': 80.93380928, u'iteration': 464, u'gain': 0.0009575779134, u'accuracy': 0.6018226796}
+setting accuracy {u'time_in_ms': 133.5060596, u'iteration': 465, u'gain': 0.0009558505977, u'accuracy': 0.6027785302}
+setting accuracy {u'time_in_ms': 161.4789963, u'iteration': 466, u'gain': 0.0009541236618, u'accuracy': 0.6037326539}
+setting accuracy {u'time_in_ms': 230.3249836, u'iteration': 467, u'gain': 0.0009523971198, u'accuracy': 0.604685051}
+setting accuracy {u'time_in_ms': 126.9931793, u'iteration': 468, u'gain': 0.0009506709858, u'accuracy': 0.605635722}
+setting accuracy {u'time_in_ms': 155.6930542, u'iteration': 469, u'gain': 0.0009489452739, u'accuracy': 0.6065846673}
+setting accuracy {u'time_in_ms': 98.62112999, u'iteration': 470, u'gain': 0.000947219998, u'accuracy': 0.6075318873}
+setting accuracy {u'time_in_ms': 95.60918808, u'iteration': 471, u'gain': 0.0009454951721, u'accuracy': 0.6084773824}
+setting accuracy {u'time_in_ms': 89.80607986, u'iteration': 472, u'gain': 0.00094377081, u'accuracy': 0.6094211533}
+setting accuracy {u'time_in_ms': 74.99289513, u'iteration': 473, u'gain': 0.0009420469254, u'accuracy': 0.6103632002}
+setting accuracy {u'time_in_ms': 74.06997681, u'iteration': 474, u'gain': 0.0009403235322, u'accuracy': 0.6113035237}
+setting accuracy {u'time_in_ms': 64.11600113, u'iteration': 475, u'gain': 0.0009386006441, u'accuracy': 0.6122421244}
+setting accuracy {u'time_in_ms': 61.70606613, u'iteration': 476, u'gain': 0.0009368782746, u'accuracy': 0.6131790026}
+setting accuracy {u'time_in_ms': 50.39286613, u'iteration': 477, u'gain': 0.0009351564373, u'accuracy': 0.6141141591}
+setting accuracy {u'time_in_ms': 67.44599342, u'iteration': 478, u'gain': 0.0009334351458, u'accuracy': 0.6150475942}
+setting accuracy {u'time_in_ms': 68.5968399, u'iteration': 479, u'gain': 0.0009317144134, u'accuracy': 0.6159793086}
+setting accuracy {u'time_in_ms': 63.20905685, u'iteration': 480, u'gain': 0.0009299942537, u'accuracy': 0.6169093029}
+setting accuracy {u'time_in_ms': 51.19395256, u'iteration': 481, u'gain': 0.0009282746799, u'accuracy': 0.6178375776}
+setting accuracy {u'time_in_ms': 69.01478767, u'iteration': 482, u'gain': 0.0009265557053, u'accuracy': 0.6187641333}
+setting accuracy {u'time_in_ms': 67.1889782, u'iteration': 483, u'gain': 0.0009248373432, u'accuracy': 0.6196889706}
+setting accuracy {u'time_in_ms': 62.74008751, u'iteration': 484, u'gain': 0.0009231196067, u'accuracy': 0.6206120902}
+setting accuracy {u'time_in_ms': 59.49807167, u'iteration': 485, u'gain': 0.0009214025089, u'accuracy': 0.6215334927}
+gain  in the last epoch is  0.0225887302251
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.0225887302251
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.621533
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 32.0053177237
+setting accuracy {u'time_in_ms': 70.30081749, u'iteration': 486, u'gain': 0.0009196860628, u'accuracy': 0.6224531788}
+setting accuracy {u'time_in_ms': 62.73698807, u'iteration': 487, u'gain': 0.0009179702816, u'accuracy': 0.6233711491}
+setting accuracy {u'time_in_ms': 52.99019814, u'iteration': 488, u'gain': 0.000916255178, u'accuracy': 0.6242874042}
+setting accuracy {u'time_in_ms': 65.05608559, u'iteration': 489, u'gain': 0.000914540765, u'accuracy': 0.625201945}
+setting accuracy {u'time_in_ms': 68.33791733, u'iteration': 490, u'gain': 0.0009128270554, u'accuracy': 0.6261147721}
+setting accuracy {u'time_in_ms': 63.22693825, u'iteration': 491, u'gain': 0.000911114062, u'accuracy': 0.6270258861}
+setting accuracy {u'time_in_ms': 50.70304871, u'iteration': 492, u'gain': 0.0009094017974, u'accuracy': 0.6279352879}
+setting accuracy {u'time_in_ms': 67.67511368, u'iteration': 493, u'gain': 0.0009076902744, u'accuracy': 0.6288429782}
+setting accuracy {u'time_in_ms': 71.03300095, u'iteration': 494, u'gain': 0.0009059795054, u'accuracy': 0.6297489577}
+setting accuracy {u'time_in_ms': 64.11600113, u'iteration': 495, u'gain': 0.000904269503, u'accuracy': 0.6306532272}
+setting accuracy {u'time_in_ms': 51.84793472, u'iteration': 496, u'gain': 0.0009025602798, u'accuracy': 0.6315557875}
+setting accuracy {u'time_in_ms': 67.22807884, u'iteration': 497, u'gain': 0.000900851848, u'accuracy': 0.6324566393}
+setting accuracy {u'time_in_ms': 69.66400146, u'iteration': 498, u'gain': 0.0008991442201, u'accuracy': 0.6333557836}
+setting accuracy {u'time_in_ms': 63.79580498, u'iteration': 499, u'gain': 0.0008974374083, u'accuracy': 0.634253221}
+setting accuracy {u'time_in_ms': 52.01005936, u'iteration': 500, u'gain': 0.0008957314249, u'accuracy': 0.6351489524}
+setting accuracy {u'time_in_ms': 74.23496246, u'iteration': 501, u'gain': 0.0008940262821, u'accuracy': 0.6360429787}
+setting accuracy {u'time_in_ms': 64.3761158, u'iteration': 502, u'gain': 0.000892321992, u'accuracy': 0.6369353007}
+setting accuracy {u'time_in_ms': 64.13793564, u'iteration': 503, u'gain': 0.0008906185666, u'accuracy': 0.6378259192}
+setting accuracy {u'time_in_ms': 56.12611771, u'iteration': 504, u'gain': 0.0008889160179, u'accuracy': 0.6387148352}
+setting accuracy {u'time_in_ms': 69.90599632, u'iteration': 505, u'gain': 0.000887214358, u'accuracy': 0.6396020496}
+setting accuracy {u'time_in_ms': 65.6979084, u'iteration': 506, u'gain': 0.0008855135986, u'accuracy': 0.6404875632}
+setting accuracy {u'time_in_ms': 53.12180519, u'iteration': 507, u'gain': 0.0008838137516, u'accuracy': 0.641371377}
+setting accuracy {u'time_in_ms': 78.4740448, u'iteration': 508, u'gain': 0.0008821148288, u'accuracy': 0.6422534918}
+setting accuracy {u'time_in_ms': 65.74988365, u'iteration': 509, u'gain': 0.0008804168419, u'accuracy': 0.6431339086}
+setting accuracy {u'time_in_ms': 53.95698547, u'iteration': 510, u'gain': 0.0008787198026, u'accuracy': 0.6440126284}
+setting accuracy {u'time_in_ms': 69.62394714, u'iteration': 511, u'gain': 0.0008770237223, u'accuracy': 0.6448896521}
+setting accuracy {u'time_in_ms': 70.68181038, u'iteration': 512, u'gain': 0.0008753286128, u'accuracy': 0.6457649808}
+setting accuracy {u'time_in_ms': 64.43595886, u'iteration': 513, u'gain': 0.0008736344854, u'accuracy': 0.6466386152}
+setting accuracy {u'time_in_ms': 55.88006973, u'iteration': 514, u'gain': 0.0008719413515, u'accuracy': 0.6475105566}
+setting accuracy {u'time_in_ms': 69.9942112, u'iteration': 515, u'gain': 0.0008702492226, u'accuracy': 0.6483808058}
+setting accuracy {u'time_in_ms': 65.08302689, u'iteration': 516, u'gain': 0.0008685581099, u'accuracy': 0.6492493639}
+setting accuracy {u'time_in_ms': 52.72388458, u'iteration': 517, u'gain': 0.0008668680247, u'accuracy': 0.650116232}
+gain  in the last epoch is  0.0285827392354
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.0285827392354
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.650116
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 32.0103114791
+setting accuracy {u'time_in_ms': 70.28985024, u'iteration': 518, u'gain': 0.0008651789782, u'accuracy': 0.6509814109}
+setting accuracy {u'time_in_ms': 69.30494308, u'iteration': 519, u'gain': 0.0008634909814, u'accuracy': 0.6518449019}
+setting accuracy {u'time_in_ms': 67.1441555, u'iteration': 520, u'gain': 0.0008618040456, u'accuracy': 0.652706706}
+setting accuracy {u'time_in_ms': 56.51402473, u'iteration': 521, u'gain': 0.0008601181815, u'accuracy': 0.6535668241}
+setting accuracy {u'time_in_ms': 71.01011276, u'iteration': 522, u'gain': 0.0008584334004, u'accuracy': 0.6544252575}
+setting accuracy {u'time_in_ms': 64.28384781, u'iteration': 523, u'gain': 0.0008567497129, u'accuracy': 0.6552820073}
+setting accuracy {u'time_in_ms': 53.33089828, u'iteration': 524, u'gain': 0.00085506713, u'accuracy': 0.6561370744}
+setting accuracy {u'time_in_ms': 73.50301743, u'iteration': 525, u'gain': 0.0008533856624, u'accuracy': 0.65699046}
+setting accuracy {u'time_in_ms': 66.39885902, u'iteration': 526, u'gain': 0.0008517053209, u'accuracy': 0.6578421654}
+setting accuracy {u'time_in_ms': 65.54794312, u'iteration': 527, u'gain': 0.0008500261161, u'accuracy': 0.6586921915}
+setting accuracy {u'time_in_ms': 58.35008621, u'iteration': 528, u'gain': 0.0008483480587, u'accuracy': 0.6595405395}
+setting accuracy {u'time_in_ms': 71.39897347, u'iteration': 529, u'gain': 0.0008466711591, u'accuracy': 0.6603872107}
+setting accuracy {u'time_in_ms': 66.01381302, u'iteration': 530, u'gain': 0.0008449954279, u'accuracy': 0.6612322061}
+setting accuracy {u'time_in_ms': 57.6710701, u'iteration': 531, u'gain': 0.0008433208755, u'accuracy': 0.662075527}
+setting accuracy {u'time_in_ms': 72.62301445, u'iteration': 532, u'gain': 0.0008416475122, u'accuracy': 0.6629171745}
+setting accuracy {u'time_in_ms': 65.37294388, u'iteration': 533, u'gain': 0.0008399753485, u'accuracy': 0.6637571499}
+setting accuracy {u'time_in_ms': 54.30293083, u'iteration': 534, u'gain': 0.0008383043945, u'accuracy': 0.6645954543}
+setting accuracy {u'time_in_ms': 74.91803169, u'iteration': 535, u'gain': 0.0008366346604, u'accuracy': 0.6654320889}
+setting accuracy {u'time_in_ms': 66.9131279, u'iteration': 536, u'gain': 0.0008349661564, u'accuracy': 0.6662670551}
+setting accuracy {u'time_in_ms': 56.16784096, u'iteration': 537, u'gain': 0.0008332988926, u'accuracy': 0.667100354}
+setting accuracy {u'time_in_ms': 74.61309433, u'iteration': 538, u'gain': 0.000831632879, u'accuracy': 0.6679319869}
+setting accuracy {u'time_in_ms': 67.62385368, u'iteration': 539, u'gain': 0.0008299681255, u'accuracy': 0.668761955}
+setting accuracy {u'time_in_ms': 54.09479141, u'iteration': 540, u'gain': 0.0008283046422, u'accuracy': 0.6695902596}
+setting accuracy {u'time_in_ms': 69.25392151, u'iteration': 541, u'gain': 0.0008266424388, u'accuracy': 0.6704169021}
+setting accuracy {u'time_in_ms': 72.1487999, u'iteration': 542, u'gain': 0.0008249815251, u'accuracy': 0.6712418836}
+setting accuracy {u'time_in_ms': 64.98384476, u'iteration': 543, u'gain': 0.0008233219109, u'accuracy': 0.6720652055}
+setting accuracy {u'time_in_ms': 89.25700188, u'iteration': 544, u'gain': 0.0008216636058, u'accuracy': 0.6728868691}
+setting accuracy {u'time_in_ms': 88.8941288, u'iteration': 545, u'gain': 0.0008200066196, u'accuracy': 0.6737068757}
+setting accuracy {u'time_in_ms': 68.33291054, u'iteration': 546, u'gain': 0.0008183509616, u'accuracy': 0.6745252267}
+setting accuracy {u'time_in_ms': 72.24488258, u'iteration': 547, u'gain': 0.0008166966416, u'accuracy': 0.6753419233}
+setting accuracy {u'time_in_ms': 67.93212891, u'iteration': 548, u'gain': 0.0008150436689, u'accuracy': 0.676156967}
+setting accuracy {u'time_in_ms': 67.14582443, u'iteration': 549, u'gain': 0.0008133920529, u'accuracy': 0.676970359}
+gain  in the last epoch is  0.0268541270871
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.0268541270871
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.676970
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+iterations completed 0.974175761773
+gain  in the last epoch is  0
+iterations completed 31.7914076951
+setting accuracy {u'time_in_ms': 70.77383995, u'iteration': 550, u'gain': 0.0008117418029, u'accuracy': 0.6777821008}
+setting accuracy {u'time_in_ms': 69.20790672, u'iteration': 551, u'gain': 0.0008100929284, u'accuracy': 0.6785921938}
+setting accuracy {u'time_in_ms': 68.64786148, u'iteration': 552, u'gain': 0.0008084454383, u'accuracy': 0.6794006392}
+setting accuracy {u'time_in_ms': 73.01998138, u'iteration': 553, u'gain': 0.0008067993421, u'accuracy': 0.6802074386}
+setting accuracy {u'time_in_ms': 86.52901649, u'iteration': 554, u'gain': 0.0008051546487, u'accuracy': 0.6810125932}
+setting accuracy {u'time_in_ms': 99.3680954, u'iteration': 555, u'gain': 0.0008035113672, u'accuracy': 0.6818161046}
+setting accuracy {u'time_in_ms': 111.3569736, u'iteration': 556, u'gain': 0.0008018695066, u'accuracy': 0.6826179741}
+setting accuracy {u'time_in_ms': 118.2219982, u'iteration': 557, u'gain': 0.0008002290759, u'accuracy': 0.6834182032}
+setting accuracy {u'time_in_ms': 172.9040146, u'iteration': 558, u'gain': 0.000798590084, u'accuracy': 0.6842167932}
+setting accuracy {u'time_in_ms': 223.5879898, u'iteration': 559, u'gain': 0.0007969525396, u'accuracy': 0.6850137458}
+setting accuracy {u'time_in_ms': 288.9921665, u'iteration': 560, u'gain': 0.0007953164516, u'accuracy': 0.6858090622}
+setting accuracy {u'time_in_ms': 231.1370373, u'iteration': 561, u'gain': 0.0007936818287, u'accuracy': 0.6866027441}
+setting accuracy {u'time_in_ms': 86.99297905, u'iteration': 562, u'gain': 0.0007920486795, u'accuracy': 0.6873947927}
+setting accuracy {u'time_in_ms': 78.9399147, u'iteration': 563, u'gain': 0.0007904170128, u'accuracy': 0.6881852098}
+setting accuracy {u'time_in_ms': 94.91801262, u'iteration': 564, u'gain': 0.0007887868369, u'accuracy': 0.6889739966}
+setting accuracy {u'time_in_ms': 191.4348602, u'iteration': 565, u'gain': 0.0007871581604, u'accuracy': 0.6897611547}
+setting accuracy {u'time_in_ms': 118.2560921, u'iteration': 566, u'gain': 0.0007855309918, u'accuracy': 0.6905466857}
+setting accuracy {u'time_in_ms': 77.68082619, u'iteration': 567, u'gain': 0.0007839053394, u'accuracy': 0.6913305911}
+setting accuracy {u'time_in_ms': 75.27089119, u'iteration': 568, u'gain': 0.0007822812116, u'accuracy': 0.6921128723}
+setting accuracy {u'time_in_ms': 69.02599335, u'iteration': 569, u'gain': 0.0007806586167, u'accuracy': 0.6928935309}
+setting accuracy {u'time_in_ms': 69.06890869, u'iteration': 570, u'gain': 0.0007790375628, u'accuracy': 0.6936725685}
+setting accuracy {u'time_in_ms': 67.44503975, u'iteration': 571, u'gain': 0.0007774180582, u'accuracy': 0.6944499865}
+setting accuracy {u'time_in_ms': 68.7289238, u'iteration': 572, u'gain': 0.0007758001109, u'accuracy': 0.6952257866}
+setting accuracy {u'time_in_ms': 67.26717949, u'iteration': 573, u'gain': 0.000774183729, u'accuracy': 0.6959999704}
+setting accuracy {u'time_in_ms': 68.78089905, u'iteration': 574, u'gain': 0.0007725689205, u'accuracy': 0.6967725393}
+setting accuracy {u'time_in_ms': 83.85396004, u'iteration': 575, u'gain': 0.0007709556934, u'accuracy': 0.697543495}
+setting accuracy {u'time_in_ms': 67.94691086, u'iteration': 576, u'gain': 0.0007693440555, u'accuracy': 0.698312839}
+setting accuracy {u'time_in_ms': 68.36700439, u'iteration': 577, u'gain': 0.0007677340147, u'accuracy': 0.6990805731}
+setting accuracy {u'time_in_ms': 69.3321228, u'iteration': 578, u'gain': 0.0007661255787, u'accuracy': 0.6998466986}
+setting accuracy {u'time_in_ms': 69.72813606, u'iteration': 579, u'gain': 0.0007645187553, u'accuracy': 0.7006112174}
+setting accuracy {u'time_in_ms': 71.13599777, u'iteration': 580, u'gain': 0.0007629135522, u'accuracy': 0.7013741309}
+gain  in the last epoch is  0.0244037718943
+iterations completed 0.568221155099
+gain  in the last epoch is  0
+total gain 0.0244037718943
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.701374
+accuracy of the job sigmoid is 0.956522
+allocation is {0: 10, 1: 180.0, 2: 10}
+starting job logistic_regression
+starting job k-means
+starting job sigmoid
+running fair sched
+iterations completed 6.56298457013
+setting accuracy {u'time_in_ms': 100.564003, u'iteration': 1, u'gain': 0.1003433319, u'accuracy': 0.1003433319}
+setting accuracy {u'time_in_ms': 89.52498436, u'iteration': 2, u'gain': 0.05869708635, u'accuracy': 0.1590404182}
+setting accuracy {u'time_in_ms': 90.55113792, u'iteration': 3, u'gain': 0.04164624554, u'accuracy': 0.2006866638}
+setting accuracy {u'time_in_ms': 97.63598442, u'iteration': 4, u'gain': 0.03230333767, u'accuracy': 0.2329900014}
+setting accuracy {u'time_in_ms': 95.99304199, u'iteration': 5, u'gain': 0.02639374868, u'accuracy': 0.2593837501}
+setting accuracy {u'time_in_ms': 86.70687675, u'iteration': 6, u'gain': 0.02231559654, u'accuracy': 0.2816993467}
+gain  in the last epoch is  0.28169934668
+iterations completed 14.9100125386
+setting accuracy {u'time_in_ms': 55.33194542, u'iteration': 1, u'gain': 0, u'accuracy': 0.001499998875}
+setting accuracy {u'time_in_ms': 47.56712914, u'iteration': 2, u'gain': 0.001499992125, u'accuracy': 0.002999991}
+setting accuracy {u'time_in_ms': 47.48415947, u'iteration': 3, u'gain': 0.001499978625, u'accuracy': 0.004499969625}
+setting accuracy {u'time_in_ms': 46.29087448, u'iteration': 4, u'gain': 0.001499958376, u'accuracy': 0.005999928001}
+setting accuracy {u'time_in_ms': 43.29109192, u'iteration': 5, u'gain': 0.001499931377, u'accuracy': 0.007499859378}
+setting accuracy {u'time_in_ms': 40.41099548, u'iteration': 6, u'gain': 0.00149989763, u'accuracy': 0.008999757008}
+setting accuracy {u'time_in_ms': 43.25413704, u'iteration': 7, u'gain': 0.001499857134, u'accuracy': 0.01049961414}
+setting accuracy {u'time_in_ms': 43.41292381, u'iteration': 8, u'gain': 0.001499809891, u'accuracy': 0.01199942403}
+setting accuracy {u'time_in_ms': 42.72007942, u'iteration': 9, u'gain': 0.001499755902, u'accuracy': 0.01349917993}
+setting accuracy {u'time_in_ms': 44.23689842, u'iteration': 10, u'gain': 0.001499695166, u'accuracy': 0.0149988751}
+setting accuracy {u'time_in_ms': 53.52210999, u'iteration': 11, u'gain': 0.001499627687, u'accuracy': 0.01649850279}
+setting accuracy {u'time_in_ms': 41.50891304, u'iteration': 12, u'gain': 0.001499553464, u'accuracy': 0.01799805625}
+setting accuracy {u'time_in_ms': 43.60985756, u'iteration': 13, u'gain': 0.001499472499, u'accuracy': 0.01949752875}
+setting accuracy {u'time_in_ms': 43.00618172, u'iteration': 14, u'gain': 0.001499384794, u'accuracy': 0.02099691354}
+gain  in the last epoch is  0.01949691467
+iterations completed 3.77492988015
+setting accuracy {u'time_in_ms': 270.966053, u'iteration': 1, u'gain': 0.5, u'accuracy': 0.5}
+setting accuracy {u'time_in_ms': 272.4318504, u'iteration': 2, u'gain': 0.1666666667, u'accuracy': 0.6666666667}
+setting accuracy {u'time_in_ms': 273.6918926, u'iteration': 3, u'gain': 0.08333333333, u'accuracy': 0.75}
+gain  in the last epoch is  0.75000000003
+total gain 1.05119626138
+accuracy of the job logistic_regression is 0.281699
+accuracy of the job k-means is 0.020997
+accuracy of the job sigmoid is 0.750000
+iterations completed 6.51292505767
+setting accuracy {u'time_in_ms': 101.336956, u'iteration': 7, u'gain': 0.01933064899, u'accuracy': 0.3010299957}
+setting accuracy {u'time_in_ms': 91.72201157, u'iteration': 8, u'gain': 0.01705084082, u'accuracy': 0.3180808365}
+setting accuracy {u'time_in_ms': 97.10621834, u'iteration': 9, u'gain': 0.01525249685, u'accuracy': 0.3333333333}
+setting accuracy {u'time_in_ms': 90.58189392, u'iteration': 10, u'gain': 0.01379756172, u'accuracy': 0.3471308951}
+setting accuracy {u'time_in_ms': 89.36691284, u'iteration': 11, u'gain': 0.01259618696, u'accuracy': 0.359727082}
+setting accuracy {u'time_in_ms': 88.11092377, u'iteration': 12, u'gain': 0.01158736875, u'accuracy': 0.3713144508}
+gain  in the last epoch is  0.08961510409
+iterations completed 19.969418281
+setting accuracy {u'time_in_ms': 41.31317139, u'iteration': 15, u'gain': 0.001499290349, u'accuracy': 0.02249620389}
+setting accuracy {u'time_in_ms': 43.2600975, u'iteration': 16, u'gain': 0.001499189168, u'accuracy': 0.02399539306}
+setting accuracy {u'time_in_ms': 42.56391525, u'iteration': 17, u'gain': 0.001499081251, u'accuracy': 0.02549447431}
+setting accuracy {u'time_in_ms': 43.45703125, u'iteration': 18, u'gain': 0.0014989666, u'accuracy': 0.02699344091}
+setting accuracy {u'time_in_ms': 42.38581657, u'iteration': 19, u'gain': 0.001498845219, u'accuracy': 0.02849228613}
+setting accuracy {u'time_in_ms': 43.37406158, u'iteration': 20, u'gain': 0.001498717108, u'accuracy': 0.02999100324}
+setting accuracy {u'time_in_ms': 45.30501366, u'iteration': 21, u'gain': 0.00149858227, u'accuracy': 0.03148958551}
+setting accuracy {u'time_in_ms': 41.66507721, u'iteration': 22, u'gain': 0.001498440707, u'accuracy': 0.03298802622}
+setting accuracy {u'time_in_ms': 41.88203812, u'iteration': 23, u'gain': 0.001498292423, u'accuracy': 0.03448631864}
+setting accuracy {u'time_in_ms': 43.46513748, u'iteration': 24, u'gain': 0.001498137419, u'accuracy': 0.03598445606}
+setting accuracy {u'time_in_ms': 42.9930687, u'iteration': 25, u'gain': 0.001497975699, u'accuracy': 0.03748243176}
+setting accuracy {u'time_in_ms': 47.57404327, u'iteration': 26, u'gain': 0.001497807265, u'accuracy': 0.03898023902}
+setting accuracy {u'time_in_ms': 42.24705696, u'iteration': 27, u'gain': 0.001497632121, u'accuracy': 0.04047787114}
+setting accuracy {u'time_in_ms': 42.01483727, u'iteration': 28, u'gain': 0.001497450269, u'accuracy': 0.04197532141}
+setting accuracy {u'time_in_ms': 42.07992554, u'iteration': 29, u'gain': 0.001497261714, u'accuracy': 0.04347258313}
+setting accuracy {u'time_in_ms': 43.81799698, u'iteration': 30, u'gain': 0.001497066457, u'accuracy': 0.04496964958}
+setting accuracy {u'time_in_ms': 43.17998886, u'iteration': 31, u'gain': 0.001496864503, u'accuracy': 0.04646651409}
+setting accuracy {u'time_in_ms': 45.17006874, u'iteration': 32, u'gain': 0.001496655856, u'accuracy': 0.04796316994}
+setting accuracy {u'time_in_ms': 43.96605492, u'iteration': 33, u'gain': 0.001496440518, u'accuracy': 0.04945961046}
+gain  in the last epoch is  0.028462696916
+iterations completed 3.75028401029
+setting accuracy {u'time_in_ms': 293.3111191, u'iteration': 4, u'gain': 0.05, u'accuracy': 0.8}
+setting accuracy {u'time_in_ms': 271.0781097, u'iteration': 5, u'gain': 0.03333333333, u'accuracy': 0.8333333333}
+setting accuracy {u'time_in_ms': 273.1227875, u'iteration': 6, u'gain': 0.02380952381, u'accuracy': 0.8571428571}
+gain  in the last epoch is  0.10714285714
+total gain 0.225220658146
+accuracy of the job logistic_regression is 0.371314
+accuracy of the job k-means is 0.049460
+accuracy of the job sigmoid is 0.857143
+iterations completed 4.84240910046
+setting accuracy {u'time_in_ms': 136.2957954, u'iteration': 13, u'gain': 0.01072822779, u'accuracy': 0.3820426786}
+setting accuracy {u'time_in_ms': 219.9959755, u'iteration': 14, u'gain': 0.009987741126, u'accuracy': 0.3920304197}
+setting accuracy {u'time_in_ms': 102.5280952, u'iteration': 15, u'gain': 0.009342907867, u'accuracy': 0.4013733276}
+setting accuracy {u'time_in_ms': 101.225853, u'iteration': 16, u'gain': 0.008776312907, u'accuracy': 0.4101496405}
+gain  in the last epoch is  0.03883518969
+iterations completed 18.9193961637
+setting accuracy {u'time_in_ms': 43.60604286, u'iteration': 34, u'gain': 0.001496218495, u'accuracy': 0.05095582895}
+setting accuracy {u'time_in_ms': 42.0460701, u'iteration': 35, u'gain': 0.001495989789, u'accuracy': 0.05245181874}
+setting accuracy {u'time_in_ms': 43.2870388, u'iteration': 36, u'gain': 0.001495754406, u'accuracy': 0.05394757315}
+setting accuracy {u'time_in_ms': 41.37015343, u'iteration': 37, u'gain': 0.001495512349, u'accuracy': 0.0554430855}
+setting accuracy {u'time_in_ms': 42.82093048, u'iteration': 38, u'gain': 0.001495263622, u'accuracy': 0.05693834912}
+setting accuracy {u'time_in_ms': 53.41815948, u'iteration': 39, u'gain': 0.00149500823, u'accuracy': 0.05843335735}
+setting accuracy {u'time_in_ms': 52.38008499, u'iteration': 40, u'gain': 0.001494746179, u'accuracy': 0.05992810353}
+setting accuracy {u'time_in_ms': 53.10797691, u'iteration': 41, u'gain': 0.001494477471, u'accuracy': 0.061422581}
+setting accuracy {u'time_in_ms': 42.97399521, u'iteration': 42, u'gain': 0.001494202113, u'accuracy': 0.06291678311}
+setting accuracy {u'time_in_ms': 51.87296867, u'iteration': 43, u'gain': 0.001493920108, u'accuracy': 0.06441070322}
+setting accuracy {u'time_in_ms': 52.932024, u'iteration': 44, u'gain': 0.001493631463, u'accuracy': 0.06590433468}
+setting accuracy {u'time_in_ms': 44.31796074, u'iteration': 45, u'gain': 0.001493336182, u'accuracy': 0.06739767087}
+setting accuracy {u'time_in_ms': 53.31587791, u'iteration': 46, u'gain': 0.001493034271, u'accuracy': 0.06889070514}
+setting accuracy {u'time_in_ms': 54.4128418, u'iteration': 47, u'gain': 0.001492725734, u'accuracy': 0.07038343087}
+setting accuracy {u'time_in_ms': 41.26286507, u'iteration': 48, u'gain': 0.001492410578, u'accuracy': 0.07187584145}
+setting accuracy {u'time_in_ms': 53.54785919, u'iteration': 49, u'gain': 0.001492088808, u'accuracy': 0.07336793026}
+setting accuracy {u'time_in_ms': 54.37803268, u'iteration': 50, u'gain': 0.00149176043, u'accuracy': 0.07485969069}
+setting accuracy {u'time_in_ms': 43.69306564, u'iteration': 51, u'gain': 0.00149142545, u'accuracy': 0.07635111614}
+gain  in the last epoch is  0.026891505678
+iterations completed 4.02785825098
+setting accuracy {u'time_in_ms': 273.0979919, u'iteration': 7, u'gain': 0.01785714286, u'accuracy': 0.875}
+setting accuracy {u'time_in_ms': 274.0120888, u'iteration': 8, u'gain': 0.01388888889, u'accuracy': 0.8888888889}
+setting accuracy {u'time_in_ms': 275.2289772, u'iteration': 9, u'gain': 0.01111111111, u'accuracy': 0.9}
+setting accuracy {u'time_in_ms': 269.8531151, u'iteration': 10, u'gain': 0.009090909091, u'accuracy': 0.9090909091}
+gain  in the last epoch is  0.051948051951
+total gain 0.117674747319
+accuracy of the job logistic_regression is 0.410150
+accuracy of the job k-means is 0.076351
+accuracy of the job sigmoid is 0.909091
+iterations completed 7.46395916714
+setting accuracy {u'time_in_ms': 88.42492104, u'iteration': 17, u'gain': 0.008274527908, u'accuracy': 0.4184241684}
+setting accuracy {u'time_in_ms': 84.2602253, u'iteration': 18, u'gain': 0.00782703195, u'accuracy': 0.4262512003}
+setting accuracy {u'time_in_ms': 99.58600998, u'iteration': 19, u'gain': 0.007425464904, u'accuracy': 0.4336766652}
+setting accuracy {u'time_in_ms': 89.38097954, u'iteration': 20, u'gain': 0.00706309969, u'accuracy': 0.4407397649}
+setting accuracy {u'time_in_ms': 97.19896317, u'iteration': 21, u'gain': 0.006734462029, u'accuracy': 0.4474742269}
+setting accuracy {u'time_in_ms': 90.09003639, u'iteration': 22, u'gain': 0.006435051732, u'accuracy': 0.4539092787}
+setting accuracy {u'time_in_ms': 105.1578522, u'iteration': 23, u'gain': 0.006161135231, u'accuracy': 0.4600704139}
+gain  in the last epoch is  0.049920773444
+iterations completed 15.6532199392
+setting accuracy {u'time_in_ms': 52.7048111, u'iteration': 52, u'gain': 0.001491083873, u'accuracy': 0.07784220001}
+setting accuracy {u'time_in_ms': 51.86700821, u'iteration': 53, u'gain': 0.001490735707, u'accuracy': 0.07933293572}
+setting accuracy {u'time_in_ms': 41.73088074, u'iteration': 54, u'gain': 0.001490380956, u'accuracy': 0.08082331667}
+setting accuracy {u'time_in_ms': 52.74915695, u'iteration': 55, u'gain': 0.001490019627, u'accuracy': 0.0823133363}
+setting accuracy {u'time_in_ms': 56.78796768, u'iteration': 56, u'gain': 0.001489651727, u'accuracy': 0.08380298803}
+setting accuracy {u'time_in_ms': 46.08988762, u'iteration': 57, u'gain': 0.001489277263, u'accuracy': 0.08529226529}
+setting accuracy {u'time_in_ms': 56.05602264, u'iteration': 58, u'gain': 0.001488896241, u'accuracy': 0.08678116153}
+setting accuracy {u'time_in_ms': 49.48496819, u'iteration': 59, u'gain': 0.001488508667, u'accuracy': 0.0882696702}
+setting accuracy {u'time_in_ms': 57.74188042, u'iteration': 60, u'gain': 0.001488114549, u'accuracy': 0.08975778475}
+setting accuracy {u'time_in_ms': 53.86900902, u'iteration': 61, u'gain': 0.001487713893, u'accuracy': 0.09124549864}
+setting accuracy {u'time_in_ms': 58.95400047, u'iteration': 62, u'gain': 0.001487306708, u'accuracy': 0.09273280535}
+setting accuracy {u'time_in_ms': 65.03987312, u'iteration': 63, u'gain': 0.001486892999, u'accuracy': 0.09421969835}
+setting accuracy {u'time_in_ms': 56.58388138, u'iteration': 64, u'gain': 0.001486472775, u'accuracy': 0.09570617112}
+setting accuracy {u'time_in_ms': 53.47704887, u'iteration': 65, u'gain': 0.001486046043, u'accuracy': 0.09719221717}
+setting accuracy {u'time_in_ms': 44.80719566, u'iteration': 66, u'gain': 0.00148561281, u'accuracy': 0.09867782998}
+gain  in the last epoch is  0.022326713838
+iterations completed 3.97086009301
+setting accuracy {u'time_in_ms': 277.0180702, u'iteration': 11, u'gain': 0.007575757576, u'accuracy': 0.9166666667}
+setting accuracy {u'time_in_ms': 274.1289139, u'iteration': 12, u'gain': 0.00641025641, u'accuracy': 0.9230769231}
+setting accuracy {u'time_in_ms': 275.4840851, u'iteration': 13, u'gain': 0.005494505495, u'accuracy': 0.9285714286}
+gain  in the last epoch is  0.019480519481
+total gain 0.091728006763
+accuracy of the job logistic_regression is 0.460070
+accuracy of the job k-means is 0.098678
+accuracy of the job sigmoid is 0.928571
+iterations completed 7.03804904305
+setting accuracy {u'time_in_ms': 93.77598763, u'iteration': 24, u'gain': 0.005909588987, u'accuracy': 0.4659800029}
+setting accuracy {u'time_in_ms': 93.46103668, u'iteration': 25, u'gain': 0.005677779766, u'accuracy': 0.4716577827}
+setting accuracy {u'time_in_ms': 96.33493423, u'iteration': 26, u'gain': 0.005463472063, u'accuracy': 0.4771212547}
+setting accuracy {u'time_in_ms': 218.5940742, u'iteration': 27, u'gain': 0.005264755728, u'accuracy': 0.4823860104}
+setting accuracy {u'time_in_ms': 266.0620213, u'iteration': 28, u'gain': 0.005079988852, u'accuracy': 0.4874659993}
+setting accuracy {u'time_in_ms': 137.6068592, u'iteration': 29, u'gain': 0.004907752274, u'accuracy': 0.4923737516}
+setting accuracy {u'time_in_ms': 98.63400459, u'iteration': 30, u'gain': 0.004746813038, u'accuracy': 0.4971205646}
+gain  in the last epoch is  0.037050150708
+iterations completed 15.614371194
+setting accuracy {u'time_in_ms': 52.83594131, u'iteration': 67, u'gain': 0.001485173084, u'accuracy': 0.1001630031}
+setting accuracy {u'time_in_ms': 54.40306664, u'iteration': 68, u'gain': 0.001484726874, u'accuracy': 0.1016477299}
+setting accuracy {u'time_in_ms': 44.90995407, u'iteration': 69, u'gain': 0.001484274186, u'accuracy': 0.1031320041}
+setting accuracy {u'time_in_ms': 41.88108444, u'iteration': 70, u'gain': 0.001483815029, u'accuracy': 0.1046158191}
+setting accuracy {u'time_in_ms': 35.6669426, u'iteration': 71, u'gain': 0.00148334941, u'accuracy': 0.1060991686}
+setting accuracy {u'time_in_ms': 41.56494141, u'iteration': 72, u'gain': 0.001482877339, u'accuracy': 0.1075820459}
+setting accuracy {u'time_in_ms': 39.98708725, u'iteration': 73, u'gain': 0.001482398824, u'accuracy': 0.1090644447}
+setting accuracy {u'time_in_ms': 44.3520546, u'iteration': 74, u'gain': 0.001481913873, u'accuracy': 0.1105463586}
+setting accuracy {u'time_in_ms': 42.07181931, u'iteration': 75, u'gain': 0.001481422494, u'accuracy': 0.1120277811}
+setting accuracy {u'time_in_ms': 42.37008095, u'iteration': 76, u'gain': 0.001480924697, u'accuracy': 0.1135087058}
+setting accuracy {u'time_in_ms': 36.01789474, u'iteration': 77, u'gain': 0.001480420489, u'accuracy': 0.1149891263}
+setting accuracy {u'time_in_ms': 43.2510376, u'iteration': 78, u'gain': 0.001479909881, u'accuracy': 0.1164690362}
+setting accuracy {u'time_in_ms': 45.23801804, u'iteration': 79, u'gain': 0.001479392881, u'accuracy': 0.117948429}
+setting accuracy {u'time_in_ms': 38.71297836, u'iteration': 80, u'gain': 0.001478869497, u'accuracy': 0.1194272985}
+setting accuracy {u'time_in_ms': 44.55518723, u'iteration': 81, u'gain': 0.001478339741, u'accuracy': 0.1209056383}
+gain  in the last epoch is  0.022227808299
+iterations completed 3.98461198347
+setting accuracy {u'time_in_ms': 276.0620117, u'iteration': 14, u'gain': 0.004761904762, u'accuracy': 0.9333333333}
+setting accuracy {u'time_in_ms': 273.3130455, u'iteration': 15, u'gain': 0.004166666667, u'accuracy': 0.9375}
+setting accuracy {u'time_in_ms': 276.237011, u'iteration': 16, u'gain': 0.003676470588, u'accuracy': 0.9411764706}
+gain  in the last epoch is  0.012605042017
+total gain 0.071883001024
+accuracy of the job logistic_regression is 0.497121
+accuracy of the job k-means is 0.120906
+accuracy of the job sigmoid is 0.941176
+iterations completed 6.47344816662
+setting accuracy {u'time_in_ms': 101.954937, u'iteration': 31, u'gain': 0.004596094829, u'accuracy': 0.5017166594}
+setting accuracy {u'time_in_ms': 108.5169315, u'iteration': 32, u'gain': 0.004454653853, u'accuracy': 0.5061713133}
+setting accuracy {u'time_in_ms': 110.1269722, u'iteration': 33, u'gain': 0.004321659055, u'accuracy': 0.5104929723}
+setting accuracy {u'time_in_ms': 108.0400944, u'iteration': 34, u'gain': 0.004196375769, u'accuracy': 0.5146893481}
+setting accuracy {u'time_in_ms': 118.9880371, u'iteration': 35, u'gain': 0.004078152139, u'accuracy': 0.5187675003}
+setting accuracy {u'time_in_ms': 101.9699574, u'iteration': 36, u'gain': 0.003966407767, u'accuracy': 0.522733908}
+gain  in the last epoch is  0.025613343412
+iterations completed 19.145079421
+setting accuracy {u'time_in_ms': 43.09201241, u'iteration': 82, u'gain': 0.001477803619, u'accuracy': 0.1223834419}
+setting accuracy {u'time_in_ms': 37.62888908, u'iteration': 83, u'gain': 0.001477261143, u'accuracy': 0.123860703}
+setting accuracy {u'time_in_ms': 41.99099541, u'iteration': 84, u'gain': 0.001476712322, u'accuracy': 0.1253374154}
+setting accuracy {u'time_in_ms': 40.38000107, u'iteration': 85, u'gain': 0.001476157165, u'accuracy': 0.1268135725}
+setting accuracy {u'time_in_ms': 66.63608551, u'iteration': 86, u'gain': 0.001475595682, u'accuracy': 0.1282891682}
+setting accuracy {u'time_in_ms': 99.72691536, u'iteration': 87, u'gain': 0.001475027883, u'accuracy': 0.1297641961}
+setting accuracy {u'time_in_ms': 135.4060173, u'iteration': 88, u'gain': 0.001474453777, u'accuracy': 0.1312386499}
+setting accuracy {u'time_in_ms': 119.2469597, u'iteration': 89, u'gain': 0.001473873376, u'accuracy': 0.1327125232}
+setting accuracy {u'time_in_ms': 48.42805862, u'iteration': 90, u'gain': 0.001473286689, u'accuracy': 0.1341858099}
+setting accuracy {u'time_in_ms': 42.20294952, u'iteration': 91, u'gain': 0.001472693726, u'accuracy': 0.1356585037}
+setting accuracy {u'time_in_ms': 38.20085526, u'iteration': 92, u'gain': 0.001472094498, u'accuracy': 0.1371305982}
+setting accuracy {u'time_in_ms': 41.50295258, u'iteration': 93, u'gain': 0.001471489016, u'accuracy': 0.1386020872}
+setting accuracy {u'time_in_ms': 43.81918907, u'iteration': 94, u'gain': 0.001470877289, u'accuracy': 0.1400729645}
+setting accuracy {u'time_in_ms': 41.05401039, u'iteration': 95, u'gain': 0.001470259329, u'accuracy': 0.1415432238}
+setting accuracy {u'time_in_ms': 101.9489765, u'iteration': 96, u'gain': 0.001469635146, u'accuracy': 0.1430128589}
+setting accuracy {u'time_in_ms': 71.78497314, u'iteration': 97, u'gain': 0.001469004752, u'accuracy': 0.1444818637}
+setting accuracy {u'time_in_ms': 124.2001057, u'iteration': 98, u'gain': 0.001468368156, u'accuracy': 0.1459502318}
+setting accuracy {u'time_in_ms': 98.45209122, u'iteration': 99, u'gain': 0.001467725372, u'accuracy': 0.1474179572}
+setting accuracy {u'time_in_ms': 83.99701118, u'iteration': 100, u'gain': 0.001467076408, u'accuracy': 0.1488850336}
+gain  in the last epoch is  0.027979395348
+iterations completed 3.9133370715
+setting accuracy {u'time_in_ms': 281.0900211, u'iteration': 17, u'gain': 0.003267973856, u'accuracy': 0.9444444444}
+setting accuracy {u'time_in_ms': 352.9450893, u'iteration': 18, u'gain': 0.002923976608, u'accuracy': 0.9473684211}
+setting accuracy {u'time_in_ms': 387.9239559, u'iteration': 19, u'gain': 0.002631578947, u'accuracy': 0.95}
+gain  in the last epoch is  0.008823529411
+total gain 0.062416268171
+accuracy of the job logistic_regression is 0.522734
+accuracy of the job k-means is 0.148885
+accuracy of the job sigmoid is 0.950000
+iterations completed 6.08200020842
+setting accuracy {u'time_in_ms': 108.5169315, u'iteration': 37, u'gain': 0.003860624183, u'accuracy': 0.5265945322}
+setting accuracy {u'time_in_ms': 100.3651619, u'iteration': 38, u'gain': 0.003760336803, u'accuracy': 0.530354869}
+setting accuracy {u'time_in_ms': 104.583025, u'iteration': 39, u'gain': 0.0036651281, u'accuracy': 0.5340199971}
+setting accuracy {u'time_in_ms': 99.86591339, u'iteration': 40, u'gain': 0.003574621797, u'accuracy': 0.5375946189}
+setting accuracy {u'time_in_ms': 89.46204185, u'iteration': 41, u'gain': 0.003488477893, u'accuracy': 0.5410830968}
+setting accuracy {u'time_in_ms': 99.81107712, u'iteration': 42, u'gain': 0.003406388394, u'accuracy': 0.5444894852}
+gain  in the last epoch is  0.02175557717
+iterations completed 7.8735535323
+setting accuracy {u'time_in_ms': 104.7811508, u'iteration': 101, u'gain': 0.001466421278, u'accuracy': 0.1503514549}
+setting accuracy {u'time_in_ms': 115.6070232, u'iteration': 102, u'gain': 0.001465759992, u'accuracy': 0.1518172149}
+setting accuracy {u'time_in_ms': 93.11580658, u'iteration': 103, u'gain': 0.001465092562, u'accuracy': 0.1532823075}
+setting accuracy {u'time_in_ms': 117.1648502, u'iteration': 104, u'gain': 0.001464418999, u'accuracy': 0.1547467265}
+setting accuracy {u'time_in_ms': 100.6019115, u'iteration': 105, u'gain': 0.001463739315, u'accuracy': 0.1562104658}
+setting accuracy {u'time_in_ms': 91.51601791, u'iteration': 106, u'gain': 0.001463053522, u'accuracy': 0.1576735193}
+setting accuracy {u'time_in_ms': 111.4439964, u'iteration': 107, u'gain': 0.001462361632, u'accuracy': 0.1591358809}
+gain  in the last epoch is  0.0102508473
+iterations completed 3.63403206182
+setting accuracy {u'time_in_ms': 302.6940823, u'iteration': 20, u'gain': 0.002380952381, u'accuracy': 0.9523809524}
+setting accuracy {u'time_in_ms': 363.3191586, u'iteration': 21, u'gain': 0.002164502165, u'accuracy': 0.9545454545}
+setting accuracy {u'time_in_ms': 281.2490463, u'iteration': 22, u'gain': 0.001976284585, u'accuracy': 0.9565217391}
+gain  in the last epoch is  0.006521739131
+total gain 0.038528163601
+accuracy of the job logistic_regression is 0.544489
+accuracy of the job k-means is 0.159136
+accuracy of the job sigmoid is 0.956522
+iterations completed 7.03504418095
+setting accuracy {u'time_in_ms': 93.81604195, u'iteration': 43, u'gain': 0.003328073636, u'accuracy': 0.5478175588}
+setting accuracy {u'time_in_ms': 104.4490337, u'iteration': 44, u'gain': 0.003253279096, u'accuracy': 0.5510708379}
+setting accuracy {u'time_in_ms': 86.74407005, u'iteration': 45, u'gain': 0.003181772635, u'accuracy': 0.5542526106}
+setting accuracy {u'time_in_ms': 85.94298363, u'iteration': 46, u'gain': 0.003113342085, u'accuracy': 0.5573659526}
+setting accuracy {u'time_in_ms': 87.9919529, u'iteration': 47, u'gain': 0.003047793147, u'accuracy': 0.5604137458}
+setting accuracy {u'time_in_ms': 98.56390953, u'iteration': 48, u'gain': 0.002984947551, u'accuracy': 0.5633986933}
+setting accuracy {u'time_in_ms': 89.22195435, u'iteration': 49, u'gain': 0.002924641436, u'accuracy': 0.5663233348}
+gain  in the last epoch is  0.021833849586
+iterations completed 7.16923051356
+setting accuracy {u'time_in_ms': 115.0751114, u'iteration': 108, u'gain': 0.001461663656, u'accuracy': 0.1605975446}
+setting accuracy {u'time_in_ms': 105.8340073, u'iteration': 109, u'gain': 0.001460959608, u'accuracy': 0.1620585042}
+setting accuracy {u'time_in_ms': 106.1952114, u'iteration': 110, u'gain': 0.001460249498, u'accuracy': 0.1635187537}
+setting accuracy {u'time_in_ms': 99.92599487, u'iteration': 111, u'gain': 0.00145953334, u'accuracy': 0.164978287}
+setting accuracy {u'time_in_ms': 115.6439781, u'iteration': 112, u'gain': 0.001458811145, u'accuracy': 0.1664370982}
+setting accuracy {u'time_in_ms': 107.4211597, u'iteration': 113, u'gain': 0.001458082926, u'accuracy': 0.1678951811}
+setting accuracy {u'time_in_ms': 105.72505, u'iteration': 114, u'gain': 0.001457348697, u'accuracy': 0.1693525298}
+gain  in the last epoch is  0.01021664887
+iterations completed 3.75025962366
+setting accuracy {u'time_in_ms': 293.3130264, u'iteration': 23, u'gain': 0.001811594203, u'accuracy': 0.9583333333}
+setting accuracy {u'time_in_ms': 345.6599712, u'iteration': 24, u'gain': 0.001666666667, u'accuracy': 0.96}
+setting accuracy {u'time_in_ms': 285.5679989, u'iteration': 25, u'gain': 0.001538461538, u'accuracy': 0.9615384615}
+gain  in the last epoch is  0.005016722408
+total gain 0.037067220864
+accuracy of the job logistic_regression is 0.566323
+accuracy of the job k-means is 0.169353
+accuracy of the job sigmoid is 0.961538
+iterations completed 7.55270648755
+setting accuracy {u'time_in_ms': 87.38589287, u'iteration': 50, u'gain': 0.002866723921, u'accuracy': 0.5691900587}
+setting accuracy {u'time_in_ms': 91.95899963, u'iteration': 51, u'gain': 0.002811055846, u'accuracy': 0.5720011145}
+setting accuracy {u'time_in_ms': 100.6100178, u'iteration': 52, u'gain': 0.002757508655, u'accuracy': 0.5747586232}
+setting accuracy {u'time_in_ms': 87.59498596, u'iteration': 53, u'gain': 0.002705963407, u'accuracy': 0.5774645866}
+setting accuracy {u'time_in_ms': 97.27501869, u'iteration': 54, u'gain': 0.00265630989, u'accuracy': 0.5801208965}
+setting accuracy {u'time_in_ms': 94.05207634, u'iteration': 55, u'gain': 0.002608445837, u'accuracy': 0.5827293423}
+setting accuracy {u'time_in_ms': 93.65391731, u'iteration': 56, u'gain': 0.002562276222, u'accuracy': 0.5852916186}
+gain  in the last epoch is  0.018968283778
+iterations completed 6.08973089594
+setting accuracy {u'time_in_ms': 135.4739666, u'iteration': 115, u'gain': 0.001456608468, u'accuracy': 0.1708091383}
+setting accuracy {u'time_in_ms': 395.6170082, u'iteration': 116, u'gain': 0.001455862254, u'accuracy': 0.1722650005}
+setting accuracy {u'time_in_ms': 178.0781746, u'iteration': 117, u'gain': 0.001455110066, u'accuracy': 0.1737201106}
+setting accuracy {u'time_in_ms': 83.91213417, u'iteration': 118, u'gain': 0.001454351919, u'accuracy': 0.1751744625}
+setting accuracy {u'time_in_ms': 82.52310753, u'iteration': 119, u'gain': 0.001453587824, u'accuracy': 0.1766280503}
+setting accuracy {u'time_in_ms': 84.97810364, u'iteration': 120, u'gain': 0.001452817796, u'accuracy': 0.1780808681}
+gain  in the last epoch is  0.008728338327
+iterations completed 3.77208431488
+setting accuracy {u'time_in_ms': 291.615963, u'iteration': 26, u'gain': 0.001424501425, u'accuracy': 0.962962963}
+setting accuracy {u'time_in_ms': 282.6800346, u'iteration': 27, u'gain': 0.001322751323, u'accuracy': 0.9642857143}
+setting accuracy {u'time_in_ms': 274.5778561, u'iteration': 28, u'gain': 0.001231527094, u'accuracy': 0.9655172414}
+gain  in the last epoch is  0.003978779842
+total gain 0.031675401947
+accuracy of the job logistic_regression is 0.585292
+accuracy of the job k-means is 0.178081
+accuracy of the job sigmoid is 0.965517
+iterations completed 6.52058029703
+setting accuracy {u'time_in_ms': 101.2179852, u'iteration': 57, u'gain': 0.00251771263, u'accuracy': 0.5878093312}
+setting accuracy {u'time_in_ms': 97.15890884, u'iteration': 58, u'gain': 0.002474672693, u'accuracy': 0.5902840039}
+setting accuracy {u'time_in_ms': 89.26892281, u'iteration': 59, u'gain': 0.00243307958, u'accuracy': 0.5927170835}
+setting accuracy {u'time_in_ms': 101.6321182, u'iteration': 60, u'gain': 0.002392861542, u'accuracy': 0.595109945}
+setting accuracy {u'time_in_ms': 144.9708939, u'iteration': 61, u'gain': 0.002353951496, u'accuracy': 0.5974638965}
+setting accuracy {u'time_in_ms': 110.4881763, u'iteration': 62, u'gain': 0.002316286652, u'accuracy': 0.5997801832}
+gain  in the last epoch is  0.014488564593
+iterations completed 9.75488279674
+setting accuracy {u'time_in_ms': 84.57303047, u'iteration': 121, u'gain': 0.001452041846, u'accuracy': 0.17953291}
+setting accuracy {u'time_in_ms': 83.87207985, u'iteration': 122, u'gain': 0.00145125999, u'accuracy': 0.18098417}
+setting accuracy {u'time_in_ms': 85.0520134, u'iteration': 123, u'gain': 0.001450472239, u'accuracy': 0.1824346422}
+setting accuracy {u'time_in_ms': 86.92407608, u'iteration': 124, u'gain': 0.001449678607, u'accuracy': 0.1838843208}
+setting accuracy {u'time_in_ms': 84.18893814, u'iteration': 125, u'gain': 0.001448879109, u'accuracy': 0.1853331999}
+setting accuracy {u'time_in_ms': 84.95092392, u'iteration': 126, u'gain': 0.001448073757, u'accuracy': 0.1867812737}
+setting accuracy {u'time_in_ms': 122.5161552, u'iteration': 127, u'gain': 0.001447262566, u'accuracy': 0.1882285362}
+setting accuracy {u'time_in_ms': 85.60705185, u'iteration': 128, u'gain': 0.001446445549, u'accuracy': 0.1896749818}
+setting accuracy {u'time_in_ms': 84.87701416, u'iteration': 129, u'gain': 0.00144562272, u'accuracy': 0.1911206045}
+gain  in the last epoch is  0.013039736383
+iterations completed 4.03289295836
+setting accuracy {u'time_in_ms': 272.7570534, u'iteration': 29, u'gain': 0.001149425287, u'accuracy': 0.9666666667}
+setting accuracy {u'time_in_ms': 277.2669792, u'iteration': 30, u'gain': 0.001075268817, u'accuracy': 0.9677419355}
+setting accuracy {u'time_in_ms': 274.6617794, u'iteration': 31, u'gain': 0.001008064516, u'accuracy': 0.96875}
+setting accuracy {u'time_in_ms': 275.2349377, u'iteration': 32, u'gain': 0.000946969697, u'accuracy': 0.9696969697}
+gain  in the last epoch is  0.004179728317
+total gain 0.031708029293
+accuracy of the job logistic_regression is 0.599780
+accuracy of the job k-means is 0.191121
+accuracy of the job sigmoid is 0.969697
+iterations completed 6.65623267837
+setting accuracy {u'time_in_ms': 99.15518761, u'iteration': 63, u'gain': 0.002279808177, u'accuracy': 0.6020599913}
+setting accuracy {u'time_in_ms': 94.1491127, u'iteration': 64, u'gain': 0.002244460886, u'accuracy': 0.6043044522}
+setting accuracy {u'time_in_ms': 142.4221992, u'iteration': 65, u'gain': 0.002210192966, u'accuracy': 0.6065146452}
+setting accuracy {u'time_in_ms': 106.0109138, u'iteration': 66, u'gain': 0.00217695572, u'accuracy': 0.6086916009}
+setting accuracy {u'time_in_ms': 89.93911743, u'iteration': 67, u'gain': 0.002144703335, u'accuracy': 0.6108363042}
+setting accuracy {u'time_in_ms': 102.4870873, u'iteration': 68, u'gain': 0.002113392677, u'accuracy': 0.6129496969}
+gain  in the last epoch is  0.013169513761
+iterations completed 9.65488408187
+setting accuracy {u'time_in_ms': 85.44898033, u'iteration': 130, u'gain': 0.001444794093, u'accuracy': 0.1925653986}
+setting accuracy {u'time_in_ms': 85.87694168, u'iteration': 131, u'gain': 0.001443959683, u'accuracy': 0.1940093583}
+setting accuracy {u'time_in_ms': 87.13412285, u'iteration': 132, u'gain': 0.001443119503, u'accuracy': 0.1954524778}
+setting accuracy {u'time_in_ms': 144.3839073, u'iteration': 133, u'gain': 0.001442273568, u'accuracy': 0.1968947513}
+setting accuracy {u'time_in_ms': 145.416975, u'iteration': 134, u'gain': 0.001441421892, u'accuracy': 0.1983361732}
+setting accuracy {u'time_in_ms': 97.44906425, u'iteration': 135, u'gain': 0.001440564489, u'accuracy': 0.1997767377}
+setting accuracy {u'time_in_ms': 96.30393982, u'iteration': 136, u'gain': 0.001439701375, u'accuracy': 0.2012164391}
+setting accuracy {u'time_in_ms': 86.82203293, u'iteration': 137, u'gain': 0.001438832563, u'accuracy': 0.2026552717}
+setting accuracy {u'time_in_ms': 91.25900269, u'iteration': 138, u'gain': 0.001437958068, u'accuracy': 0.2040932297}
+gain  in the last epoch is  0.012972625234
+iterations completed 4.04466960914
+setting accuracy {u'time_in_ms': 271.9628811, u'iteration': 33, u'gain': 0.0008912655971, u'accuracy': 0.9705882353}
+setting accuracy {u'time_in_ms': 279.4480324, u'iteration': 34, u'gain': 0.0008403361345, u'accuracy': 0.9714285714}
+setting accuracy {u'time_in_ms': 273.1900215, u'iteration': 35, u'gain': 0.0007936507937, u'accuracy': 0.9722222222}
+setting accuracy {u'time_in_ms': 273.679018, u'iteration': 36, u'gain': 0.0007507507508, u'accuracy': 0.972972973}
+gain  in the last epoch is  0.0032760032761
+total gain 0.0294181422711
+accuracy of the job logistic_regression is 0.612950
+accuracy of the job k-means is 0.204093
+accuracy of the job sigmoid is 0.972973
+iterations completed 6.55984303528
+setting accuracy {u'time_in_ms': 100.6121635, u'iteration': 69, u'gain': 0.002082983092, u'accuracy': 0.61503268}
+setting accuracy {u'time_in_ms': 92.12398529, u'iteration': 70, u'gain': 0.002053436235, u'accuracy': 0.6170861162}
+setting accuracy {u'time_in_ms': 86.1890316, u'iteration': 71, u'gain': 0.002024715904, u'accuracy': 0.6191108321}
+setting accuracy {u'time_in_ms': 86.07888222, u'iteration': 72, u'gain': 0.001996787896, u'accuracy': 0.62110762}
+setting accuracy {u'time_in_ms': 111.6600037, u'iteration': 73, u'gain': 0.00196961987, u'accuracy': 0.6230772399}
+setting accuracy {u'time_in_ms': 171.6079712, u'iteration': 74, u'gain': 0.00194318122, u'accuracy': 0.6250204211}
+gain  in the last epoch is  0.012070724217
+iterations completed 9.71514307534
+setting accuracy {u'time_in_ms': 84.91897583, u'iteration': 139, u'gain': 0.001437077906, u'accuracy': 0.2055303076}
+setting accuracy {u'time_in_ms': 69.93079185, u'iteration': 140, u'gain': 0.00143619209, u'accuracy': 0.2069664997}
+setting accuracy {u'time_in_ms': 68.40491295, u'iteration': 141, u'gain': 0.001435300637, u'accuracy': 0.2084018004}
+setting accuracy {u'time_in_ms': 67.08812714, u'iteration': 142, u'gain': 0.00143440356, u'accuracy': 0.2098362039}
+setting accuracy {u'time_in_ms': 64.29696083, u'iteration': 143, u'gain': 0.001433500876, u'accuracy': 0.2112697048}
+setting accuracy {u'time_in_ms': 67.68298149, u'iteration': 144, u'gain': 0.001432592598, u'accuracy': 0.2127022974}
+setting accuracy {u'time_in_ms': 65.77181816, u'iteration': 145, u'gain': 0.001431678743, u'accuracy': 0.2141339761}
+setting accuracy {u'time_in_ms': 66.22505188, u'iteration': 146, u'gain': 0.001430759326, u'accuracy': 0.2155647355}
+setting accuracy {u'time_in_ms': 65.52600861, u'iteration': 147, u'gain': 0.001429834362, u'accuracy': 0.2169945698}
+gain  in the last epoch is  0.012901340098
+iterations completed 4.01250470682
+setting accuracy {u'time_in_ms': 274.1429806, u'iteration': 37, u'gain': 0.0007112375533, u'accuracy': 0.9736842105}
+setting accuracy {u'time_in_ms': 276.720047, u'iteration': 38, u'gain': 0.0006747638327, u'accuracy': 0.9743589744}
+setting accuracy {u'time_in_ms': 274.6767998, u'iteration': 39, u'gain': 0.000641025641, u'accuracy': 0.975}
+setting accuracy {u'time_in_ms': 280.479908, u'iteration': 40, u'gain': 0.0006097560976, u'accuracy': 0.9756097561}
+gain  in the last epoch is  0.0026367831246
+total gain 0.0276088474396
+accuracy of the job logistic_regression is 0.625020
+accuracy of the job k-means is 0.216995
+accuracy of the job sigmoid is 0.975610
+iterations completed 3.08813774055
+setting accuracy {u'time_in_ms': 213.7210369, u'iteration': 75, u'gain': 0.001917442963, u'accuracy': 0.6269378641}
+setting accuracy {u'time_in_ms': 190.1700497, u'iteration': 76, u'gain': 0.001892377631, u'accuracy': 0.6288302417}
+setting accuracy {u'time_in_ms': 140.4819489, u'iteration': 77, u'gain': 0.001867959173, u'accuracy': 0.6306982009}
+gain  in the last epoch is  0.005677779767
+iterations completed 11.9998085738
+setting accuracy {u'time_in_ms': 68.75109673, u'iteration': 148, u'gain': 0.001428903867, u'accuracy': 0.2184234737}
+setting accuracy {u'time_in_ms': 65.96589088, u'iteration': 149, u'gain': 0.001427967856, u'accuracy': 0.2198514416}
+setting accuracy {u'time_in_ms': 67.95287132, u'iteration': 150, u'gain': 0.001427026345, u'accuracy': 0.2212784679}
+setting accuracy {u'time_in_ms': 66.26200676, u'iteration': 151, u'gain': 0.001426079349, u'accuracy': 0.2227045472}
+setting accuracy {u'time_in_ms': 65.93799591, u'iteration': 152, u'gain': 0.001425126885, u'accuracy': 0.2241296741}
+setting accuracy {u'time_in_ms': 65.21701813, u'iteration': 153, u'gain': 0.001424168968, u'accuracy': 0.2255538431}
+setting accuracy {u'time_in_ms': 66.50900841, u'iteration': 154, u'gain': 0.001423205614, u'accuracy': 0.2269770487}
+setting accuracy {u'time_in_ms': 84.95402336, u'iteration': 155, u'gain': 0.00142223684, u'accuracy': 0.2283992856}
+setting accuracy {u'time_in_ms': 68.27306747, u'iteration': 156, u'gain': 0.001421262661, u'accuracy': 0.2298205482}
+setting accuracy {u'time_in_ms': 67.26408005, u'iteration': 157, u'gain': 0.001420283093, u'accuracy': 0.2312408313}
+setting accuracy {u'time_in_ms': 67.13604927, u'iteration': 158, u'gain': 0.001419298153, u'accuracy': 0.2326601295}
+gain  in the last epoch is  0.015665559631
+iterations completed 3.8458170373
+setting accuracy {u'time_in_ms': 286.0250473, u'iteration': 41, u'gain': 0.0005807200929, u'accuracy': 0.9761904762}
+setting accuracy {u'time_in_ms': 283.3368778, u'iteration': 42, u'gain': 0.000553709856, u'accuracy': 0.976744186}
+setting accuracy {u'time_in_ms': 279.5538902, u'iteration': 43, u'gain': 0.0005285412262, u'accuracy': 0.9772727273}
+gain  in the last epoch is  0.0016629711751
+total gain 0.0230063105731
+accuracy of the job logistic_regression is 0.630698
+accuracy of the job k-means is 0.232660
+accuracy of the job sigmoid is 0.977273
+iterations completed 4.62586959848
+setting accuracy {u'time_in_ms': 142.6758766, u'iteration': 78, u'gain': 0.001844162867, u'accuracy': 0.6325423638}
+setting accuracy {u'time_in_ms': 109.721899, u'iteration': 79, u'gain': 0.001820965234, u'accuracy': 0.634363329}
+setting accuracy {u'time_in_ms': 89.91217613, u'iteration': 80, u'gain': 0.001798343962, u'accuracy': 0.636161673}
+setting accuracy {u'time_in_ms': 94.41995621, u'iteration': 81, u'gain': 0.001776277835, u'accuracy': 0.6379379508}
+gain  in the last epoch is  0.007239749898
+iterations completed 12.029552581
+setting accuracy {u'time_in_ms': 68.58110428, u'iteration': 159, u'gain': 0.001418307857, u'accuracy': 0.2340784373}
+setting accuracy {u'time_in_ms': 66.62106514, u'iteration': 160, u'gain': 0.001417312221, u'accuracy': 0.2354957495}
+setting accuracy {u'time_in_ms': 71.26402855, u'iteration': 161, u'gain': 0.001416311263, u'accuracy': 0.2369120608}
+setting accuracy {u'time_in_ms': 84.90300179, u'iteration': 162, u'gain': 0.001415304997, u'accuracy': 0.2383273658}
+setting accuracy {u'time_in_ms': 66.41983986, u'iteration': 163, u'gain': 0.001414293442, u'accuracy': 0.2397416592}
+setting accuracy {u'time_in_ms': 67.36087799, u'iteration': 164, u'gain': 0.001413276613, u'accuracy': 0.2411549359}
+setting accuracy {u'time_in_ms': 68.2990551, u'iteration': 165, u'gain': 0.001412254528, u'accuracy': 0.2425671904}
+setting accuracy {u'time_in_ms': 67.1620369, u'iteration': 166, u'gain': 0.001411227203, u'accuracy': 0.2439784176}
+setting accuracy {u'time_in_ms': 68.27902794, u'iteration': 167, u'gain': 0.001410194654, u'accuracy': 0.2453886122}
+setting accuracy {u'time_in_ms': 69.20790672, u'iteration': 168, u'gain': 0.0014091569, u'accuracy': 0.2467977691}
+setting accuracy {u'time_in_ms': 69.03505325, u'iteration': 169, u'gain': 0.001408113957, u'accuracy': 0.2482058831}
+setting accuracy {u'time_in_ms': 455.6670189, u'iteration': 170, u'gain': 0.001407065841, u'accuracy': 0.2496129489}
+gain  in the last epoch is  0.016952819476
+iterations completed 3.86044887236
+setting accuracy {u'time_in_ms': 284.940958, u'iteration': 44, u'gain': 0.0005050505051, u'accuracy': 0.9777777778}
+setting accuracy {u'time_in_ms': 277.1508694, u'iteration': 45, u'gain': 0.0004830917874, u'accuracy': 0.9782608696}
+setting accuracy {u'time_in_ms': 292.3340797, u'iteration': 46, u'gain': 0.0004625346901, u'accuracy': 0.9787234043}
+gain  in the last epoch is  0.0014506769826
+total gain 0.0256432463566
+accuracy of the job logistic_regression is 0.637938
+accuracy of the job k-means is 0.249613
+accuracy of the job sigmoid is 0.978723
+iterations completed 7.59214588409
+setting accuracy {u'time_in_ms': 86.93194389, u'iteration': 82, u'gain': 0.001754746664, u'accuracy': 0.6396926975}
+setting accuracy {u'time_in_ms': 88.73009682, u'iteration': 83, u'gain': 0.001733731229, u'accuracy': 0.6414264287}
+setting accuracy {u'time_in_ms': 106.413126, u'iteration': 84, u'gain': 0.001713213217, u'accuracy': 0.6431396419}
+setting accuracy {u'time_in_ms': 94.2158699, u'iteration': 85, u'gain': 0.001693175176, u'accuracy': 0.6448328171}
+setting accuracy {u'time_in_ms': 89.65611458, u'iteration': 86, u'gain': 0.001673600458, u'accuracy': 0.6465064175}
+setting accuracy {u'time_in_ms': 94.11501884, u'iteration': 87, u'gain': 0.001654473177, u'accuracy': 0.6481608907}
+setting accuracy {u'time_in_ms': 101.6449928, u'iteration': 88, u'gain': 0.001635778165, u'accuracy': 0.6497966689}
+gain  in the last epoch is  0.011858718086
+iterations completed 8.49324477567
+setting accuracy {u'time_in_ms': 97.13602066, u'iteration': 171, u'gain': 0.001406012571, u'accuracy': 0.2510189615}
+setting accuracy {u'time_in_ms': 92.90289879, u'iteration': 172, u'gain': 0.001404954163, u'accuracy': 0.2524239157}
+setting accuracy {u'time_in_ms': 84.9199295, u'iteration': 173, u'gain': 0.001403890634, u'accuracy': 0.2538278063}
+setting accuracy {u'time_in_ms': 79.46920395, u'iteration': 174, u'gain': 0.001402822002, u'accuracy': 0.2552306283}
+setting accuracy {u'time_in_ms': 78.47380638, u'iteration': 175, u'gain': 0.001401748285, u'accuracy': 0.2566323766}
+setting accuracy {u'time_in_ms': 66.85781479, u'iteration': 176, u'gain': 0.001400669499, u'accuracy': 0.2580330461}
+setting accuracy {u'time_in_ms': 68.04895401, u'iteration': 177, u'gain': 0.001399585662, u'accuracy': 0.2594326318}
+setting accuracy {u'time_in_ms': 71.70295715, u'iteration': 178, u'gain': 0.001398496792, u'accuracy': 0.2608311285}
+gain  in the last epoch is  0.011218179608
+iterations completed 3.86200966713
+setting accuracy {u'time_in_ms': 284.8258018, u'iteration': 47, u'gain': 0.0004432624113, u'accuracy': 0.9791666667}
+setting accuracy {u'time_in_ms': 276.8018246, u'iteration': 48, u'gain': 0.000425170068, u'accuracy': 0.9795918367}
+setting accuracy {u'time_in_ms': 289.2489433, u'iteration': 49, u'gain': 0.0004081632653, u'accuracy': 0.98}
+gain  in the last epoch is  0.0012765957446
+total gain 0.0243534934386
+accuracy of the job logistic_regression is 0.649797
+accuracy of the job k-means is 0.260831
+accuracy of the job sigmoid is 0.980000
+iterations completed 7.30599271588
+setting accuracy {u'time_in_ms': 90.33679962, u'iteration': 89, u'gain': 0.001617500931, u'accuracy': 0.6514141698}
+setting accuracy {u'time_in_ms': 90.08002281, u'iteration': 90, u'gain': 0.001599627627, u'accuracy': 0.6530137974}
+setting accuracy {u'time_in_ms': 100.3339291, u'iteration': 91, u'gain': 0.001582145008, u'accuracy': 0.6545959424}
+setting accuracy {u'time_in_ms': 92.11397171, u'iteration': 92, u'gain': 0.001565040403, u'accuracy': 0.6561609829}
+setting accuracy {u'time_in_ms': 94.63310242, u'iteration': 93, u'gain': 0.001548301682, u'accuracy': 0.6577092845}
+setting accuracy {u'time_in_ms': 120.0771332, u'iteration': 94, u'gain': 0.00153191723, u'accuracy': 0.6592412018}
+setting accuracy {u'time_in_ms': 221.3230133, u'iteration': 95, u'gain': 0.001515875917, u'accuracy': 0.6607570777}
+gain  in the last epoch is  0.010960408798
+iterations completed 11.6916668632
+setting accuracy {u'time_in_ms': 70.56307793, u'iteration': 179, u'gain': 0.001397402906, u'accuracy': 0.2622285314}
+setting accuracy {u'time_in_ms': 77.95000076, u'iteration': 180, u'gain': 0.001396304023, u'accuracy': 0.2636248355}
+setting accuracy {u'time_in_ms': 81.48193359, u'iteration': 181, u'gain': 0.001395200159, u'accuracy': 0.2650200356}
+setting accuracy {u'time_in_ms': 85.54816246, u'iteration': 182, u'gain': 0.001394091332, u'accuracy': 0.266414127}
+setting accuracy {u'time_in_ms': 73.2729435, u'iteration': 183, u'gain': 0.001392977561, u'accuracy': 0.2678071045}
+setting accuracy {u'time_in_ms': 73.47798347, u'iteration': 184, u'gain': 0.001391858864, u'accuracy': 0.2691989634}
+setting accuracy {u'time_in_ms': 72.42012024, u'iteration': 185, u'gain': 0.001390735257, u'accuracy': 0.2705896986}
+setting accuracy {u'time_in_ms': 76.58481598, u'iteration': 186, u'gain': 0.00138960676, u'accuracy': 0.2719793054}
+setting accuracy {u'time_in_ms': 74.92995262, u'iteration': 187, u'gain': 0.001388473391, u'accuracy': 0.2733677788}
+setting accuracy {u'time_in_ms': 71.90704346, u'iteration': 188, u'gain': 0.001387335167, u'accuracy': 0.274755114}
+setting accuracy {u'time_in_ms': 215.6920433, u'iteration': 189, u'gain': 0.001386192106, u'accuracy': 0.2761413061}
+gain  in the last epoch is  0.015310177526
+iterations completed 3.86779202879
+setting accuracy {u'time_in_ms': 284.3999863, u'iteration': 50, u'gain': 0.0003921568627, u'accuracy': 0.9803921569}
+setting accuracy {u'time_in_ms': 295.4468727, u'iteration': 51, u'gain': 0.0003770739065, u'accuracy': 0.9807692308}
+setting accuracy {u'time_in_ms': 283.9689255, u'iteration': 52, u'gain': 0.0003628447025, u'accuracy': 0.9811320755}
+gain  in the last epoch is  0.0011320754717
+total gain 0.0274026617957
+accuracy of the job logistic_regression is 0.660757
+accuracy of the job k-means is 0.276141
+accuracy of the job sigmoid is 0.981132
+iterations completed 3.03801650539
+setting accuracy {u'time_in_ms': 217.2470093, u'iteration': 96, u'gain': 0.001500167076, u'accuracy': 0.6622572448}
+setting accuracy {u'time_in_ms': 111.3979816, u'iteration': 97, u'gain': 0.001484780475, u'accuracy': 0.6637420252}
+setting accuracy {u'time_in_ms': 104.1469574, u'iteration': 98, u'gain': 0.001469706302, u'accuracy': 0.6652117315}
+gain  in the last epoch is  0.004454653853
+iterations completed 3.46446508659
+setting accuracy {u'time_in_ms': 238.132, u'iteration': 190, u'gain': 0.001385044228, u'accuracy': 0.2775263503}
+setting accuracy {u'time_in_ms': 77.12697983, u'iteration': 191, u'gain': 0.00138389155, u'accuracy': 0.2789102418}
+setting accuracy {u'time_in_ms': 73.42004776, u'iteration': 192, u'gain': 0.00138273409, u'accuracy': 0.2802929759}
+gain  in the last epoch is  0.004151669868
+iterations completed 3.71517479373
+setting accuracy {u'time_in_ms': 296.0829735, u'iteration': 53, u'gain': 0.0003494060098, u'accuracy': 0.9814814815}
+setting accuracy {u'time_in_ms': 283.6508751, u'iteration': 54, u'gain': 0.0003367003367, u'accuracy': 0.9818181818}
+setting accuracy {u'time_in_ms': 278.6710262, u'iteration': 55, u'gain': 0.0003246753247, u'accuracy': 0.9821428571}
+gain  in the last epoch is  0.0010107816712
+total gain 0.0096171053922
+accuracy of the job logistic_regression is 0.665212
+accuracy of the job k-means is 0.280293
+accuracy of the job sigmoid is 0.982143
+iterations completed 7.25703787591
+setting accuracy {u'time_in_ms': 90.94619751, u'iteration': 99, u'gain': 0.001454935134, u'accuracy': 0.6666666667}
+setting accuracy {u'time_in_ms': 95.80397606, u'iteration': 100, u'gain': 0.001440457928, u'accuracy': 0.6681071246}
+setting accuracy {u'time_in_ms': 100.4178524, u'iteration': 101, u'gain': 0.001426265993, u'accuracy': 0.6695333906}
+setting accuracy {u'time_in_ms': 92.11993217, u'iteration': 102, u'gain': 0.001412350981, u'accuracy': 0.6709457416}
+setting accuracy {u'time_in_ms': 88.79995346, u'iteration': 103, u'gain': 0.001398704865, u'accuracy': 0.6723444464}
+setting accuracy {u'time_in_ms': 87.99099922, u'iteration': 104, u'gain': 0.001385319924, u'accuracy': 0.6737297664}
+setting accuracy {u'time_in_ms': 90.74616432, u'iteration': 105, u'gain': 0.001372188732, u'accuracy': 0.6751019551}
+gain  in the last epoch is  0.009890223557
+iterations completed 11.2275615926
+setting accuracy {u'time_in_ms': 73.47989082, u'iteration': 193, u'gain': 0.001381571868, u'accuracy': 0.2816745478}
+setting accuracy {u'time_in_ms': 72.40796089, u'iteration': 194, u'gain': 0.001380404901, u'accuracy': 0.2830549527}
+setting accuracy {u'time_in_ms': 84.38897133, u'iteration': 195, u'gain': 0.001379233208, u'accuracy': 0.2844341859}
+setting accuracy {u'time_in_ms': 141.8828964, u'iteration': 196, u'gain': 0.001378056808, u'accuracy': 0.2858122427}
+setting accuracy {u'time_in_ms': 211.2989426, u'iteration': 197, u'gain': 0.001376875718, u'accuracy': 0.2871891184}
+setting accuracy {u'time_in_ms': 166.4671898, u'iteration': 198, u'gain': 0.001375689959, u'accuracy': 0.2885648084}
+setting accuracy {u'time_in_ms': 173.6528873, u'iteration': 199, u'gain': 0.001374499548, u'accuracy': 0.2899393079}
+setting accuracy {u'time_in_ms': 157.7601433, u'iteration': 200, u'gain': 0.001373304504, u'accuracy': 0.2913126125}
+setting accuracy {u'time_in_ms': 117.0139313, u'iteration': 201, u'gain': 0.001372104846, u'accuracy': 0.2926847173}
+setting accuracy {u'time_in_ms': 80.06501198, u'iteration': 202, u'gain': 0.001370900594, u'accuracy': 0.2940556179}
+setting accuracy {u'time_in_ms': 88.37604523, u'iteration': 203, u'gain': 0.001369691765, u'accuracy': 0.2954253097}
+gain  in the last epoch is  0.015132333719
+iterations completed 4.04420516396
+setting accuracy {u'time_in_ms': 271.9941139, u'iteration': 56, u'gain': 0.000313283208, u'accuracy': 0.9824561404}
+setting accuracy {u'time_in_ms': 278.4280777, u'iteration': 57, u'gain': 0.0003024803388, u'accuracy': 0.9827586207}
+setting accuracy {u'time_in_ms': 275.9799957, u'iteration': 58, u'gain': 0.000292226768, u'accuracy': 0.9830508475}
+setting accuracy {u'time_in_ms': 279.9379826, u'iteration': 59, u'gain': 0.0002824858757, u'accuracy': 0.9833333333}
+gain  in the last epoch is  0.0011904761905
+total gain 0.0262130334665
+accuracy of the job logistic_regression is 0.675102
+accuracy of the job k-means is 0.295425
+accuracy of the job sigmoid is 0.983333
+iterations completed 7.02037873262
+setting accuracy {u'time_in_ms': 94.01202202, u'iteration': 106, u'gain': 0.00135930414, u'accuracy': 0.6764612592}
+setting accuracy {u'time_in_ms': 93.02592278, u'iteration': 107, u'gain': 0.001346659267, u'accuracy': 0.6778079185}
+setting accuracy {u'time_in_ms': 90.03901482, u'iteration': 108, u'gain': 0.001334247485, u'accuracy': 0.679142166}
+setting accuracy {u'time_in_ms': 87.53681183, u'iteration': 109, u'gain': 0.001322062406, u'accuracy': 0.6804642284}
+setting accuracy {u'time_in_ms': 94.4609642, u'iteration': 110, u'gain': 0.001310097876, u'accuracy': 0.6817743263}
+setting accuracy {u'time_in_ms': 91.51792526, u'iteration': 111, u'gain': 0.001298347961, u'accuracy': 0.6830726742}
+setting accuracy {u'time_in_ms': 110.5527878, u'iteration': 112, u'gain': 0.001286806938, u'accuracy': 0.6843594812}
+gain  in the last epoch is  0.009257526073
+iterations completed 9.76192784085
+setting accuracy {u'time_in_ms': 84.51199532, u'iteration': 204, u'gain': 0.001368478379, u'accuracy': 0.296793788}
+setting accuracy {u'time_in_ms': 69.10705566, u'iteration': 205, u'gain': 0.001367260454, u'accuracy': 0.2981610485}
+setting accuracy {u'time_in_ms': 63.53902817, u'iteration': 206, u'gain': 0.00136603801, u'accuracy': 0.2995270865}
+setting accuracy {u'time_in_ms': 63.59910965, u'iteration': 207, u'gain': 0.001364811066, u'accuracy': 0.3008918976}
+setting accuracy {u'time_in_ms': 63.77291679, u'iteration': 208, u'gain': 0.001363579641, u'accuracy': 0.3022554772}
+setting accuracy {u'time_in_ms': 64.54801559, u'iteration': 209, u'gain': 0.001362343754, u'accuracy': 0.303617821}
+setting accuracy {u'time_in_ms': 63.38810921, u'iteration': 210, u'gain': 0.001361103424, u'accuracy': 0.3049789244}
+setting accuracy {u'time_in_ms': 62.83903122, u'iteration': 211, u'gain': 0.001359858671, u'accuracy': 0.3063387831}
+setting accuracy {u'time_in_ms': 63.18283081, u'iteration': 212, u'gain': 0.001358609514, u'accuracy': 0.3076973926}
+gain  in the last epoch is  0.012272082913
+iterations completed 3.96997172432
+setting accuracy {u'time_in_ms': 277.0800591, u'iteration': 60, u'gain': 0.0002732240437, u'accuracy': 0.9836065574}
+setting accuracy {u'time_in_ms': 284.5728397, u'iteration': 61, u'gain': 0.0002644103649, u'accuracy': 0.9838709677}
+setting accuracy {u'time_in_ms': 277.6579857, u'iteration': 62, u'gain': 0.000256016385, u'accuracy': 0.9841269841}
+gain  in the last epoch is  0.0007936507936
+total gain 0.0223232597796
+accuracy of the job logistic_regression is 0.684359
+accuracy of the job k-means is 0.307697
+accuracy of the job sigmoid is 0.984127
+iterations completed 4.92254186091
+setting accuracy {u'time_in_ms': 134.0770721, u'iteration': 113, u'gain': 0.001275469284, u'accuracy': 0.6856349504}
+setting accuracy {u'time_in_ms': 122.8060722, u'iteration': 114, u'gain': 0.001264329672, u'accuracy': 0.6868992801}
+setting accuracy {u'time_in_ms': 97.87106514, u'iteration': 115, u'gain': 0.001253382958, u'accuracy': 0.6881526631}
+setting accuracy {u'time_in_ms': 101.9799709, u'iteration': 116, u'gain': 0.001242624173, u'accuracy': 0.6893952872}
+gain  in the last epoch is  0.005035806087
+iterations completed 12.8590782413
+setting accuracy {u'time_in_ms': 64.15700912, u'iteration': 213, u'gain': 0.001357355972, u'accuracy': 0.3090547485}
+setting accuracy {u'time_in_ms': 66.09678268, u'iteration': 214, u'gain': 0.001356098064, u'accuracy': 0.3104108466}
+setting accuracy {u'time_in_ms': 63.53712082, u'iteration': 215, u'gain': 0.00135483581, u'accuracy': 0.3117656824}
+setting accuracy {u'time_in_ms': 62.31689453, u'iteration': 216, u'gain': 0.001353569229, u'accuracy': 0.3131192516}
+setting accuracy {u'time_in_ms': 63.85016441, u'iteration': 217, u'gain': 0.001352298341, u'accuracy': 0.31447155}
+setting accuracy {u'time_in_ms': 63.6651516, u'iteration': 218, u'gain': 0.001351023166, u'accuracy': 0.3158225732}
+setting accuracy {u'time_in_ms': 63.4701252, u'iteration': 219, u'gain': 0.001349743722, u'accuracy': 0.3171723169}
+setting accuracy {u'time_in_ms': 60.44101715, u'iteration': 220, u'gain': 0.001348460029, u'accuracy': 0.3185207769}
+setting accuracy {u'time_in_ms': 66.3189888, u'iteration': 221, u'gain': 0.001347172108, u'accuracy': 0.319867949}
+setting accuracy {u'time_in_ms': 73.72784615, u'iteration': 222, u'gain': 0.001345879978, u'accuracy': 0.321213829}
+setting accuracy {u'time_in_ms': 123.4850883, u'iteration': 223, u'gain': 0.001344583657, u'accuracy': 0.3225584126}
+setting accuracy {u'time_in_ms': 95.96395493, u'iteration': 224, u'gain': 0.001343283167, u'accuracy': 0.3239016958}
+gain  in the last epoch is  0.016204303243
+iterations completed 3.98694998056
+setting accuracy {u'time_in_ms': 275.9001255, u'iteration': 63, u'gain': 0.000248015873, u'accuracy': 0.984375}
+setting accuracy {u'time_in_ms': 274.7309208, u'iteration': 64, u'gain': 0.0002403846154, u'accuracy': 0.9846153846}
+setting accuracy {u'time_in_ms': 270.0529099, u'iteration': 65, u'gain': 0.0002331002331, u'accuracy': 0.9848484848}
+gain  in the last epoch is  0.0007215007215
+total gain 0.0219616100515
+accuracy of the job logistic_regression is 0.689395
+accuracy of the job k-means is 0.323902
+accuracy of the job sigmoid is 0.984848
+iterations completed 6.53716423479
+setting accuracy {u'time_in_ms': 100.9612083, u'iteration': 117, u'gain': 0.00123204852, u'accuracy': 0.6906273358}
+setting accuracy {u'time_in_ms': 90.52681923, u'iteration': 118, u'gain': 0.001221651362, u'accuracy': 0.6918489871}
+setting accuracy {u'time_in_ms': 98.60396385, u'iteration': 119, u'gain': 0.001211428218, u'accuracy': 0.6930604153}
+setting accuracy {u'time_in_ms': 92.20290184, u'iteration': 120, u'gain': 0.001201374756, u'accuracy': 0.6942617901}
+setting accuracy {u'time_in_ms': 96.83680534, u'iteration': 121, u'gain': 0.001191486786, u'accuracy': 0.6954532769}
+setting accuracy {u'time_in_ms': 91.41898155, u'iteration': 122, u'gain': 0.001181760255, u'accuracy': 0.6966350371}
+gain  in the last epoch is  0.007239749897
+iterations completed 9.10435366001
+setting accuracy {u'time_in_ms': 90.61598778, u'iteration': 225, u'gain': 0.001341978527, u'accuracy': 0.3252436743}
+setting accuracy {u'time_in_ms': 73.22907448, u'iteration': 226, u'gain': 0.001340669756, u'accuracy': 0.3265843441}
+setting accuracy {u'time_in_ms': 74.32293892, u'iteration': 227, u'gain': 0.001339356875, u'accuracy': 0.327923701}
+setting accuracy {u'time_in_ms': 83.0271244, u'iteration': 228, u'gain': 0.001338039903, u'accuracy': 0.3292617409}
+setting accuracy {u'time_in_ms': 172.3251343, u'iteration': 229, u'gain': 0.001336718861, u'accuracy': 0.3305984597}
+setting accuracy {u'time_in_ms': 72.52502441, u'iteration': 230, u'gain': 0.001335393767, u'accuracy': 0.3319338535}
+setting accuracy {u'time_in_ms': 64.00799751, u'iteration': 231, u'gain': 0.001334064643, u'accuracy': 0.3332679181}
+setting accuracy {u'time_in_ms': 57.50012398, u'iteration': 232, u'gain': 0.001332731508, u'accuracy': 0.3346006497}
+setting accuracy {u'time_in_ms': 57.9161644, u'iteration': 233, u'gain': 0.001331394381, u'accuracy': 0.335932044}
+gain  in the last epoch is  0.012030348221
+iterations completed 3.95619500918
+setting accuracy {u'time_in_ms': 278.044939, u'iteration': 66, u'gain': 0.0002261420172, u'accuracy': 0.9850746269}
+setting accuracy {u'time_in_ms': 286.1719131, u'iteration': 67, u'gain': 0.0002194907814, u'accuracy': 0.9852941176}
+setting accuracy {u'time_in_ms': 281.5937996, u'iteration': 68, u'gain': 0.0002131287298, u'accuracy': 0.9855072464}
+gain  in the last epoch is  0.0006587615284
+total gain 0.0199288596464
+accuracy of the job logistic_regression is 0.696635
+accuracy of the job k-means is 0.335932
+accuracy of the job sigmoid is 0.985507
+iterations completed 7.38370774993
+setting accuracy {u'time_in_ms': 89.38598633, u'iteration': 123, u'gain': 0.001172191241, u'accuracy': 0.6978072284}
+setting accuracy {u'time_in_ms': 98.13594818, u'iteration': 124, u'gain': 0.001162775949, u'accuracy': 0.6989700043}
+setting accuracy {u'time_in_ms': 89.73884583, u'iteration': 125, u'gain': 0.001153510703, u'accuracy': 0.700123515}
+setting accuracy {u'time_in_ms': 99.96604919, u'iteration': 126, u'gain': 0.001144391946, u'accuracy': 0.701267907}
+setting accuracy {u'time_in_ms': 94.65384483, u'iteration': 127, u'gain': 0.001135416231, u'accuracy': 0.7024033232}
+setting accuracy {u'time_in_ms': 91.96805954, u'iteration': 128, u'gain': 0.001126580217, u'accuracy': 0.7035299034}
+setting accuracy {u'time_in_ms': 102.6508808, u'iteration': 129, u'gain': 0.001117880669, u'accuracy': 0.7046477841}
+gain  in the last epoch is  0.008012746956
+iterations completed 12.4688335083
+setting accuracy {u'time_in_ms': 66.1649704, u'iteration': 234, u'gain': 0.001330053284, u'accuracy': 0.3372620973}
+setting accuracy {u'time_in_ms': 81.02607727, u'iteration': 235, u'gain': 0.001328708236, u'accuracy': 0.3385908056}
+setting accuracy {u'time_in_ms': 137.4099255, u'iteration': 236, u'gain': 0.001327359257, u'accuracy': 0.3399181648}
+setting accuracy {u'time_in_ms': 102.3209095, u'iteration': 237, u'gain': 0.001326006367, u'accuracy': 0.3412441712}
+setting accuracy {u'time_in_ms': 109.087944, u'iteration': 238, u'gain': 0.001324649587, u'accuracy': 0.3425688208}
+setting accuracy {u'time_in_ms': 69.1049099, u'iteration': 239, u'gain': 0.001323288936, u'accuracy': 0.3438921097}
+setting accuracy {u'time_in_ms': 79.71787453, u'iteration': 240, u'gain': 0.001321924435, u'accuracy': 0.3452140341}
+setting accuracy {u'time_in_ms': 132.8468323, u'iteration': 241, u'gain': 0.001320556104, u'accuracy': 0.3465345902}
+setting accuracy {u'time_in_ms': 75.58608055, u'iteration': 242, u'gain': 0.001319183963, u'accuracy': 0.3478537742}
+setting accuracy {u'time_in_ms': 77.72397995, u'iteration': 243, u'gain': 0.001317808033, u'accuracy': 0.3491715822}
+setting accuracy {u'time_in_ms': 79.05101776, u'iteration': 244, u'gain': 0.001316428333, u'accuracy': 0.3504880106}
+setting accuracy {u'time_in_ms': 71.25711441, u'iteration': 245, u'gain': 0.001315044884, u'accuracy': 0.3518030555}
+gain  in the last epoch is  0.015871011419
+iterations completed 3.95882923833
+setting accuracy {u'time_in_ms': 277.8599262, u'iteration': 69, u'gain': 0.0002070393375, u'accuracy': 0.9857142857}
+setting accuracy {u'time_in_ms': 279.7410488, u'iteration': 70, u'gain': 0.0002012072435, u'accuracy': 0.985915493}
+setting accuracy {u'time_in_ms': 276.0400772, u'iteration': 71, u'gain': 0.0001956181534, u'accuracy': 0.9861111111}
+gain  in the last epoch is  0.0006038647344
+total gain 0.0244876231094
+accuracy of the job logistic_regression is 0.704648
+accuracy of the job k-means is 0.351803
+accuracy of the job sigmoid is 0.986111
+iterations completed 6.19061925185
+setting accuracy {u'time_in_ms': 106.6129208, u'iteration': 130, u'gain': 0.00110931445, u'accuracy': 0.7057570986}
+setting accuracy {u'time_in_ms': 87.65983582, u'iteration': 131, u'gain': 0.001100878517, u'accuracy': 0.7068579771}
+setting accuracy {u'time_in_ms': 104.0740013, u'iteration': 132, u'gain': 0.00109256992, u'accuracy': 0.707950547}
+setting accuracy {u'time_in_ms': 91.15099907, u'iteration': 133, u'gain': 0.001084385799, u'accuracy': 0.7090349328}
+setting accuracy {u'time_in_ms': 100.4099846, u'iteration': 134, u'gain': 0.001076323377, u'accuracy': 0.7101112562}
+setting accuracy {u'time_in_ms': 105.1878929, u'iteration': 135, u'gain': 0.001068379958, u'accuracy': 0.7111796361}
+gain  in the last epoch is  0.006531852021
+iterations completed 11.0824313892
+setting accuracy {u'time_in_ms': 74.44214821, u'iteration': 246, u'gain': 0.001313657707, u'accuracy': 0.3531167132}
+setting accuracy {u'time_in_ms': 174.8538017, u'iteration': 247, u'gain': 0.001312266821, u'accuracy': 0.35442898}
+setting accuracy {u'time_in_ms': 75.71101189, u'iteration': 248, u'gain': 0.001310872247, u'accuracy': 0.3557398522}
+setting accuracy {u'time_in_ms': 78.65214348, u'iteration': 249, u'gain': 0.001309474006, u'accuracy': 0.3570493262}
+setting accuracy {u'time_in_ms': 87.49294281, u'iteration': 250, u'gain': 0.001308072117, u'accuracy': 0.3583573984}
+setting accuracy {u'time_in_ms': 92.59819984, u'iteration': 251, u'gain': 0.001306666602, u'accuracy': 0.359664065}
+setting accuracy {u'time_in_ms': 78.08804512, u'iteration': 252, u'gain': 0.00130525748, u'accuracy': 0.3609693224}
+setting accuracy {u'time_in_ms': 116.6350842, u'iteration': 253, u'gain': 0.001303844773, u'accuracy': 0.3622731672}
+setting accuracy {u'time_in_ms': 67.15989113, u'iteration': 254, u'gain': 0.001302428499, u'accuracy': 0.3635755957}
+setting accuracy {u'time_in_ms': 67.34514236, u'iteration': 255, u'gain': 0.001301008681, u'accuracy': 0.3648766044}
+setting accuracy {u'time_in_ms': 71.41304016, u'iteration': 256, u'gain': 0.001299585338, u'accuracy': 0.3661761897}
+gain  in the last epoch is  0.014373134271
+iterations completed 4.01436204587
+setting accuracy {u'time_in_ms': 274.0161419, u'iteration': 72, u'gain': 0.0001902587519, u'accuracy': 0.9863013699}
+setting accuracy {u'time_in_ms': 285.1669788, u'iteration': 73, u'gain': 0.0001851166235, u'accuracy': 0.9864864865}
+setting accuracy {u'time_in_ms': 280.0939083, u'iteration': 74, u'gain': 0.0001801801802, u'accuracy': 0.9866666667}
+setting accuracy {u'time_in_ms': 278.9208889, u'iteration': 75, u'gain': 0.0001754385965, u'accuracy': 0.9868421053}
+gain  in the last epoch is  0.0007309941521
+total gain 0.0216359804441
+accuracy of the job logistic_regression is 0.711180
+accuracy of the job k-means is 0.366176
+accuracy of the job sigmoid is 0.986842
+iterations completed 6.43005286682
+setting accuracy {u'time_in_ms': 102.643013, u'iteration': 136, u'gain': 0.001060552929, u'accuracy': 0.7122401891}
+setting accuracy {u'time_in_ms': 108.5019112, u'iteration': 137, u'gain': 0.001052839748, u'accuracy': 0.7132930288}
+setting accuracy {u'time_in_ms': 95.79515457, u'iteration': 138, u'gain': 0.001045237951, u'accuracy': 0.7143382668}
+setting accuracy {u'time_in_ms': 86.91596985, u'iteration': 139, u'gain': 0.001037745141, u'accuracy': 0.7153760119}
+setting accuracy {u'time_in_ms': 102.3299694, u'iteration': 140, u'gain': 0.001030358992, u'accuracy': 0.7164063709}
+setting accuracy {u'time_in_ms': 95.91078758, u'iteration': 141, u'gain': 0.001023077243, u'accuracy': 0.7174294481}
+gain  in the last epoch is  0.006249812004
+iterations completed 12.73068048
+setting accuracy {u'time_in_ms': 64.80407715, u'iteration': 257, u'gain': 0.001298158491, u'accuracy': 0.3674743482}
+setting accuracy {u'time_in_ms': 60.74881554, u'iteration': 258, u'gain': 0.001296728161, u'accuracy': 0.3687710764}
+setting accuracy {u'time_in_ms': 86.57288551, u'iteration': 259, u'gain': 0.001295294368, u'accuracy': 0.3700663707}
+setting accuracy {u'time_in_ms': 90.2121067, u'iteration': 260, u'gain': 0.001293857132, u'accuracy': 0.3713602279}
+setting accuracy {u'time_in_ms': 135.95891, u'iteration': 261, u'gain': 0.001292416474, u'accuracy': 0.3726526444}
+setting accuracy {u'time_in_ms': 74.83005524, u'iteration': 262, u'gain': 0.001290972415, u'accuracy': 0.3739436168}
+setting accuracy {u'time_in_ms': 87.36395836, u'iteration': 263, u'gain': 0.001289524976, u'accuracy': 0.3752331417}
+setting accuracy {u'time_in_ms': 79.66995239, u'iteration': 264, u'gain': 0.001288074176, u'accuracy': 0.3765212159}
+setting accuracy {u'time_in_ms': 70.33801079, u'iteration': 265, u'gain': 0.001286620036, u'accuracy': 0.377807836}
+setting accuracy {u'time_in_ms': 82.96489716, u'iteration': 266, u'gain': 0.001285162578, u'accuracy': 0.3790929985}
+setting accuracy {u'time_in_ms': 163.9821529, u'iteration': 267, u'gain': 0.001283701821, u'accuracy': 0.3803767004}
+setting accuracy {u'time_in_ms': 79.50806618, u'iteration': 268, u'gain': 0.001282237787, u'accuracy': 0.3816589381}
+gain  in the last epoch is  0.015482748415
+iterations completed 3.93848843414
+setting accuracy {u'time_in_ms': 279.2949677, u'iteration': 76, u'gain': 0.0001708817498, u'accuracy': 0.987012987}
+setting accuracy {u'time_in_ms': 284.3120098, u'iteration': 77, u'gain': 0.0001665001665, u'accuracy': 0.9871794872}
+setting accuracy {u'time_in_ms': 283.6430073, u'iteration': 78, u'gain': 0.0001622849724, u'accuracy': 0.9873417722}
+gain  in the last epoch is  0.0004996668887
+total gain 0.0222322273077
+accuracy of the job logistic_regression is 0.717429
+accuracy of the job k-means is 0.381659
+accuracy of the job sigmoid is 0.987342
+iterations completed 6.51119400082
+setting accuracy {u'time_in_ms': 101.3638973, u'iteration': 142, u'gain': 0.001015897694, u'accuracy': 0.7184453458}
+setting accuracy {u'time_in_ms': 87.14699745, u'iteration': 143, u'gain': 0.00100881821, u'accuracy': 0.719454164}
+setting accuracy {u'time_in_ms': 89.77198601, u'iteration': 144, u'gain': 0.001001836713, u'accuracy': 0.7204560007}
+setting accuracy {u'time_in_ms': 87.69202232, u'iteration': 145, u'gain': 0.0009949511832, u'accuracy': 0.7214509519}
+setting accuracy {u'time_in_ms': 93.71900558, u'iteration': 146, u'gain': 0.0009881596546, u'accuracy': 0.7224391116}
+setting accuracy {u'time_in_ms': 92.8401947, u'iteration': 147, u'gain': 0.0009814602156, u'accuracy': 0.7234205718}
+gain  in the last epoch is  0.0059911236704
+iterations completed 9.65262174241
+setting accuracy {u'time_in_ms': 85.46900749, u'iteration': 269, u'gain': 0.001280770496, u'accuracy': 0.3829397086}
+setting accuracy {u'time_in_ms': 92.91100502, u'iteration': 270, u'gain': 0.001279299968, u'accuracy': 0.3842190086}
+setting accuracy {u'time_in_ms': 85.03484726, u'iteration': 271, u'gain': 0.001277826224, u'accuracy': 0.3854968348}
+setting accuracy {u'time_in_ms': 117.5580025, u'iteration': 272, u'gain': 0.001276349285, u'accuracy': 0.3867731841}
+setting accuracy {u'time_in_ms': 82.0980072, u'iteration': 273, u'gain': 0.001274869172, u'accuracy': 0.3880480533}
+setting accuracy {u'time_in_ms': 67.91400909, u'iteration': 274, u'gain': 0.001273385905, u'accuracy': 0.3893214392}
+setting accuracy {u'time_in_ms': 79.60700989, u'iteration': 275, u'gain': 0.001271899505, u'accuracy': 0.3905933387}
+setting accuracy {u'time_in_ms': 81.50482178, u'iteration': 276, u'gain': 0.001270409992, u'accuracy': 0.3918637487}
+setting accuracy {u'time_in_ms': 76.34210587, u'iteration': 277, u'gain': 0.001268917388, u'accuracy': 0.3931326661}
+gain  in the last epoch is  0.011473727935
+iterations completed 3.92583739409
+setting accuracy {u'time_in_ms': 280.1949978, u'iteration': 79, u'gain': 0.0001582278481, u'accuracy': 0.9875}
+setting accuracy {u'time_in_ms': 280.3328037, u'iteration': 80, u'gain': 0.0001543209877, u'accuracy': 0.987654321}
+setting accuracy {u'time_in_ms': 276.3679028, u'iteration': 81, u'gain': 0.0001505570611, u'accuracy': 0.987804878}
+gain  in the last epoch is  0.0004631058969
+total gain 0.0179279575023
+accuracy of the job logistic_regression is 0.723421
+accuracy of the job k-means is 0.393133
+accuracy of the job sigmoid is 0.987805
+iterations completed 7.47748748001
+setting accuracy {u'time_in_ms': 88.26494217, u'iteration': 148, u'gain': 0.0009748510058, u'accuracy': 0.7243954228}
+setting accuracy {u'time_in_ms': 89.43486214, u'iteration': 149, u'gain': 0.0009683302145, u'accuracy': 0.725363753}
+setting accuracy {u'time_in_ms': 91.48097038, u'iteration': 150, u'gain': 0.0009618960792, u'accuracy': 0.7263256491}
+setting accuracy {u'time_in_ms': 93.61600876, u'iteration': 151, u'gain': 0.0009555468839, u'accuracy': 0.727281196}
+setting accuracy {u'time_in_ms': 99.48992729, u'iteration': 152, u'gain': 0.0009492809576, u'accuracy': 0.7282304769}
+setting accuracy {u'time_in_ms': 103.2497883, u'iteration': 153, u'gain': 0.000943096673, u'accuracy': 0.7291735736}
+setting accuracy {u'time_in_ms': 96.09389305, u'iteration': 154, u'gain': 0.0009369924446, u'accuracy': 0.7301105661}
+gain  in the last epoch is  0.0066899942586
+iterations completed 12.6874566433
+setting accuracy {u'time_in_ms': 65.02485275, u'iteration': 278, u'gain': 0.001267421712, u'accuracy': 0.3944000878}
+setting accuracy {u'time_in_ms': 88.00816536, u'iteration': 279, u'gain': 0.001265922986, u'accuracy': 0.3956660108}
+setting accuracy {u'time_in_ms': 67.57616997, u'iteration': 280, u'gain': 0.001264421231, u'accuracy': 0.396930432}
+setting accuracy {u'time_in_ms': 85.19220352, u'iteration': 281, u'gain': 0.001262916466, u'accuracy': 0.3981933485}
+setting accuracy {u'time_in_ms': 67.7189827, u'iteration': 282, u'gain': 0.001261408713, u'accuracy': 0.3994547572}
+setting accuracy {u'time_in_ms': 83.86206627, u'iteration': 283, u'gain': 0.001259897992, u'accuracy': 0.4007146552}
+setting accuracy {u'time_in_ms': 68.24111938, u'iteration': 284, u'gain': 0.001258384324, u'accuracy': 0.4019730395}
+setting accuracy {u'time_in_ms': 86.78507805, u'iteration': 285, u'gain': 0.00125686773, u'accuracy': 0.4032299072}
+setting accuracy {u'time_in_ms': 68.71891022, u'iteration': 286, u'gain': 0.00125534823, u'accuracy': 0.4044852555}
+setting accuracy {u'time_in_ms': 84.77711678, u'iteration': 287, u'gain': 0.001253825846, u'accuracy': 0.4057390813}
+setting accuracy {u'time_in_ms': 78.01604271, u'iteration': 288, u'gain': 0.001252300597, u'accuracy': 0.4069913819}
+setting accuracy {u'time_in_ms': 77.4140358, u'iteration': 289, u'gain': 0.001250772504, u'accuracy': 0.4082421544}
+gain  in the last epoch is  0.015109488331
+iterations completed 4.0067759579
+setting accuracy {u'time_in_ms': 274.5349407, u'iteration': 82, u'gain': 0.0001469291801, u'accuracy': 0.9879518072}
+setting accuracy {u'time_in_ms': 280.7278633, u'iteration': 83, u'gain': 0.0001434308663, u'accuracy': 0.9880952381}
+setting accuracy {u'time_in_ms': 272.1278667, u'iteration': 84, u'gain': 0.0001400560224, u'accuracy': 0.9882352941}
+setting accuracy {u'time_in_ms': 277.1790028, u'iteration': 85, u'gain': 0.0001367989056, u'accuracy': 0.988372093}
+gain  in the last epoch is  0.0005672149744
+total gain 0.022366697564
+accuracy of the job logistic_regression is 0.730111
+accuracy of the job k-means is 0.408242
+accuracy of the job sigmoid is 0.988372
+iterations completed 6.24208676592
+setting accuracy {u'time_in_ms': 105.7338715, u'iteration': 155, u'gain': 0.0009309667281, u'accuracy': 0.7310415328}
+setting accuracy {u'time_in_ms': 106.6920757, u'iteration': 156, u'gain': 0.0009250180183, u'accuracy': 0.7319665508}
+setting accuracy {u'time_in_ms': 89.93792534, u'iteration': 157, u'gain': 0.0009191448484, u'accuracy': 0.7328856957}
+setting accuracy {u'time_in_ms': 97.97906876, u'iteration': 158, u'gain': 0.0009133457887, u'accuracy': 0.7337990414}
+setting accuracy {u'time_in_ms': 112.8311157, u'iteration': 159, u'gain': 0.0009076194452, u'accuracy': 0.7347066609}
+setting accuracy {u'time_in_ms': 166.8050289, u'iteration': 160, u'gain': 0.0009019644586, u'accuracy': 0.7356086253}
+gain  in the last epoch is  0.0054980592873
+iterations completed 8.65696337108
+setting accuracy {u'time_in_ms': 95.29900551, u'iteration': 290, u'gain': 0.001249241588, u'accuracy': 0.409491396}
+setting accuracy {u'time_in_ms': 77.97217369, u'iteration': 291, u'gain': 0.001247707871, u'accuracy': 0.4107391039}
+setting accuracy {u'time_in_ms': 77.36611366, u'iteration': 292, u'gain': 0.001246171371, u'accuracy': 0.4119852752}
+setting accuracy {u'time_in_ms': 76.43294334, u'iteration': 293, u'gain': 0.001244632111, u'accuracy': 0.4132299073}
+setting accuracy {u'time_in_ms': 64.74900246, u'iteration': 294, u'gain': 0.00124309011, u'accuracy': 0.4144729975}
+setting accuracy {u'time_in_ms': 90.03305435, u'iteration': 295, u'gain': 0.00124154539, u'accuracy': 0.4157145428}
+setting accuracy {u'time_in_ms': 70.14107704, u'iteration': 296, u'gain': 0.001239997971, u'accuracy': 0.4169545408}
+setting accuracy {u'time_in_ms': 86.63892746, u'iteration': 297, u'gain': 0.001238447873, u'accuracy': 0.4181929887}
+gain  in the last epoch is  0.009950834285
+iterations completed 3.93526013541
+setting accuracy {u'time_in_ms': 279.5240879, u'iteration': 86, u'gain': 0.0001336541032, u'accuracy': 0.9885057471}
+setting accuracy {u'time_in_ms': 282.0718288, u'iteration': 87, u'gain': 0.0001306165099, u'accuracy': 0.9886363636}
+setting accuracy {u'time_in_ms': 283.8618755, u'iteration': 88, u'gain': 0.0001276813075, u'accuracy': 0.9887640449}
+gain  in the last epoch is  0.0003919519206
+total gain 0.0158408454929
+accuracy of the job logistic_regression is 0.735609
+accuracy of the job k-means is 0.418193
+accuracy of the job sigmoid is 0.988764
+iterations completed 4.31522174398
+setting accuracy {u'time_in_ms': 152.946949, u'iteration': 161, u'gain': 0.0008963795036, u'accuracy': 0.7365050048}
+setting accuracy {u'time_in_ms': 126.5819073, u'iteration': 162, u'gain': 0.0008908632871, u'accuracy': 0.7373958681}
+setting accuracy {u'time_in_ms': 104.9480438, u'iteration': 163, u'gain': 0.0008854145479, u'accuracy': 0.7382812827}
+setting accuracy {u'time_in_ms': 101.2859344, u'iteration': 164, u'gain': 0.0008800320554, u'accuracy': 0.7391613147}
+gain  in the last epoch is  0.003552689394
+iterations completed 9.96868721521
+setting accuracy {u'time_in_ms': 82.75914192, u'iteration': 298, u'gain': 0.001236895117, u'accuracy': 0.4194298838}
+setting accuracy {u'time_in_ms': 78.44185829, u'iteration': 299, u'gain': 0.001235339725, u'accuracy': 0.4206652235}
+setting accuracy {u'time_in_ms': 87.18109131, u'iteration': 300, u'gain': 0.001233781716, u'accuracy': 0.4218990053}
+setting accuracy {u'time_in_ms': 74.31316376, u'iteration': 301, u'gain': 0.001232221111, u'accuracy': 0.4231312264}
+setting accuracy {u'time_in_ms': 83.20188522, u'iteration': 302, u'gain': 0.00123065793, u'accuracy': 0.4243618843}
+setting accuracy {u'time_in_ms': 77.09479332, u'iteration': 303, u'gain': 0.001229092195, u'accuracy': 0.4255909765}
+setting accuracy {u'time_in_ms': 80.66797256, u'iteration': 304, u'gain': 0.001227523926, u'accuracy': 0.4268185004}
+setting accuracy {u'time_in_ms': 77.1420002, u'iteration': 305, u'gain': 0.001225953143, u'accuracy': 0.4280444536}
+setting accuracy {u'time_in_ms': 71.65408134, u'iteration': 306, u'gain': 0.001224379867, u'accuracy': 0.4292688334}
+gain  in the last epoch is  0.01107584473
+iterations completed 3.90907977119
+setting accuracy {u'time_in_ms': 281.3961506, u'iteration': 89, u'gain': 0.0001248439451, u'accuracy': 0.9888888889}
+setting accuracy {u'time_in_ms': 283.1101418, u'iteration': 90, u'gain': 0.0001221001221, u'accuracy': 0.989010989}
+setting accuracy {u'time_in_ms': 282.8929424, u'iteration': 91, u'gain': 0.0001194457716, u'accuracy': 0.9891304348}
+gain  in the last epoch is  0.0003663898388
+total gain 0.0149949239628
+accuracy of the job logistic_regression is 0.739161
+accuracy of the job k-means is 0.429269
+accuracy of the job sigmoid is 0.989130
+iterations completed 6.75454120432
+setting accuracy {u'time_in_ms': 97.71203995, u'iteration': 165, u'gain': 0.0008747146087, u'accuracy': 0.7400360293}
+setting accuracy {u'time_in_ms': 94.93112564, u'iteration': 166, u'gain': 0.0008694610358, u'accuracy': 0.7409054904}
+setting accuracy {u'time_in_ms': 312.4759197, u'iteration': 167, u'gain': 0.0008642701928, u'accuracy': 0.7417697606}
+setting accuracy {u'time_in_ms': 197.2608566, u'iteration': 168, u'gain': 0.0008591409626, u'accuracy': 0.7426289015}
+setting accuracy {u'time_in_ms': 95.55602074, u'iteration': 169, u'gain': 0.0008540722549, u'accuracy': 0.7434829738}
+setting accuracy {u'time_in_ms': 91.00818634, u'iteration': 170, u'gain': 0.0008490630046, u'accuracy': 0.7443320368}
+gain  in the last epoch is  0.0051707220594
+iterations completed 9.30541092148
+setting accuracy {u'time_in_ms': 88.65809441, u'iteration': 307, u'gain': 0.001222804118, u'accuracy': 0.4304916375}
+setting accuracy {u'time_in_ms': 73.24099541, u'iteration': 308, u'gain': 0.001221225918, u'accuracy': 0.4317128635}
+setting accuracy {u'time_in_ms': 81.58183098, u'iteration': 309, u'gain': 0.001219645286, u'accuracy': 0.4329325087}
+setting accuracy {u'time_in_ms': 75.82402229, u'iteration': 310, u'gain': 0.001218062243, u'accuracy': 0.434150571}
+setting accuracy {u'time_in_ms': 78.50384712, u'iteration': 311, u'gain': 0.001216476809, u'accuracy': 0.4353670478}
+setting accuracy {u'time_in_ms': 78.13692093, u'iteration': 312, u'gain': 0.001214889005, u'accuracy': 0.4365819368}
+setting accuracy {u'time_in_ms': 78.50813866, u'iteration': 313, u'gain': 0.001213298852, u'accuracy': 0.4377952357}
+setting accuracy {u'time_in_ms': 87.50796318, u'iteration': 314, u'gain': 0.00121170637, u'accuracy': 0.439006942}
+setting accuracy {u'time_in_ms': 76.77292824, u'iteration': 315, u'gain': 0.001210111579, u'accuracy': 0.4402170536}
+gain  in the last epoch is  0.01094822018
+iterations completed 3.71952070753
+setting accuracy {u'time_in_ms': 295.7370281, u'iteration': 92, u'gain': 0.0001168770453, u'accuracy': 0.9892473118}
+setting accuracy {u'time_in_ms': 280.2758217, u'iteration': 93, u'gain': 0.0001143902997, u'accuracy': 0.9893617021}
+setting accuracy {u'time_in_ms': 284.4479084, u'iteration': 94, u'gain': 0.0001119820829, u'accuracy': 0.9894736842}
+gain  in the last epoch is  0.0003432494279
+total gain 0.0164621916673
+accuracy of the job logistic_regression is 0.744332
+accuracy of the job k-means is 0.440217
+accuracy of the job sigmoid is 0.989474
+iterations completed 6.92054969561
+setting accuracy {u'time_in_ms': 95.3681469, u'iteration': 171, u'gain': 0.0008441121718, u'accuracy': 0.745176149}
+setting accuracy {u'time_in_ms': 118.2119846, u'iteration': 172, u'gain': 0.0008392187404, u'accuracy': 0.7460153677}
+setting accuracy {u'time_in_ms': 94.26403046, u'iteration': 173, u'gain': 0.0008343817179, u'accuracy': 0.7468497494}
+setting accuracy {u'time_in_ms': 88.4168148, u'iteration': 174, u'gain': 0.0008296001346, u'accuracy': 0.7476793496}
+setting accuracy {u'time_in_ms': 96.03500366, u'iteration': 175, u'gain': 0.0008248730426, u'accuracy': 0.7485042226}
+setting accuracy {u'time_in_ms': 88.95397186, u'iteration': 176, u'gain': 0.0008201995159, u'accuracy': 0.7493244221}
+gain  in the last epoch is  0.0049923853232
+iterations completed 10.5228450564
+setting accuracy {u'time_in_ms': 78.4008503, u'iteration': 316, u'gain': 0.001208514499, u'accuracy': 0.4414255681}
+setting accuracy {u'time_in_ms': 78.72509956, u'iteration': 317, u'gain': 0.001206915152, u'accuracy': 0.4426324833}
+setting accuracy {u'time_in_ms': 73.69184494, u'iteration': 318, u'gain': 0.001205313557, u'accuracy': 0.4438377968}
+setting accuracy {u'time_in_ms': 86.65204048, u'iteration': 319, u'gain': 0.001203709735, u'accuracy': 0.4450415065}
+setting accuracy {u'time_in_ms': 68.06206703, u'iteration': 320, u'gain': 0.001202103706, u'accuracy': 0.4462436102}
+setting accuracy {u'time_in_ms': 86.21406555, u'iteration': 321, u'gain': 0.00120049549, u'accuracy': 0.4474441057}
+setting accuracy {u'time_in_ms': 76.03311539, u'iteration': 322, u'gain': 0.001198885108, u'accuracy': 0.4486429908}
+setting accuracy {u'time_in_ms': 78.73606682, u'iteration': 323, u'gain': 0.00119727258, u'accuracy': 0.4498402634}
+setting accuracy {u'time_in_ms': 82.00788498, u'iteration': 324, u'gain': 0.001195657927, u'accuracy': 0.4510359214}
+setting accuracy {u'time_in_ms': 72.05104828, u'iteration': 325, u'gain': 0.001194041168, u'accuracy': 0.4522299625}
+gain  in the last epoch is  0.012012908922
+iterations completed 3.84133107245
+setting accuracy {u'time_in_ms': 286.3590717, u'iteration': 95, u'gain': 0.0001096491228, u'accuracy': 0.9895833333}
+setting accuracy {u'time_in_ms': 287.2920036, u'iteration': 96, u'gain': 0.0001073883162, u'accuracy': 0.9896907216}
+setting accuracy {u'time_in_ms': 282.2771072, u'iteration': 97, u'gain': 0.0001051967179, u'accuracy': 0.9897959184}
+gain  in the last epoch is  0.0003222341569
+total gain 0.0173275284021
+accuracy of the job logistic_regression is 0.749324
+accuracy of the job k-means is 0.452230
+accuracy of the job sigmoid is 0.989796

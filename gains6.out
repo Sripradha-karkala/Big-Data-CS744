@@ -1,0 +1,248 @@
+starting job logistic_regression
+starting job k-means
+starting job sigmoid
+running slaq
+1.05119626138
+accuracy of the job logistic_regression is 0.281699
+accuracy of the job k-means is 0.020997
+accuracy of the job sigmoid is 0.750000
+0.246193692356
+accuracy of the job logistic_regression is 0.359727
+accuracy of the job k-means is 0.022496
+accuracy of the job sigmoid is 0.916667
+0.099857451631
+accuracy of the job logistic_regression is 0.426251
+accuracy of the job k-means is 0.022496
+accuracy of the job sigmoid is 0.950000
+0.080389373844
+accuracy of the job logistic_regression is 0.497121
+accuracy of the job k-means is 0.025494
+accuracy of the job sigmoid is 0.956522
+0.066290993
+accuracy of the job logistic_regression is 0.560414
+accuracy of the job k-means is 0.028492
+accuracy of the job sigmoid is 0.956522
+0.049098198765
+accuracy of the job logistic_regression is 0.606515
+accuracy of the job k-means is 0.031490
+accuracy of the job sigmoid is 0.956522
+0.035918176163
+accuracy of the job logistic_regression is 0.637938
+accuracy of the job k-means is 0.035984
+accuracy of the job sigmoid is 0.956522
+0.039154367324
+accuracy of the job logistic_regression is 0.668107
+accuracy of the job k-means is 0.044970
+accuracy of the job sigmoid is 0.956522
+0.036739289055
+accuracy of the job logistic_regression is 0.686899
+accuracy of the job k-means is 0.062917
+accuracy of the job sigmoid is 0.956522
+0.043697336278
+accuracy of the job logistic_regression is 0.697807
+accuracy of the job k-means is 0.095706
+accuracy of the job sigmoid is 0.956522
+0.053371787393
+accuracy of the job logistic_regression is 0.702403
+accuracy of the job k-means is 0.144482
+accuracy of the job sigmoid is 0.956522
+0.025997246323
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.169353
+accuracy of the job sigmoid is 0.956522
+0.023212868803
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.192565
+accuracy of the job sigmoid is 0.956522
+0.037255149624
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.229821
+accuracy of the job sigmoid is 0.956522
+0.046320757856
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.276141
+accuracy of the job sigmoid is 0.956522
+0.01242350233
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.288565
+accuracy of the job sigmoid is 0.956522
+0.016414115985
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.304979
+accuracy of the job sigmoid is 0.956522
+0.046824131068
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.351803
+accuracy of the job sigmoid is 0.956522
+0.038790283241
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.390593
+accuracy of the job sigmoid is 0.956522
+0.033768545595
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.424362
+accuracy of the job sigmoid is 0.956522
+0.03499825794
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.459360
+accuracy of the job sigmoid is 0.956522
+0.035895352645
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.495255
+accuracy of the job sigmoid is 0.956522
+0.036435756764
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.531691
+accuracy of the job sigmoid is 0.956522
+0.042665330486
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.574357
+accuracy of the job sigmoid is 0.956522
+0.0139026742728
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.588259
+accuracy of the job sigmoid is 0.956522
+0.0106855060979
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.598945
+accuracy of the job sigmoid is 0.956522
+0.0225887302251
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.621533
+accuracy of the job sigmoid is 0.956522
+0.0285827392354
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.650116
+accuracy of the job sigmoid is 0.956522
+0.0268541270871
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.676970
+accuracy of the job sigmoid is 0.956522
+0.0244037718943
+accuracy of the job logistic_regression is 0.703530
+accuracy of the job k-means is 0.701374
+accuracy of the job sigmoid is 0.956522
+starting job logistic_regression
+starting job k-means
+starting job sigmoid
+running fair sched
+1.05119626138
+accuracy of the job logistic_regression is 0.281699
+accuracy of the job k-means is 0.020997
+accuracy of the job sigmoid is 0.750000
+0.225220658146
+accuracy of the job logistic_regression is 0.371314
+accuracy of the job k-means is 0.049460
+accuracy of the job sigmoid is 0.857143
+0.117674747319
+accuracy of the job logistic_regression is 0.410150
+accuracy of the job k-means is 0.076351
+accuracy of the job sigmoid is 0.909091
+0.091728006763
+accuracy of the job logistic_regression is 0.460070
+accuracy of the job k-means is 0.098678
+accuracy of the job sigmoid is 0.928571
+0.071883001024
+accuracy of the job logistic_regression is 0.497121
+accuracy of the job k-means is 0.120906
+accuracy of the job sigmoid is 0.941176
+0.062416268171
+accuracy of the job logistic_regression is 0.522734
+accuracy of the job k-means is 0.148885
+accuracy of the job sigmoid is 0.950000
+0.038528163601
+accuracy of the job logistic_regression is 0.544489
+accuracy of the job k-means is 0.159136
+accuracy of the job sigmoid is 0.956522
+0.037067220864
+accuracy of the job logistic_regression is 0.566323
+accuracy of the job k-means is 0.169353
+accuracy of the job sigmoid is 0.961538
+0.031675401947
+accuracy of the job logistic_regression is 0.585292
+accuracy of the job k-means is 0.178081
+accuracy of the job sigmoid is 0.965517
+0.031708029293
+accuracy of the job logistic_regression is 0.599780
+accuracy of the job k-means is 0.191121
+accuracy of the job sigmoid is 0.969697
+0.0294181422711
+accuracy of the job logistic_regression is 0.612950
+accuracy of the job k-means is 0.204093
+accuracy of the job sigmoid is 0.972973
+0.0276088474396
+accuracy of the job logistic_regression is 0.625020
+accuracy of the job k-means is 0.216995
+accuracy of the job sigmoid is 0.975610
+0.0230063105731
+accuracy of the job logistic_regression is 0.630698
+accuracy of the job k-means is 0.232660
+accuracy of the job sigmoid is 0.977273
+0.0256432463566
+accuracy of the job logistic_regression is 0.637938
+accuracy of the job k-means is 0.249613
+accuracy of the job sigmoid is 0.978723
+0.0243534934386
+accuracy of the job logistic_regression is 0.649797
+accuracy of the job k-means is 0.260831
+accuracy of the job sigmoid is 0.980000
+0.0274026617957
+accuracy of the job logistic_regression is 0.660757
+accuracy of the job k-means is 0.276141
+accuracy of the job sigmoid is 0.981132
+0.0096171053922
+accuracy of the job logistic_regression is 0.665212
+accuracy of the job k-means is 0.280293
+accuracy of the job sigmoid is 0.982143
+0.0262130334665
+accuracy of the job logistic_regression is 0.675102
+accuracy of the job k-means is 0.295425
+accuracy of the job sigmoid is 0.983333
+0.0223232597796
+accuracy of the job logistic_regression is 0.684359
+accuracy of the job k-means is 0.307697
+accuracy of the job sigmoid is 0.984127
+0.0219616100515
+accuracy of the job logistic_regression is 0.689395
+accuracy of the job k-means is 0.323902
+accuracy of the job sigmoid is 0.984848
+0.0199288596464
+accuracy of the job logistic_regression is 0.696635
+accuracy of the job k-means is 0.335932
+accuracy of the job sigmoid is 0.985507
+0.0244876231094
+accuracy of the job logistic_regression is 0.704648
+accuracy of the job k-means is 0.351803
+accuracy of the job sigmoid is 0.986111
+0.0216359804441
+accuracy of the job logistic_regression is 0.711180
+accuracy of the job k-means is 0.366176
+accuracy of the job sigmoid is 0.986842
+0.0222322273077
+accuracy of the job logistic_regression is 0.717429
+accuracy of the job k-means is 0.381659
+accuracy of the job sigmoid is 0.987342
+0.0179279575023
+accuracy of the job logistic_regression is 0.723421
+accuracy of the job k-means is 0.393133
+accuracy of the job sigmoid is 0.987805
+0.022366697564
+accuracy of the job logistic_regression is 0.730111
+accuracy of the job k-means is 0.408242
+accuracy of the job sigmoid is 0.988372
+0.0158408454929
+accuracy of the job logistic_regression is 0.735609
+accuracy of the job k-means is 0.418193
+accuracy of the job sigmoid is 0.988764
+0.0149949239628
+accuracy of the job logistic_regression is 0.739161
+accuracy of the job k-means is 0.429269
+accuracy of the job sigmoid is 0.989130
+0.0164621916673
+accuracy of the job logistic_regression is 0.744332
+accuracy of the job k-means is 0.440217
+accuracy of the job sigmoid is 0.989474
+0.0173275284021
+accuracy of the job logistic_regression is 0.749324
+accuracy of the job k-means is 0.452230
+accuracy of the job sigmoid is 0.989796

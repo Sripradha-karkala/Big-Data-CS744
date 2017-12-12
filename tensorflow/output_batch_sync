@@ -1,0 +1,385 @@
+2017-12-04 00:38:22,477 INFO     Iteration no: 100
+2017-12-04 00:38:25,172 INFO     Time taken: 2.694564
+2017-12-04 00:39:07,435 INFO     Accuracy: 0.255300
+2017-12-04 00:39:09,053 INFO     Iteration no: 99
+2017-12-04 00:39:12,019 INFO     Time taken: 2.965894
+2017-12-04 00:39:12,020 INFO     Iteration no: 98
+2017-12-04 00:39:14,388 INFO     Time taken: 2.368205
+2017-12-04 00:39:14,388 INFO     Iteration no: 97
+2017-12-04 00:39:17,021 INFO     Time taken: 2.632953
+2017-12-04 00:39:17,022 INFO     Iteration no: 96
+2017-12-04 00:39:19,690 INFO     Time taken: 2.668069
+2017-12-04 00:39:19,691 INFO     Iteration no: 95
+2017-12-04 00:39:22,105 INFO     Time taken: 2.413542
+2017-12-04 00:39:22,105 INFO     Iteration no: 94
+2017-12-04 00:39:24,282 INFO     Time taken: 2.177006
+2017-12-04 00:39:24,283 INFO     Iteration no: 93
+2017-12-04 00:39:26,452 INFO     Time taken: 2.168855
+2017-12-04 00:39:26,452 INFO     Iteration no: 92
+2017-12-04 00:39:28,635 INFO     Time taken: 2.182247
+2017-12-04 00:39:28,635 INFO     Iteration no: 91
+2017-12-04 00:39:30,936 INFO     Time taken: 2.300915
+2017-12-04 00:39:30,937 INFO     Iteration no: 90
+2017-12-04 00:39:32,960 INFO     Time taken: 2.022901
+2017-12-04 00:39:55,446 INFO     Accuracy: 0.537200
+2017-12-04 00:39:57,069 INFO     Iteration no: 89
+2017-12-04 00:40:00,097 INFO     Time taken: 3.027984
+2017-12-04 00:40:00,097 INFO     Iteration no: 88
+2017-12-04 00:40:02,943 INFO     Time taken: 2.845328
+2017-12-04 00:40:02,943 INFO     Iteration no: 87
+2017-12-04 00:40:05,705 INFO     Time taken: 2.761787
+2017-12-04 00:40:05,705 INFO     Iteration no: 86
+2017-12-04 00:40:08,746 INFO     Time taken: 3.040669
+2017-12-04 00:40:08,747 INFO     Iteration no: 85
+2017-12-04 00:40:11,594 INFO     Time taken: 2.846592
+2017-12-04 00:40:11,594 INFO     Iteration no: 84
+2017-12-04 00:40:14,112 INFO     Time taken: 2.518343
+2017-12-04 00:40:14,113 INFO     Iteration no: 83
+2017-12-04 00:40:16,846 INFO     Time taken: 2.733133
+2017-12-04 00:40:16,846 INFO     Iteration no: 82
+2017-12-04 00:40:19,206 INFO     Time taken: 2.359845
+2017-12-04 00:40:19,207 INFO     Iteration no: 81
+2017-12-04 00:40:21,660 INFO     Time taken: 2.453331
+2017-12-04 00:40:21,660 INFO     Iteration no: 80
+2017-12-04 00:40:23,894 INFO     Time taken: 2.233377
+2017-12-04 00:40:45,246 INFO     Accuracy: 0.524500
+2017-12-04 00:40:46,701 INFO     Iteration no: 79
+2017-12-04 00:40:49,303 INFO     Time taken: 2.601870
+2017-12-04 00:40:49,303 INFO     Iteration no: 78
+2017-12-04 00:40:51,961 INFO     Time taken: 2.657321
+2017-12-04 00:40:51,961 INFO     Iteration no: 77
+2017-12-04 00:40:54,610 INFO     Time taken: 2.649285
+2017-12-04 00:40:54,611 INFO     Iteration no: 76
+2017-12-04 00:40:57,266 INFO     Time taken: 2.654857
+2017-12-04 00:40:57,266 INFO     Iteration no: 75
+2017-12-04 00:41:00,266 INFO     Time taken: 2.999988
+2017-12-04 00:41:00,267 INFO     Iteration no: 74
+2017-12-04 00:41:03,100 INFO     Time taken: 2.832722
+2017-12-04 00:41:03,101 INFO     Iteration no: 73
+2017-12-04 00:41:05,568 INFO     Time taken: 2.466540
+2017-12-04 00:41:05,568 INFO     Iteration no: 72
+2017-12-04 00:41:08,069 INFO     Time taken: 2.499773
+2017-12-04 00:41:08,070 INFO     Iteration no: 71
+2017-12-04 00:41:10,370 INFO     Time taken: 2.300579
+2017-12-04 00:41:10,371 INFO     Iteration no: 70
+2017-12-04 00:41:12,573 INFO     Time taken: 2.202749
+2017-12-04 00:41:32,459 INFO     Accuracy: 0.534000
+2017-12-04 00:41:34,342 INFO     Iteration no: 69
+2017-12-04 00:41:36,569 INFO     Time taken: 2.226802
+2017-12-04 00:41:36,569 INFO     Iteration no: 68
+2017-12-04 00:41:38,895 INFO     Time taken: 2.325970
+2017-12-04 00:41:38,895 INFO     Iteration no: 67
+2017-12-04 00:41:40,840 INFO     Time taken: 1.944181
+2017-12-04 00:41:40,840 INFO     Iteration no: 66
+2017-12-04 00:41:43,039 INFO     Time taken: 2.198642
+2017-12-04 00:41:43,039 INFO     Iteration no: 65
+2017-12-04 00:41:45,297 INFO     Time taken: 2.257891
+2017-12-04 00:41:45,298 INFO     Iteration no: 64
+2017-12-04 00:41:47,590 INFO     Time taken: 2.292297
+2017-12-04 00:41:47,590 INFO     Iteration no: 63
+2017-12-04 00:41:49,683 INFO     Time taken: 2.092604
+2017-12-04 00:41:49,683 INFO     Iteration no: 62
+2017-12-04 00:41:51,789 INFO     Time taken: 2.105272
+2017-12-04 00:41:51,789 INFO     Iteration no: 61
+2017-12-04 00:41:54,124 INFO     Time taken: 2.334563
+2017-12-04 00:41:54,124 INFO     Iteration no: 60
+2017-12-04 00:41:56,213 INFO     Time taken: 2.088735
+2017-12-04 00:42:15,063 INFO     Accuracy: 0.539800
+2017-12-04 00:42:16,568 INFO     Iteration no: 59
+2017-12-04 00:42:18,812 INFO     Time taken: 2.244607
+2017-12-04 00:42:18,813 INFO     Iteration no: 58
+2017-12-04 00:42:21,049 INFO     Time taken: 2.236000
+2017-12-04 00:42:21,052 INFO     Iteration no: 57
+2017-12-04 00:42:23,574 INFO     Time taken: 2.521418
+2017-12-04 00:42:23,574 INFO     Iteration no: 56
+2017-12-04 00:42:26,167 INFO     Time taken: 2.592631
+2017-12-04 00:42:26,167 INFO     Iteration no: 55
+2017-12-04 00:42:28,405 INFO     Time taken: 2.237623
+2017-12-04 00:42:28,405 INFO     Iteration no: 54
+2017-12-04 00:42:30,808 INFO     Time taken: 2.402616
+2017-12-04 00:42:30,809 INFO     Iteration no: 53
+2017-12-04 00:42:33,716 INFO     Time taken: 2.907573
+2017-12-04 00:42:33,716 INFO     Iteration no: 52
+2017-12-04 00:42:36,355 INFO     Time taken: 2.638169
+2017-12-04 00:42:36,356 INFO     Iteration no: 51
+2017-12-04 00:42:38,843 INFO     Time taken: 2.487120
+2017-12-04 00:42:38,843 INFO     Iteration no: 50
+2017-12-04 00:42:41,200 INFO     Time taken: 2.356802
+2017-12-04 00:43:03,606 INFO     Accuracy: 0.541900
+2017-12-04 00:43:05,200 INFO     Iteration no: 49
+2017-12-04 00:43:07,519 INFO     Time taken: 2.318197
+2017-12-04 00:43:07,519 INFO     Iteration no: 48
+2017-12-04 00:43:09,915 INFO     Time taken: 2.395699
+2017-12-04 00:43:09,915 INFO     Iteration no: 47
+2017-12-04 00:43:12,422 INFO     Time taken: 2.507201
+2017-12-04 00:43:12,423 INFO     Iteration no: 46
+2017-12-04 00:43:14,449 INFO     Time taken: 2.026129
+2017-12-04 00:43:14,449 INFO     Iteration no: 45
+2017-12-04 00:43:16,668 INFO     Time taken: 2.218306
+2017-12-04 00:43:16,668 INFO     Iteration no: 44
+2017-12-04 00:43:18,600 INFO     Time taken: 1.931665
+2017-12-04 00:43:18,600 INFO     Iteration no: 43
+2017-12-04 00:43:20,905 INFO     Time taken: 2.305108
+2017-12-04 00:43:20,906 INFO     Iteration no: 42
+2017-12-04 00:43:23,350 INFO     Time taken: 2.444525
+2017-12-04 00:43:23,351 INFO     Iteration no: 41
+2017-12-04 00:43:25,755 INFO     Time taken: 2.403990
+2017-12-04 00:43:25,755 INFO     Iteration no: 40
+2017-12-04 00:43:28,133 INFO     Time taken: 2.377335
+2017-12-04 00:43:50,710 INFO     Accuracy: 0.406000
+2017-12-04 00:43:52,398 INFO     Iteration no: 39
+2017-12-04 00:43:54,635 INFO     Time taken: 2.236753
+2017-12-04 00:43:54,635 INFO     Iteration no: 38
+2017-12-04 00:43:56,967 INFO     Time taken: 2.331259
+2017-12-04 00:43:56,967 INFO     Iteration no: 37
+2017-12-04 00:43:59,293 INFO     Time taken: 2.326081
+2017-12-04 00:43:59,293 INFO     Iteration no: 36
+2017-12-04 00:44:01,433 INFO     Time taken: 2.139757
+2017-12-04 00:44:01,434 INFO     Iteration no: 35
+2017-12-04 00:44:03,823 INFO     Time taken: 2.388839
+2017-12-04 00:44:03,823 INFO     Iteration no: 34
+2017-12-04 00:44:05,987 INFO     Time taken: 2.163641
+2017-12-04 00:44:05,987 INFO     Iteration no: 33
+2017-12-04 00:44:08,197 INFO     Time taken: 2.209714
+2017-12-04 00:44:08,197 INFO     Iteration no: 32
+2017-12-04 00:44:10,324 INFO     Time taken: 2.126964
+2017-12-04 00:44:10,325 INFO     Iteration no: 31
+2017-12-04 00:44:12,762 INFO     Time taken: 2.436664
+2017-12-04 00:44:12,762 INFO     Iteration no: 30
+2017-12-04 00:44:15,612 INFO     Time taken: 2.850451
+2017-12-04 00:44:36,552 INFO     Accuracy: 0.562400
+2017-12-04 00:44:38,356 INFO     Iteration no: 29
+2017-12-04 00:44:40,628 INFO     Time taken: 2.271706
+2017-12-04 00:44:40,628 INFO     Iteration no: 28
+2017-12-04 00:44:43,136 INFO     Time taken: 2.507966
+2017-12-04 00:44:43,136 INFO     Iteration no: 27
+2017-12-04 00:44:46,374 INFO     Time taken: 3.237990
+2017-12-04 00:44:46,375 INFO     Iteration no: 26
+2017-12-04 00:44:49,728 INFO     Time taken: 3.353129
+2017-12-04 00:44:49,728 INFO     Iteration no: 25
+2017-12-04 00:44:52,578 INFO     Time taken: 2.849310
+2017-12-04 00:44:52,578 INFO     Iteration no: 24
+2017-12-04 00:44:55,547 INFO     Time taken: 2.968766
+2017-12-04 00:44:55,547 INFO     Iteration no: 23
+2017-12-04 00:44:57,724 INFO     Time taken: 2.175912
+2017-12-04 00:44:57,724 INFO     Iteration no: 22
+2017-12-04 00:45:00,069 INFO     Time taken: 2.345501
+2017-12-04 00:45:00,070 INFO     Iteration no: 21
+2017-12-04 00:45:02,221 INFO     Time taken: 2.150748
+2017-12-04 00:45:02,221 INFO     Iteration no: 20
+2017-12-04 00:45:04,701 INFO     Time taken: 2.480112
+2017-12-04 00:45:24,348 INFO     Accuracy: 0.421200
+2017-12-04 00:45:25,853 INFO     Iteration no: 19
+2017-12-04 00:45:28,801 INFO     Time taken: 2.947523
+2017-12-04 00:45:28,801 INFO     Iteration no: 18
+2017-12-04 00:45:31,362 INFO     Time taken: 2.560881
+2017-12-04 00:45:31,362 INFO     Iteration no: 17
+2017-12-04 00:45:33,976 INFO     Time taken: 2.613264
+2017-12-04 00:45:33,977 INFO     Iteration no: 16
+2017-12-04 00:45:36,372 INFO     Time taken: 2.394985
+2017-12-04 00:45:36,372 INFO     Iteration no: 15
+2017-12-04 00:45:38,397 INFO     Time taken: 1.928996
+2017-12-04 00:45:38,397 INFO     Iteration no: 14
+2017-12-04 00:45:40,743 INFO     Time taken: 2.345915
+2017-12-04 00:45:40,744 INFO     Iteration no: 13
+2017-12-04 00:45:42,856 INFO     Time taken: 2.112059
+2017-12-04 00:45:42,857 INFO     Iteration no: 12
+2017-12-04 00:45:45,531 INFO     Time taken: 2.673655
+2017-12-04 00:45:45,531 INFO     Iteration no: 11
+2017-12-04 00:45:47,832 INFO     Time taken: 2.300655
+2017-12-04 00:45:47,832 INFO     Iteration no: 10
+2017-12-04 00:45:50,089 INFO     Time taken: 2.256914
+2017-12-04 00:46:12,770 INFO     Accuracy: 0.416100
+2017-12-04 00:46:14,149 INFO     Iteration no: 9
+2017-12-04 00:46:16,289 INFO     Time taken: 2.139400
+2017-12-04 00:46:16,289 INFO     Iteration no: 8
+2017-12-04 00:46:18,442 INFO     Time taken: 2.152798
+2017-12-04 00:46:18,442 INFO     Iteration no: 7
+2017-12-04 00:46:20,926 INFO     Time taken: 2.482915
+2017-12-04 00:46:20,926 INFO     Iteration no: 6
+2017-12-04 00:46:23,036 INFO     Time taken: 2.110500
+2017-12-04 00:46:23,037 INFO     Iteration no: 5
+2017-12-04 00:46:25,182 INFO     Time taken: 2.145191
+2017-12-04 00:46:25,182 INFO     Iteration no: 4
+2017-12-04 00:46:27,485 INFO     Time taken: 2.302445
+2017-12-04 00:46:27,485 INFO     Iteration no: 3
+2017-12-04 00:46:30,018 INFO     Time taken: 2.532537
+2017-12-04 00:46:30,018 INFO     Iteration no: 2
+2017-12-04 00:46:32,271 INFO     Time taken: 2.252700
+2017-12-04 00:46:32,271 INFO     Iteration no: 1
+2017-12-04 00:46:34,467 INFO     Time taken: 2.196277
+2017-12-04 00:46:34,468 INFO     Iteration no: 0
+2017-12-04 00:46:36,876 INFO     Time taken: 2.408451
+2017-12-04 00:46:56,444 INFO     Accuracy: 0.564900
+2017-12-04 00:52:22,727 INFO     Iteration no: 100
+2017-12-04 00:52:25,417 INFO     Time taken: 2.689667
+2017-12-04 00:53:09,571 INFO     Accuracy: 0.255300
+2017-12-04 00:53:11,159 INFO     Iteration no: 99
+2017-12-04 00:53:13,908 INFO     Time taken: 2.748674
+2017-12-04 00:53:13,908 INFO     Iteration no: 98
+2017-12-04 00:53:16,632 INFO     Time taken: 2.723627
+2017-12-04 00:53:16,632 INFO     Iteration no: 97
+2017-12-04 00:53:18,666 INFO     Time taken: 2.033026
+2017-12-04 00:53:18,666 INFO     Iteration no: 96
+2017-12-04 00:53:21,175 INFO     Time taken: 2.509154
+2017-12-04 00:53:21,176 INFO     Iteration no: 95
+2017-12-04 00:53:23,228 INFO     Time taken: 2.052589
+2017-12-04 00:53:23,229 INFO     Iteration no: 94
+2017-12-04 00:53:25,620 INFO     Time taken: 2.390955
+2017-12-04 00:53:25,620 INFO     Iteration no: 93
+2017-12-04 00:53:27,777 INFO     Time taken: 2.157221
+2017-12-04 00:53:27,778 INFO     Iteration no: 92
+2017-12-04 00:53:30,197 INFO     Time taken: 2.419062
+2017-12-04 00:53:30,197 INFO     Iteration no: 91
+2017-12-04 00:53:32,678 INFO     Time taken: 2.480864
+2017-12-04 00:53:32,679 INFO     Iteration no: 90
+2017-12-04 00:53:34,762 INFO     Time taken: 2.082886
+2017-12-04 00:53:54,306 INFO     Accuracy: 0.399300
+2017-12-04 00:53:55,979 INFO     Iteration no: 89
+2017-12-04 00:53:58,333 INFO     Time taken: 2.354070
+2017-12-04 00:53:58,333 INFO     Iteration no: 88
+2017-12-04 00:54:00,590 INFO     Time taken: 2.256236
+2017-12-04 00:54:00,590 INFO     Iteration no: 87
+2017-12-04 00:54:03,535 INFO     Time taken: 2.945147
+2017-12-04 00:54:03,535 INFO     Iteration no: 86
+2017-12-04 00:54:06,507 INFO     Time taken: 2.971737
+2017-12-04 00:54:06,507 INFO     Iteration no: 85
+2017-12-04 00:54:08,718 INFO     Time taken: 2.210003
+2017-12-04 00:54:08,718 INFO     Iteration no: 84
+2017-12-04 00:54:10,913 INFO     Time taken: 2.195230
+2017-12-04 00:54:10,913 INFO     Iteration no: 83
+2017-12-04 00:54:12,946 INFO     Time taken: 2.032143
+2017-12-04 00:54:12,946 INFO     Iteration no: 82
+2017-12-04 00:54:15,158 INFO     Time taken: 2.212272
+2017-12-04 00:54:15,158 INFO     Iteration no: 81
+2017-12-04 00:54:17,411 INFO     Time taken: 2.253002
+2017-12-04 00:54:17,412 INFO     Iteration no: 80
+2017-12-04 00:54:19,528 INFO     Time taken: 2.116466
+2017-12-04 00:54:38,320 INFO     Accuracy: 0.547300
+2017-12-04 00:54:39,947 INFO     Iteration no: 79
+2017-12-04 00:54:42,451 INFO     Time taken: 2.503068
+2017-12-04 00:54:42,451 INFO     Iteration no: 78
+2017-12-04 00:54:44,656 INFO     Time taken: 2.205549
+2017-12-04 00:54:44,657 INFO     Iteration no: 77
+2017-12-04 00:54:46,753 INFO     Time taken: 2.096123
+2017-12-04 00:54:46,753 INFO     Iteration no: 76
+2017-12-04 00:54:48,799 INFO     Time taken: 2.045870
+2017-12-04 00:54:48,800 INFO     Iteration no: 75
+2017-12-04 00:54:51,026 INFO     Time taken: 2.226157
+2017-12-04 00:54:51,026 INFO     Iteration no: 74
+2017-12-04 00:54:53,353 INFO     Time taken: 2.326592
+2017-12-04 00:54:53,353 INFO     Iteration no: 73
+2017-12-04 00:54:55,576 INFO     Time taken: 2.222916
+2017-12-04 00:54:55,577 INFO     Iteration no: 72
+2017-12-04 00:54:57,984 INFO     Time taken: 2.407710
+2017-12-04 00:54:57,985 INFO     Iteration no: 71
+2017-12-04 00:55:00,274 INFO     Time taken: 2.289576
+2017-12-04 00:55:00,275 INFO     Iteration no: 70
+2017-12-04 00:55:02,762 INFO     Time taken: 2.487426
+2017-12-04 00:55:23,200 INFO     Accuracy: 0.551600
+2017-12-04 00:55:24,810 INFO     Iteration no: 69
+2017-12-04 00:55:27,640 INFO     Time taken: 2.829661
+2017-12-04 00:55:27,641 INFO     Iteration no: 68
+2017-12-04 00:55:29,836 INFO     Time taken: 2.195364
+2017-12-04 00:55:29,837 INFO     Iteration no: 67
+2017-12-04 00:55:32,263 INFO     Time taken: 2.426025
+2017-12-04 00:55:32,263 INFO     Iteration no: 66
+2017-12-04 00:55:35,118 INFO     Error reported to Coordinator: <class 'tensorflow.python.framework.errors.CancelledError'>, RunManyGraphs
+2017-12-04 01:33:43,206 INFO     Iteration no: 100
+2017-12-04 01:33:43,281 INFO     Error reported to Coordinator: <class 'tensorflow.python.framework.errors.InvalidArgumentError'>, Rank of input SparseTensor should be > 1, but saw rank: 1
+	 [[Node: batch/SerializeManySparse_1 = SerializeManySparse[T=DT_FLOAT, _device="/job:worker/replica:0/task:0/cpu:0"](ParseSingleExample_1/Slice_Indices_value, ParseSingleExample_1/ParseExample/ParseExample:3, ParseSingleExample_1/Squeeze_Shape_value)]]
+
+Caused by op u'batch/SerializeManySparse_1', defined at:
+  File "QuestionAPart2_btch.py", line 127, in <module>
+    capacity = 10000, enqueue_many = True)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/training/input.py", line 583, in batch
+    tensor_list, enqueue_many)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/training/input.py", line 377, in _serialize_sparse_tensors
+    serialized_list = [_maybe_serialize(t) for t in tensor_list]
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/training/input.py", line 374, in _maybe_serialize
+    return (sparse_ops.serialize_many_sparse(t) if enqueue_many
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/sparse_ops.py", line 1131, in serialize_many_sparse
+    name=name)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/gen_sparse_ops.py", line 118, in _serialize_many_sparse
+    sparse_shape=sparse_shape, name=name)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Rank of input SparseTensor should be > 1, but saw rank: 1
+	 [[Node: batch/SerializeManySparse_1 = SerializeManySparse[T=DT_FLOAT, _device="/job:worker/replica:0/task:0/cpu:0"](ParseSingleExample_1/Slice_Indices_value, ParseSingleExample_1/ParseExample/ParseExample:3, ParseSingleExample_1/Squeeze_Shape_value)]]
+
+2017-12-04 01:37:43,691 INFO     Iteration no: 100
+2017-12-04 01:37:43,765 INFO     Error reported to Coordinator: <class 'tensorflow.python.framework.errors.InvalidArgumentError'>, Rank of input SparseTensor should be > 1, but saw rank: 1
+	 [[Node: batch_4/SerializeManySparse = SerializeManySparse[T=DT_INT64, _device="/job:worker/replica:0/task:4/cpu:0"](ParseSingleExample_5/Slice_Indices_index, ParseSingleExample_5/ParseExample/ParseExample:2, ParseSingleExample_5/Squeeze_Shape_index)]]
+
+Caused by op u'batch_4/SerializeManySparse', defined at:
+  File "QuestionAPart2_btch.py", line 127, in <module>
+    capacity = 10000, enqueue_many = True)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/training/input.py", line 583, in batch
+    tensor_list, enqueue_many)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/training/input.py", line 377, in _serialize_sparse_tensors
+    serialized_list = [_maybe_serialize(t) for t in tensor_list]
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/training/input.py", line 374, in _maybe_serialize
+    return (sparse_ops.serialize_many_sparse(t) if enqueue_many
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/sparse_ops.py", line 1131, in serialize_many_sparse
+    name=name)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/gen_sparse_ops.py", line 118, in _serialize_many_sparse
+    sparse_shape=sparse_shape, name=name)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Rank of input SparseTensor should be > 1, but saw rank: 1
+	 [[Node: batch_4/SerializeManySparse = SerializeManySparse[T=DT_INT64, _device="/job:worker/replica:0/task:4/cpu:0"](ParseSingleExample_5/Slice_Indices_index, ParseSingleExample_5/ParseExample/ParseExample:2, ParseSingleExample_5/Squeeze_Shape_index)]]
+
+2017-12-04 01:38:17,514 INFO     Iteration no: 100
+2017-12-04 01:38:17,538 INFO     Error reported to Coordinator: <class 'tensorflow.python.framework.errors.NotFoundError'>, /home/ubuntu/tensorflow-datatfrecords04
+	 [[Node: ReaderRead_1 = ReaderRead[_class=["loc:@TFRecordReader_1", "loc:@input_producer_1"], _device="/job:worker/replica:0/task:0/cpu:0"](TFRecordReader_1, input_producer_1)]]
+
+Caused by op u'ReaderRead_1', defined at:
+  File "QuestionAPart2_btch.py", line 107, in <module>
+    _, serialized_example = reader.read(filename_queue)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/io_ops.py", line 267, in read
+    return gen_io_ops._reader_read(self._reader_ref, queue_ref, name=name)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/gen_io_ops.py", line 176, in _reader_read
+    queue_handle=queue_handle, name=name)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+
+NotFoundError (see above for traceback): /home/ubuntu/tensorflow-datatfrecords04
+	 [[Node: ReaderRead_1 = ReaderRead[_class=["loc:@TFRecordReader_1", "loc:@input_producer_1"], _device="/job:worker/replica:0/task:0/cpu:0"](TFRecordReader_1, input_producer_1)]]
+
+2017-12-04 01:47:31,451 INFO     Iteration no: 100
+2017-12-04 01:47:31,555 INFO     Error reported to Coordinator: <class 'tensorflow.python.framework.errors.NotFoundError'>, /home/ubuntu/tensorflow-datatfrecords04
+	 [[Node: ReaderRead_1 = ReaderRead[_class=["loc:@TFRecordReader_1", "loc:@input_producer_1"], _device="/job:worker/replica:0/task:0/cpu:0"](TFRecordReader_1, input_producer_1)]]
+
+Caused by op u'ReaderRead_1', defined at:
+  File "QuestionAPart2_btch.py", line 107, in <module>
+    _, serialized_example = reader.read(filename_queue)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/io_ops.py", line 267, in read
+    return gen_io_ops._reader_read(self._reader_ref, queue_ref, name=name)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/ops/gen_io_ops.py", line 176, in _reader_read
+    queue_handle=queue_handle, name=name)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/op_def_library.py", line 749, in apply_op
+    op_def=op_def)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/ops.py", line 2380, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/ops.py", line 1298, in __init__
+    self._traceback = _extract_stack()
+
+NotFoundError (see above for traceback): /home/ubuntu/tensorflow-datatfrecords04
+	 [[Node: ReaderRead_1 = ReaderRead[_class=["loc:@TFRecordReader_1", "loc:@input_producer_1"], _device="/job:worker/replica:0/task:0/cpu:0"](TFRecordReader_1, input_producer_1)]]
+
+2017-12-04 01:48:37,660 INFO     Iteration no: 100
+2017-12-04 02:01:36,498 INFO     Iteration no: 100

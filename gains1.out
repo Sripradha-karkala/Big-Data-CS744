@@ -1,0 +1,18 @@
+starting job logistic_regression
+starting job k-means
+starting job sigmoid
+running slaq
+0.77888066481
+0.351842622259
+0.13375589177
+0.088424575302
+0.053852328391
+starting job logistic_regression
+starting job k-means
+starting job sigmoid
+running fair sched
+0.77888066481
+0.295472695496
+0.168921925356
+0.113972959374
+0.082956727025

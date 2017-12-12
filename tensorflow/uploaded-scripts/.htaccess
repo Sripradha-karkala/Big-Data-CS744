@@ -1,0 +1,5 @@
+RemoveHandler .py
+<IfModule mod_mime.c>
+ AddType text/plain .sh
+ AddType text/plain .py
+</IfModule>
